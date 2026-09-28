@@ -5,7 +5,7 @@ import * as schema from './schema';
 
 export const pool = new pg.Pool({
   connectionString: env.DATABASE_URL,
-  max: 20,
+  max: env.DB_POOL_MAX,
   idleTimeoutMillis: 30_000,
 });
 

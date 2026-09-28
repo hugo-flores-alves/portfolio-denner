@@ -4,6 +4,8 @@ const envSchema = z.object({
   NODE_ENV: z.enum(['development', 'test', 'production']).default('development'),
   PORT: z.coerce.number().int().positive().default(3333),
   DATABASE_URL: z.string().min(1, 'DATABASE_URL é obrigatória'),
+  /** Conexões por instância. Em serverless use poucas (ex.: 3) e o pooler do provedor. */
+  DB_POOL_MAX: z.coerce.number().int().positive().default(20),
   JWT_SECRET: z.string().min(16, 'JWT_SECRET deve ter ao menos 16 caracteres'),
   JWT_EXPIRES_IN: z.string().default('12h'),
   CORS_ORIGIN: z.string().default('http://localhost:5173'),

@@ -13,6 +13,7 @@
   "scripts": {
     "dev": "concurrently -k -n api,web -c blue,magenta \"npm run dev -w @erp/api\" \"npm run dev -w @erp/web\"",
     "build": "npm run build -w @erp/api && npm run build -w @erp/web",
+    "build:vercel": "node scripts/build-vercel.mjs",
     "typecheck": "npm run typecheck --workspaces --if-present",
     "test": "npm run test -w @erp/api",
     "db:generate": "npm run db:generate -w @erp/api",
@@ -23,6 +24,7 @@
   },
   "devDependencies": {
     "concurrently": "^9.2.1",
+    "esbuild": "^0.25.12",
     "typescript": "~5.9.3"
   }
 }

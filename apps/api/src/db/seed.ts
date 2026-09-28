@@ -34,7 +34,7 @@ import {
 
 export const DEFAULT_PASSWORD = 'Senha@123';
 
-const ROLE_DEFINITIONS: Array<{
+export const ROLE_DEFINITIONS: Array<{
   name: string;
   description: string;
   scope: 'GLOBAL' | 'STORE';
