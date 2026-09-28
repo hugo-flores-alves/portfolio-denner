@@ -16,6 +16,7 @@ import { products, stockTransferItems, stockTransfers, stores, users } from '../
 import { badRequest, conflict, forbidden, notFound } from '../../lib/errors';
 import { nextNumber } from '../../lib/counters';
 import { paginationSchema, toLimitOffset } from '../../lib/pagination';
+import { outerRef } from '../../lib/sql';
 import { optionalText, uuidSchema } from '../../lib/validation';
 import { hasGlobalAccess, type AuthContext } from '../auth/auth-context';
 import { assertActiveStore, canAccessStore, resolveReadScope, resolveWriteStore } from '../auth/store-scope';
@@ -166,7 +167,7 @@ const transferColumns = {
   toStoreName: toStore.name,
   createdByName: createdBy.name,
   receivedByName: receivedBy.name,
-  itemCount: sql<number>`(select coalesce(sum(${stockTransferItems.quantity}), 0)::int from ${stockTransferItems} where ${stockTransferItems.transferId} = ${stockTransfers.id})`,
+  itemCount: sql<number>`(select coalesce(sum(ti.quantity), 0)::int from ${stockTransferItems} ti where ti.transfer_id = ${outerRef(stockTransfers.id)})`,
 };
 
 function transferQuery() {

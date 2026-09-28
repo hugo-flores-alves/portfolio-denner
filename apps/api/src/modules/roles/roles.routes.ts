@@ -5,6 +5,7 @@ import { ALL_PERMISSIONS, isPermission, ROLE_SCOPES } from '@erp/shared';
 import { db, type Executor } from '../../db/client';
 import { rolePermissions, roles, users } from '../../db/schema';
 import { conflict, forbidden, notFound } from '../../lib/errors';
+import { outerRef } from '../../lib/sql';
 import { idParamsSchema, optionalText } from '../../lib/validation';
 import { getAuth, requireAnyPermission, requirePermission } from '../../middleware/auth';
 import { assertCanManageRole, canManageRole } from './role-guards';
@@ -33,7 +34,7 @@ async function loadRoles(executor: Executor, ids?: string[]) {
       scope: roles.scope,
       isSystem: roles.isSystem,
       createdAt: roles.createdAt,
-      userCount: sql<number>`(select count(*)::int from ${users} where ${users.roleId} = ${roles.id} and ${users.isActive})`,
+      userCount: sql<number>`(select count(*)::int from ${users} u where u.role_id = ${outerRef(roles.id)} and u.is_active)`,
     })
     .from(roles)
     .where(ids ? inArray(roles.id, ids) : undefined)

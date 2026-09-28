@@ -226,3 +226,27 @@ describe('Dashboard', () => {
     expect(low.body.data.map((p: { sku: string }) => p.sku)).toContain('CARR-20W');
   });
 });
+
+describe('Visão consolidada (sem filtro de loja)', () => {
+  it('soma o saldo das lojas e aplica o alerta de mínimo em qualquer loja', async () => {
+    const ok = await createProduct(admin, { sku: 'MIN-OK', minStock: 2 }, { [fx.stores.LJ01]: 5, [fx.stores.LJ02]: 5, [fx.stores.LJ03]: 5 });
+    const low = await createProduct(admin, { sku: 'MIN-LOW', minStock: 2 }, { [fx.stores.LJ01]: 5, [fx.stores.LJ02]: 5, [fx.stores.LJ03]: 1 });
+
+    const all = await api().get('/api/products?search=MIN-').set(bearer(admin));
+    const byId = Object.fromEntries(all.body.data.map((p: { id: string; quantity: number }) => [p.id, p.quantity]));
+    expect(byId[ok.id]).toBe(15);
+    expect(byId[low.id]).toBe(11);
+
+    const lowOnly = await api().get('/api/products?search=MIN-&lowStock=true').set(bearer(admin));
+    expect(lowOnly.body.data.map((p: { sku: string }) => p.sku)).toEqual(['MIN-LOW']);
+  });
+
+  it('lista vendas com a quantidade de itens de cada uma', async () => {
+    const res = await api().get('/api/sales').set(bearer(admin));
+    for (const sale of res.body.data) {
+      const detail = await api().get(`/api/sales/${sale.id}`).set(bearer(admin));
+      const units = detail.body.items.reduce((acc: number, i: { quantity: number }) => acc + i.quantity, 0);
+      expect(sale.itemCount).toBe(units);
+    }
+  });
+});

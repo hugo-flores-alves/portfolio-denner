@@ -5,7 +5,7 @@ import { db } from '../../db/client';
 import { products, stockLevels, stores } from '../../db/schema';
 import { notFound } from '../../lib/errors';
 import { paginationSchema, toLimitOffset } from '../../lib/pagination';
-import { containsInsensitive } from '../../lib/sql';
+import { containsInsensitive, outerRef } from '../../lib/sql';
 import { centsSchema, idParamsSchema, optionalText, queryBoolean, uuidSchema } from '../../lib/validation';
 import { getAuth, requireAnyPermission, requirePermission } from '../../middleware/auth';
 import { resolveReadScope } from '../auth/store-scope';
@@ -29,19 +29,21 @@ const productSchema = z.object({
 
 /** Saldo do produto no escopo: loja específica ou soma das lojas ativas. */
 function quantityExpr(storeId: string | null): SQL<number> {
+  const productId = outerRef(products.id);
   return storeId
-    ? sql<number>`coalesce((select ${stockLevels.quantity} from ${stockLevels} where ${stockLevels.storeId} = ${storeId} and ${stockLevels.productId} = ${products.id}), 0)`
-    : sql<number>`coalesce((select sum(${stockLevels.quantity}) from ${stockLevels} inner join ${stores} on ${stores.id} = ${stockLevels.storeId} where ${stockLevels.productId} = ${products.id} and ${stores.isActive}), 0)::int`;
+    ? sql<number>`coalesce((select sl.quantity from ${stockLevels} sl where sl.store_id = ${storeId} and sl.product_id = ${productId}), 0)`
+    : sql<number>`coalesce((select sum(sl.quantity) from ${stockLevels} sl join ${stores} s on s.id = sl.store_id where sl.product_id = ${productId} and s.is_active), 0)::int`;
 }
 
 /** Produto com saldo igual ou abaixo do mínimo (na loja, ou em qualquer loja ativa). */
 function lowStockExpr(storeId: string | null): SQL {
+  const minStock = outerRef(products.minStock);
   return storeId
-    ? sql`${products.minStock} > 0 and ${quantityExpr(storeId)} <= ${products.minStock}`
-    : sql`${products.minStock} > 0 and exists (
+    ? sql`${minStock} > 0 and ${quantityExpr(storeId)} <= ${minStock}`
+    : sql`${minStock} > 0 and exists (
         select 1 from ${stores} s where s.is_active and coalesce(
-          (select sl.quantity from ${stockLevels} sl where sl.store_id = s.id and sl.product_id = ${products.id}), 0
-        ) <= ${products.minStock})`;
+          (select sl.quantity from ${stockLevels} sl where sl.store_id = s.id and sl.product_id = ${outerRef(products.id)}), 0
+        ) <= ${minStock})`;
 }
 
 const productColumns = {

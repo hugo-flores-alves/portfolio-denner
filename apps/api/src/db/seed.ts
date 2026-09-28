@@ -206,10 +206,20 @@ const DEFECTS = [
 ];
 const PART_FOR_DEFECT = ['TELA', 'CON', 'BAT', 'CAM', 'ALT', null];
 
+/** Procura o arquivo subindo a partir deste módulo (funciona em src/ e no bundle dist/). */
+function findUp(relative: string): string | null {
+  let dir = path.dirname(fileURLToPath(import.meta.url));
+  for (let i = 0; i < 6; i++) {
+    const candidate = path.join(dir, relative);
+    if (existsSync(candidate)) return candidate;
+    dir = path.dirname(dir);
+  }
+  return null;
+}
+
 async function seedDemo(admin: AuthContext, storeByCode: Map<string, string>) {
-  const here = path.dirname(fileURLToPath(import.meta.url));
-  const samplePath = path.resolve(here, '../../../../samples/inventario-exemplo.csv');
-  if (!existsSync(samplePath)) {
+  const samplePath = findUp('samples/inventario-exemplo.csv');
+  if (!samplePath) {
     console.warn('  (planilha de exemplo não encontrada — gere com npm run sample:inventory)');
     return;
   }

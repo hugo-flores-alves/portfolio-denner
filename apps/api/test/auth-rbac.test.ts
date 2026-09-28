@@ -107,6 +107,12 @@ describe('Cargos configuráveis', () => {
     expect((await api().get('/api/sales').set(bearer(token))).status).toBe(200);
   });
 
+  it('conta os usuários ativos de cada cargo', async () => {
+    const res = await api().get('/api/roles').set(bearer(fx.tokens.admin!));
+    const counts = Object.fromEntries(res.body.map((r: { name: string; userCount: number }) => [r.name, r.userCount]));
+    expect(counts).toMatchObject({ Administrador: 1, 'Supervisor de Rede': 1, Gerente: 3, Técnico: 3, Vendedor: 2 });
+  });
+
   it('rejeita permissões inexistentes e protege o cargo Administrador', async () => {
     const bad = await api()
       .post('/api/roles')

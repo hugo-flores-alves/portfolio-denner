@@ -7,6 +7,7 @@ import { customers, products, saleItems, salePayments, sales, stores, users } fr
 import { badRequest, conflict, notFound } from '../../lib/errors';
 import { nextNumber } from '../../lib/counters';
 import { paginationSchema, toLimitOffset } from '../../lib/pagination';
+import { outerRef } from '../../lib/sql';
 import { centsSchema, optionalText, uuidSchema } from '../../lib/validation';
 import type { AuthContext } from '../auth/auth-context';
 import { assertActiveStore, assertStoreAccess, resolveReadScope, resolveWriteStore } from '../auth/store-scope';
@@ -187,7 +188,7 @@ export async function listSales(auth: AuthContext, q: z.infer<typeof listSalesSc
         storeCode: stores.code,
         sellerName: users.name,
         customerName: customers.name,
-        itemCount: sql<number>`(select coalesce(sum(${saleItems.quantity}), 0)::int from ${saleItems} where ${saleItems.saleId} = ${sales.id})`,
+        itemCount: sql<number>`(select coalesce(sum(si.quantity), 0)::int from ${saleItems} si where si.sale_id = ${outerRef(sales.id)})`,
       })
       .from(sales)
       .innerJoin(stores, eq(stores.id, sales.storeId))
