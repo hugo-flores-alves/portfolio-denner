@@ -47,7 +47,8 @@ async function main() {
     userId = user.id;
   }
 
-  const filePath = path.resolve(values.file);
+  // Via npm workspaces o cwd é apps/api; INIT_CWD é onde o usuário rodou o comando
+  const filePath = path.resolve(process.env.INIT_CWD ?? process.cwd(), values.file);
   const report = await importProducts(
     { buffer: readFileSync(filePath), fileName: path.basename(filePath) },
     { mode, stockMode, dryRun: values['dry-run']!, strict: values.strict!, defaultStoreId },
@@ -61,7 +62,7 @@ async function main() {
     Atualizados: report.updatedCount,
     Ignorados: report.skippedCount,
     'Linhas com erro': report.errorCount,
-    'Saldos por loja gravados': report.stockEntries,
+    [report.dryRun ? 'Saldos por loja a gravar' : 'Saldos por loja gravados']: report.stockEntries,
     'Tempo (ms)': report.durationMs,
   });
   console.log('Colunas:', report.columns.mapped, '| Lojas:', report.columns.stores.map((s) => s.storeCode).join(', '));
