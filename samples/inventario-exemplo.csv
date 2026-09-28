@@ -1,0 +1,1228 @@
+﻿sku;codigo_barras;nome;categoria;marca;modelos_compativeis;preco_custo;preco_venda;estoque_minimo;estoque_LJ01;estoque_LJ02;estoque_LJ03
+TELA-IPHONE7-INC;7890010000014;Tela Frontal iPhone 7 Incell;Telas;Apple;iPhone 7;264,50;656,90;1;4;0;2
+TELA-IPHONE7-OLE;7890010000021;Tela Frontal iPhone 7 OLED;Telas;Apple;iPhone 7;381,50;699,90;3;0;3;4
+TELA-IPHONE7-ORI;7890010000038;Tela Frontal iPhone 7 Original;Telas;Apple;iPhone 7;256,00;577,90;3;6;0;1
+BAT-IPHONE7;;Bateria iPhone 7;Baterias;Apple;iPhone 7;133,90;310,90;1;2;2;6
+CON-IPHONE7;7890010000045;Conector de Carga (Flex) iPhone 7;Conectores;Apple;iPhone 7;41,00;91,90;2;6;4;2
+CAM-IPHONE7;7890010000052;Câmera Traseira iPhone 7;Câmeras;Apple;iPhone 7;292,50;572,90;3;0;7;8
+ALT-IPHONE7;7890010000069;Alto-falante iPhone 7;Áudio;Apple;iPhone 7;12,90;33,90;3;1;6;3
+TAMPA-IPHONE7;;Tampa Traseira iPhone 7;Carcaças;Apple;iPhone 7;37,50;85,90;2;7;7;5
+FLEX-IPHONE7;;Flex Botão Power/Volume iPhone 7;Flex;Apple;iPhone 7;28,50;75,90;2;4;2;7
+LENTE-IPHONE7;;Lente da Câmera iPhone 7;Câmeras;Apple;iPhone 7;25,90;66,90;1;5;0;8
+PEL-IPHONE7;7890010000076;Película 3D iPhone 7;Películas;Apple;iPhone 7;3,50;6,90;5;;1;12
+CAPA-IPHONE7-PRE;7890010000083;Capinha Silicone iPhone 7 Preta;Capinhas;Apple;iPhone 7;13,90;35,90;5;11;4;
+CAPA-IPHONE7-TRA;7890010000090;Capinha Silicone iPhone 7 Transparente;Capinhas;Apple;iPhone 7;11,90;27,90;5;2;19;21
+TELA-IPHONE7PLUS-INC;7890010000106;Tela Frontal iPhone 7 Plus Incell;Telas;Apple;iPhone 7 Plus;93,00;187,90;3;6;8;3
+TELA-IPHONE7PLUS-OLE;;Tela Frontal iPhone 7 Plus OLED;Telas;Apple;iPhone 7 Plus;225,90;409,90;3;2;1;3
+TELA-IPHONE7PLUS-ORI;7890010000113;Tela Frontal iPhone 7 Plus Original;Telas;Apple;iPhone 7 Plus;366,50;930,90;3;0;6;2
+BAT-IPHONE7PLUS;7890010000120;Bateria iPhone 7 Plus;Baterias;Apple;iPhone 7 Plus;44,50;103,90;1;5;8;6
+CON-IPHONE7PLUS;7890010000137;Conector de Carga (Flex) iPhone 7 Plus;Conectores;Apple;iPhone 7 Plus;30,50;75,90;3;2;6;5
+CAM-IPHONE7PLUS;7890010000144;Câmera Traseira iPhone 7 Plus;Câmeras;Apple;iPhone 7 Plus;108,90;221,90;1;0;8;7
+ALT-IPHONE7PLUS;7890010000151;Alto-falante iPhone 7 Plus;Áudio;Apple;iPhone 7 Plus;11,90;27,90;2;5;7;1
+TAMPA-IPHONE7PLUS;7890010000168;Tampa Traseira iPhone 7 Plus;Carcaças;Apple;iPhone 7 Plus;104,50;217,90;3;7;;2
+FLEX-IPHONE7PLUS;7890010000175;Flex Botão Power/Volume iPhone 7 Plus;Flex;Apple;iPhone 7 Plus;39,90;82,90;1;7;0;0
+LENTE-IPHONE7PLUS;7890010000182;Lente da Câmera iPhone 7 Plus;Câmeras;Apple;iPhone 7 Plus;25,50;46,90;2;1;0;0
+PEL-IPHONE7PLUS;;Película 3D iPhone 7 Plus;Películas;Apple;iPhone 7 Plus;3,90;9,90;5;24;14;11
+CAPA-IPHONE7PLUS-PRE;7890010000199;Capinha Silicone iPhone 7 Plus Preta;Capinhas;Apple;iPhone 7 Plus;10,00;19,90;5;15;16;24
+CAPA-IPHONE7PLUS-TRA;7890010000205;Capinha Silicone iPhone 7 Plus Transparente;Capinhas;Apple;iPhone 7 Plus;16,50;38,90;5;23;1;
+TELA-IPHONE8-INC;7890010000212;Tela Frontal iPhone 8 Incell;Telas;Apple;iPhone 8;367,50;845,90;3;2;5;
+TELA-IPHONE8-OLE;7890010000229;Tela Frontal iPhone 8 OLED;Telas;Apple;iPhone 8;60,50;109,90;3;1;1;5
+TELA-IPHONE8-ORI;7890010000236;Tela Frontal iPhone 8 Original;Telas;Apple;iPhone 8;167,00;336,90;1;5;4;3
+BAT-IPHONE8;7890010000243;Bateria iPhone 8;Baterias;Apple;iPhone 8;92,90;167,90;3;8;5;5
+CON-IPHONE8;7890010000250;Conector de Carga (Flex) iPhone 8;Conectores;Apple;iPhone 8;18,00;38,90;1;0;;8
+CAM-IPHONE8;7890010000267;Câmera Traseira iPhone 8;Câmeras;Apple;iPhone 8;59,90;135,90;1;;0;6
+ALT-IPHONE8;;Alto-falante iPhone 8;Áudio;Apple;iPhone 8;44,90;116,90;2;5;7;8
+TAMPA-IPHONE8;7890010000274;Tampa Traseira iPhone 8;Carcaças;Apple;iPhone 8;43,00;110,90;3;6;8;
+FLEX-IPHONE8;7890010000281;Flex Botão Power/Volume iPhone 8;Flex;Apple;iPhone 8;28,50;62,90;2;1;3;2
+LENTE-IPHONE8;;Lente da Câmera iPhone 8;Câmeras;Apple;iPhone 8;28,00;59,90;2;0;1;2
+PEL-IPHONE8;7890010000298;Película 3D iPhone 8;Películas;Apple;iPhone 8;8,00;15,90;5;20;8;9
+CAPA-IPHONE8-PRE;7890010000304;Capinha Silicone iPhone 8 Preta;Capinhas;Apple;iPhone 8;16,90;35,90;5;25;16;
+CAPA-IPHONE8-TRA;7890010000311;Capinha Silicone iPhone 8 Transparente;Capinhas;Apple;iPhone 8;9,50;19,90;5;5;7;4
+TELA-IPHONE8PLUS-INC;7890010000328;Tela Frontal iPhone 8 Plus Incell;Telas;Apple;iPhone 8 Plus;317,00;704,90;3;1;;6
+TELA-IPHONE8PLUS-OLE;7890010000335;Tela Frontal iPhone 8 Plus OLED;Telas;Apple;iPhone 8 Plus;96,50;254,90;3;8;4;8
+TELA-IPHONE8PLUS-ORI;7890010000342;Tela Frontal iPhone 8 Plus Original;Telas;Apple;iPhone 8 Plus;148,90;292,90;2;;8;4
+BAT-IPHONE8PLUS;7890010000359;Bateria iPhone 8 Plus;Baterias;Apple;iPhone 8 Plus;142,50;265,90;2;3;1;8
+CON-IPHONE8PLUS;;Conector de Carga (Flex) iPhone 8 Plus;Conectores;Apple;iPhone 8 Plus;58,90;109,90;3;;5;3
+CAM-IPHONE8PLUS;7890010000366;Câmera Traseira iPhone 8 Plus;Câmeras;Apple;iPhone 8 Plus;299,50;625,90;2;5;7;8
+ALT-IPHONE8PLUS;;Alto-falante iPhone 8 Plus;Áudio;Apple;iPhone 8 Plus;29,00;75,90;1;8;4;2
+TAMPA-IPHONE8PLUS;7890010000373;Tampa Traseira iPhone 8 Plus;Carcaças;Apple;iPhone 8 Plus;17,90;33,90;3;7;3;1
+FLEX-IPHONE8PLUS;7890010000380;Flex Botão Power/Volume iPhone 8 Plus;Flex;Apple;iPhone 8 Plus;50,50;124,90;1;1;7;2
+LENTE-IPHONE8PLUS;7890010000397;Lente da Câmera iPhone 8 Plus;Câmeras;Apple;iPhone 8 Plus;6,50;16,90;3;8;5;0
+PEL-IPHONE8PLUS;7890010000403;Película 3D iPhone 8 Plus;Películas;Apple;iPhone 8 Plus;3,90;9,90;5;22;10;9
+CAPA-IPHONE8PLUS-PRE;7890010000410;Capinha Silicone iPhone 8 Plus Preta;Capinhas;Apple;iPhone 8 Plus;12,50;31,90;5;;18;5
+CAPA-IPHONE8PLUS-TRA;7890010000427;Capinha Silicone iPhone 8 Plus Transparente;Capinhas;Apple;iPhone 8 Plus;7,90;15,90;5;20;22;
+TELA-IPHONEX-INC;;Tela Frontal iPhone X Incell;Telas;Apple;iPhone X;363,50;968,90;3;2;7;6
+TELA-IPHONEX-OLE;7890010000434;Tela Frontal iPhone X OLED;Telas;Apple;iPhone X;219,50;405,90;1;6;3;
+TELA-IPHONEX-ORI;7890010000441;Tela Frontal iPhone X Original;Telas;Apple;iPhone X;281,90;585,90;3;1;5;3
+BAT-IPHONEX;7890010000458;Bateria iPhone X;Baterias;Apple;iPhone X;71,50;179,90;2;3;0;2
+CON-IPHONEX;7890010000465;Conector de Carga (Flex) iPhone X;Conectores;Apple;iPhone X;50,00;100,90;3;;0;7
+CAM-IPHONEX;7890010000472;Câmera Traseira iPhone X;Câmeras;Apple;iPhone X;68,50;133,90;3;;6;7
+ALT-IPHONEX;;Alto-falante iPhone X;Áudio;Apple;iPhone X;19,50;45,90;2;;5;4
+TAMPA-IPHONEX;;Tampa Traseira iPhone X;Carcaças;Apple;iPhone X;24,00;49,90;1;0;2;
+FLEX-IPHONEX;;Flex Botão Power/Volume iPhone X;Flex;Apple;iPhone X;49,00;98,90;1;5;0;4
+LENTE-IPHONEX;7890010000489;Lente da Câmera iPhone X;Câmeras;Apple;iPhone X;12,90;29,90;1;5;7;
+PEL-IPHONEX;7890010000496;Película 3D iPhone X;Películas;Apple;iPhone X;6,50;15,90;5;2;8;2
+CAPA-IPHONEX-PRE;7890010000502;Capinha Silicone iPhone X Preta;Capinhas;Apple;iPhone X;8,00;16,90;5;19;13;22
+CAPA-IPHONEX-TRA;7890010000519;Capinha Silicone iPhone X Transparente;Capinhas;Apple;iPhone X;13,00;30,90;5;18;;18
+TELA-IPHONEXR-INC;7890010000526;Tela Frontal iPhone XR Incell;Telas;Apple;iPhone XR;199,50;430,90;2;6;5;6
+TELA-IPHONEXR-OLE;7890010000533;Tela Frontal iPhone XR OLED;Telas;Apple;iPhone XR;350,50;724,90;2;8;1;7
+TELA-IPHONEXR-ORI;7890010000540;Tela Frontal iPhone XR Original;Telas;Apple;iPhone XR;381,50;968,90;2;7;4;
+BAT-IPHONEXR;7890010000557;Bateria iPhone XR;Baterias;Apple;iPhone XR;36,00;90,90;2;0;0;2
+CON-IPHONEXR;7890010000564;Conector de Carga (Flex) iPhone XR;Conectores;Apple;iPhone XR;28,90;61,90;2;;5;2
+CAM-IPHONEXR;7890010000571;Câmera Traseira iPhone XR;Câmeras;Apple;iPhone XR;98,50;211,90;1;4;0;4
+ALT-IPHONEXR;;Alto-falante iPhone XR;Áudio;Apple;iPhone XR;19,00;38,90;2;6;6;2
+TAMPA-IPHONEXR;7890010000588;Tampa Traseira iPhone XR;Carcaças;Apple;iPhone XR;43,00;104,90;1;3;0;0
+FLEX-IPHONEXR;;Flex Botão Power/Volume iPhone XR;Flex;Apple;iPhone XR;31,50;66,90;1;6;2;
+LENTE-IPHONEXR;7890010000595;Lente da Câmera iPhone XR;Câmeras;Apple;iPhone XR;23,90;59,90;2;0;3;1
+PEL-IPHONEXR;7890010000601;Película 3D iPhone XR;Películas;Apple;iPhone XR;3,00;6,90;5;22;11;19
+CAPA-IPHONEXR-PRE;7890010000618;Capinha Silicone iPhone XR Preta;Capinhas;Apple;iPhone XR;15,50;37,90;5;9;12;17
+CAPA-IPHONEXR-TRA;7890010000625;Capinha Silicone iPhone XR Transparente;Capinhas;Apple;iPhone XR;9,00;15,90;5;15;17;13
+TELA-IPHONEXS-INC;;Tela Frontal iPhone XS Incell;Telas;Apple;iPhone XS;60,00;144,90;2;0;;0
+TELA-IPHONEXS-OLE;7890010000632;Tela Frontal iPhone XS OLED;Telas;Apple;iPhone XS;226,90;489,90;3;;4;1
+TELA-IPHONEXS-ORI;7890010000649;Tela Frontal iPhone XS Original;Telas;Apple;iPhone XS;300,50;651,90;1;1;;2
+BAT-IPHONEXS;7890010000656;Bateria iPhone XS;Baterias;Apple;iPhone XS;117,00;217,90;1;8;3;0
+CON-IPHONEXS;7890010000663;Conector de Carga (Flex) iPhone XS;Conectores;Apple;iPhone XS;48,90;119,90;1;4;7;6
+CAM-IPHONEXS;7890010000670;Câmera Traseira iPhone XS;Câmeras;Apple;iPhone XS;306,50;788,90;1;1;4;8
+ALT-IPHONEXS;7890010000687;Alto-falante iPhone XS;Áudio;Apple;iPhone XS;15,00;36,90;3;0;;1
+TAMPA-IPHONEXS;7890010000694;Tampa Traseira iPhone XS;Carcaças;Apple;iPhone XS;86,90;198,90;2;;;3
+FLEX-IPHONEXS;7890010000700;Flex Botão Power/Volume iPhone XS;Flex;Apple;iPhone XS;16,50;43,90;1;8;4;5
+LENTE-IPHONEXS;7890010000717;Lente da Câmera iPhone XS;Câmeras;Apple;iPhone XS;19,00;46,90;2;;2;1
+PEL-IPHONEXS;;Película 3D iPhone XS;Películas;Apple;iPhone XS;4,50;10,90;5;1;25;15
+CAPA-IPHONEXS-PRE;7890010000724;Capinha Silicone iPhone XS Preta;Capinhas;Apple;iPhone XS;15,90;40,90;5;25;20;24
+CAPA-IPHONEXS-TRA;7890010000731;Capinha Silicone iPhone XS Transparente;Capinhas;Apple;iPhone XS;15,50;33,90;5;5;7;2
+TELA-IPHONEXSMAX-INC;7890010000748;Tela Frontal iPhone XS Max Incell;Telas;Apple;iPhone XS Max;161,90;379,90;1;4;3;
+TELA-IPHONEXSMAX-OLE;7890010000755;Tela Frontal iPhone XS Max OLED;Telas;Apple;iPhone XS Max;323,50;624,90;3;3;0;8
+TELA-IPHONEXSMAX-ORI;;Tela Frontal iPhone XS Max Original;Telas;Apple;iPhone XS Max;420,50;1077,90;1;2;5;5
+BAT-IPHONEXSMAX;7890010000762;Bateria iPhone XS Max;Baterias;Apple;iPhone XS Max;151,00;362,90;3;;0;3
+CON-IPHONEXSMAX;7890010000779;Conector de Carga (Flex) iPhone XS Max;Conectores;Apple;iPhone XS Max;17,90;39,90;1;8;5;
+CAM-IPHONEXSMAX;7890010000786;Câmera Traseira iPhone XS Max;Câmeras;Apple;iPhone XS Max;238,00;442,90;2;5;5;7
+ALT-IPHONEXSMAX;7890010000793;Alto-falante iPhone XS Max;Áudio;Apple;iPhone XS Max;37,90;76,90;1;2;5;3
+TAMPA-IPHONEXSMAX;;Tampa Traseira iPhone XS Max;Carcaças;Apple;iPhone XS Max;46,00;86,90;3;7;7;
+FLEX-IPHONEXSMAX;;Flex Botão Power/Volume iPhone XS Max;Flex;Apple;iPhone XS Max;55,90;116,90;2;8;2;8
+LENTE-IPHONEXSMAX;;Lente da Câmera iPhone XS Max;Câmeras;Apple;iPhone XS Max;28,00;53,90;3;6;;
+PEL-IPHONEXSMAX;7890010000809;Película 3D iPhone XS Max;Películas;Apple;iPhone XS Max;8,90;22,90;5;18;4;22
+CAPA-IPHONEXSMAX-PRE;7890010000816;Capinha Silicone iPhone XS Max Preta;Capinhas;Apple;iPhone XS Max;6,00;11,90;5;1;1;17
+CAPA-IPHONEXSMAX-TRA;7890010000823;Capinha Silicone iPhone XS Max Transparente;Capinhas;Apple;iPhone XS Max;16,90;34,90;5;;3;2
+TELA-IPHONE11-INC;7890010000830;Tela Frontal iPhone 11 Incell;Telas;Apple;iPhone 11;132,00;252,90;2;0;6;8
+TELA-IPHONE11-OLE;7890010000847;Tela Frontal iPhone 11 OLED;Telas;Apple;iPhone 11;346,50;775,90;1;;;5
+TELA-IPHONE11-ORI;7890010000854;Tela Frontal iPhone 11 Original;Telas;Apple;iPhone 11;290,90;526,90;3;;3;
+BAT-IPHONE11;7890010000861;Bateria iPhone 11;Baterias;Apple;iPhone 11;146,90;321,90;1;3;;5
+CON-IPHONE11;;Conector de Carga (Flex) iPhone 11;Conectores;Apple;iPhone 11;22,50;55,90;3;1;0;
+CAM-IPHONE11;7890010000878;Câmera Traseira iPhone 11;Câmeras;Apple;iPhone 11;91,50;201,90;3;3;5;
+ALT-IPHONE11;7890010000885;Alto-falante iPhone 11;Áudio;Apple;iPhone 11;30,00;63,90;1;;6;1
+TAMPA-IPHONE11;7890010000892;Tampa Traseira iPhone 11;Carcaças;Apple;iPhone 11;23,50;51,90;2;3;0;
+FLEX-IPHONE11;7890010000908;Flex Botão Power/Volume iPhone 11;Flex;Apple;iPhone 11;21,50;42,90;3;5;4;8
+LENTE-IPHONE11;;Lente da Câmera iPhone 11;Câmeras;Apple;iPhone 11;10,50;24,90;2;;0;4
+PEL-IPHONE11;7890010000915;Película 3D iPhone 11;Películas;Apple;iPhone 11;3,50;7,90;5;4;7;10
+CAPA-IPHONE11-PRE;7890010000922;Capinha Silicone iPhone 11 Preta;Capinhas;Apple;iPhone 11;11,00;25,90;5;;;20
+CAPA-IPHONE11-TRA;7890010000939;Capinha Silicone iPhone 11 Transparente;Capinhas;Apple;iPhone 11;13,50;35,90;5;5;9;2
+TELA-IPHONE11PRO-INC;7890010000946;Tela Frontal iPhone 11 Pro Incell;Telas;Apple;iPhone 11 Pro;134,00;280,90;2;7;0;6
+TELA-IPHONE11PRO-OLE;7890010000953;Tela Frontal iPhone 11 Pro OLED;Telas;Apple;iPhone 11 Pro;170,00;427,90;3;2;1;7
+TELA-IPHONE11PRO-ORI;;Tela Frontal iPhone 11 Pro Original;Telas;Apple;iPhone 11 Pro;239,90;438,90;3;3;4;6
+BAT-IPHONE11PRO;;Bateria iPhone 11 Pro;Baterias;Apple;iPhone 11 Pro;99,90;210,90;3;0;3;7
+CON-IPHONE11PRO;7890010000960;Conector de Carga (Flex) iPhone 11 Pro;Conectores;Apple;iPhone 11 Pro;52,90;133,90;1;7;0;1
+CAM-IPHONE11PRO;7890010000977;Câmera Traseira iPhone 11 Pro;Câmeras;Apple;iPhone 11 Pro;281,50;621,90;2;7;2;4
+ALT-IPHONE11PRO;7890010000984;Alto-falante iPhone 11 Pro;Áudio;Apple;iPhone 11 Pro;17,00;41,90;1;2;5;1
+TAMPA-IPHONE11PRO;;Tampa Traseira iPhone 11 Pro;Carcaças;Apple;iPhone 11 Pro;54,90;126,90;3;4;3;6
+FLEX-IPHONE11PRO;7890010000991;Flex Botão Power/Volume iPhone 11 Pro;Flex;Apple;iPhone 11 Pro;52,50;95,90;2;1;4;7
+LENTE-IPHONE11PRO;7890010001004;Lente da Câmera iPhone 11 Pro;Câmeras;Apple;iPhone 11 Pro;21,90;55,90;1;7;3;0
+PEL-IPHONE11PRO;7890010001011;Película 3D iPhone 11 Pro;Películas;Apple;iPhone 11 Pro;7,50;14,90;5;24;13;18
+CAPA-IPHONE11PRO-PRE;;Capinha Silicone iPhone 11 Pro Preta;Capinhas;Apple;iPhone 11 Pro;5,00;10,90;5;;17;
+CAPA-IPHONE11PRO-TRA;7890010001028;Capinha Silicone iPhone 11 Pro Transparente;Capinhas;Apple;iPhone 11 Pro;9,90;24,90;5;2;;23
+TELA-IPHONE11PROMAX-INC;7890010001035;Tela Frontal iPhone 11 Pro Max Incell;Telas;Apple;iPhone 11 Pro Max;134,90;330,90;1;0;5;3
+TELA-IPHONE11PROMAX-OLE;7890010001042;Tela Frontal iPhone 11 Pro Max OLED;Telas;Apple;iPhone 11 Pro Max;353,00;746,90;3;6;7;7
+TELA-IPHONE11PROMAX-ORI;7890010001059;Tela Frontal iPhone 11 Pro Max Original;Telas;Apple;iPhone 11 Pro Max;157,90;364,90;1;3;4;6
+BAT-IPHONE11PROMAX;7890010001066;Bateria iPhone 11 Pro Max;Baterias;Apple;iPhone 11 Pro Max;49,50;114,90;3;0;7;3
+CON-IPHONE11PROMAX;7890010001073;Conector de Carga (Flex) iPhone 11 Pro Max;Conectores;Apple;iPhone 11 Pro Max;69,50;159,90;3;2;2;8
+CAM-IPHONE11PROMAX;7890010001080;Câmera Traseira iPhone 11 Pro Max;Câmeras;Apple;iPhone 11 Pro Max;285,50;630,90;2;;;8
+ALT-IPHONE11PROMAX;7890010001097;Alto-falante iPhone 11 Pro Max;Áudio;Apple;iPhone 11 Pro Max;10,50;20,90;1;8;2;0
+TAMPA-IPHONE11PROMAX;7890010001103;Tampa Traseira iPhone 11 Pro Max;Carcaças;Apple;iPhone 11 Pro Max;19,50;37,90;3;0;;5
+FLEX-IPHONE11PROMAX;7890010001110;Flex Botão Power/Volume iPhone 11 Pro Max;Flex;Apple;iPhone 11 Pro Max;19,50;35,90;3;4;8;
+LENTE-IPHONE11PROMAX;7890010001127;Lente da Câmera iPhone 11 Pro Max;Câmeras;Apple;iPhone 11 Pro Max;18,00;38,90;2;4;0;6
+PEL-IPHONE11PROMAX;7890010001134;Película 3D iPhone 11 Pro Max;Películas;Apple;iPhone 11 Pro Max;12,90;32,90;5;23;18;1
+CAPA-IPHONE11PROMAX-PRE;7890010001141;Capinha Silicone iPhone 11 Pro Max Preta;Capinhas;Apple;iPhone 11 Pro Max;18,00;44,90;5;20;16;
+CAPA-IPHONE11PROMAX-TRA;7890010001158;Capinha Silicone iPhone 11 Pro Max Transparente;Capinhas;Apple;iPhone 11 Pro Max;17,50;31,90;5;11;23;6
+TELA-IPHONE12-INC;;Tela Frontal iPhone 12 Incell;Telas;Apple;iPhone 12;192,50;497,90;3;2;4;
+TELA-IPHONE12-OLE;7890010001165;Tela Frontal iPhone 12 OLED;Telas;Apple;iPhone 12;350,90;735,90;3;8;5;5
+TELA-IPHONE12-ORI;7890010001172;Tela Frontal iPhone 12 Original;Telas;Apple;iPhone 12;174,50;470,90;3;;5;8
+BAT-IPHONE12;7890010001189;Bateria iPhone 12;Baterias;Apple;iPhone 12;96,90;196,90;2;3;3;
+CON-IPHONE12;7890010001196;Conector de Carga (Flex) iPhone 12;Conectores;Apple;iPhone 12;28,00;67,90;1;6;6;6
+CAM-IPHONE12;7890010001202;Câmera Traseira iPhone 12;Câmeras;Apple;iPhone 12;128,90;256,90;3;0;4;
+ALT-IPHONE12;7890010001219;Alto-falante iPhone 12;Áudio;Apple;iPhone 12;9,90;26,90;3;6;;5
+TAMPA-IPHONE12;;Tampa Traseira iPhone 12;Carcaças;Apple;iPhone 12;25,90;57,90;3;3;5;8
+FLEX-IPHONE12;7890010001226;Flex Botão Power/Volume iPhone 12;Flex;Apple;iPhone 12;53,00;123,90;1;2;;1
+LENTE-IPHONE12;7890010001233;Lente da Câmera iPhone 12;Câmeras;Apple;iPhone 12;23,00;46,90;3;;3;0
+PEL-IPHONE12;7890010001240;Película 3D iPhone 12;Películas;Apple;iPhone 12;5,50;9,90;5;13;24;9
+CAPA-IPHONE12-PRE;7890010001257;Capinha Silicone iPhone 12 Preta;Capinhas;Apple;iPhone 12;5,50;12,90;5;1;5;24
+CAPA-IPHONE12-TRA;;Capinha Silicone iPhone 12 Transparente;Capinhas;Apple;iPhone 12;11,00;23,90;5;24;20;3
+TELA-IPHONE12PRO-INC;7890010001264;Tela Frontal iPhone 12 Pro Incell;Telas;Apple;iPhone 12 Pro;299,50;727,90;1;6;4;3
+TELA-IPHONE12PRO-OLE;7890010001271;Tela Frontal iPhone 12 Pro OLED;Telas;Apple;iPhone 12 Pro;329,90;725,90;2;1;6;4
+TELA-IPHONE12PRO-ORI;7890010001288;Tela Frontal iPhone 12 Pro Original;Telas;Apple;iPhone 12 Pro;250,50;661,90;3;1;1;5
+BAT-IPHONE12PRO;;Bateria iPhone 12 Pro;Baterias;Apple;iPhone 12 Pro;126,00;306,90;1;0;;5
+CON-IPHONE12PRO;7890010001295;Conector de Carga (Flex) iPhone 12 Pro;Conectores;Apple;iPhone 12 Pro;12,90;30,90;2;6;8;4
+CAM-IPHONE12PRO;;Câmera Traseira iPhone 12 Pro;Câmeras;Apple;iPhone 12 Pro;68,50;177,90;2;8;0;
+ALT-IPHONE12PRO;;Alto-falante iPhone 12 Pro;Áudio;Apple;iPhone 12 Pro;13,00;26,90;1;0;;0
+TAMPA-IPHONE12PRO;;Tampa Traseira iPhone 12 Pro;Carcaças;Apple;iPhone 12 Pro;95,90;173,90;1;4;1;2
+FLEX-IPHONE12PRO;7890010001301;Flex Botão Power/Volume iPhone 12 Pro;Flex;Apple;iPhone 12 Pro;26,90;68,90;2;5;8;2
+LENTE-IPHONE12PRO;7890010001318;Lente da Câmera iPhone 12 Pro;Câmeras;Apple;iPhone 12 Pro;16,90;39,90;2;;3;4
+PEL-IPHONE12PRO;7890010001325;Película 3D iPhone 12 Pro;Películas;Apple;iPhone 12 Pro;5,00;9,90;5;0;15;22
+CAPA-IPHONE12PRO-PRE;7890010001332;Capinha Silicone iPhone 12 Pro Preta;Capinhas;Apple;iPhone 12 Pro;7,00;13,90;5;7;;5
+CAPA-IPHONE12PRO-TRA;7890010001349;Capinha Silicone iPhone 12 Pro Transparente;Capinhas;Apple;iPhone 12 Pro;11,50;25,90;5;18;15;12
+TELA-IPHONE12PROMAX-INC;7890010001356;Tela Frontal iPhone 12 Pro Max Incell;Telas;Apple;iPhone 12 Pro Max;359,00;730,90;1;4;1;0
+TELA-IPHONE12PROMAX-OLE;7890010001363;Tela Frontal iPhone 12 Pro Max OLED;Telas;Apple;iPhone 12 Pro Max;343,00;886,90;1;1;5;1
+TELA-IPHONE12PROMAX-ORI;;Tela Frontal iPhone 12 Pro Max Original;Telas;Apple;iPhone 12 Pro Max;88,00;166,90;3;7;3;
+BAT-IPHONE12PROMAX;7890010001370;Bateria iPhone 12 Pro Max;Baterias;Apple;iPhone 12 Pro Max;61,90;115,90;2;4;0;0
+CON-IPHONE12PROMAX;7890010001387;Conector de Carga (Flex) iPhone 12 Pro Max;Conectores;Apple;iPhone 12 Pro Max;34,90;69,90;1;0;5;2
+CAM-IPHONE12PROMAX;7890010001394;Câmera Traseira iPhone 12 Pro Max;Câmeras;Apple;iPhone 12 Pro Max;292,00;753,90;1;2;2;
+ALT-IPHONE12PROMAX;7890010001400;Alto-falante iPhone 12 Pro Max;Áudio;Apple;iPhone 12 Pro Max;13,50;35,90;3;7;0;2
+TAMPA-IPHONE12PROMAX;7890010001417;Tampa Traseira iPhone 12 Pro Max;Carcaças;Apple;iPhone 12 Pro Max;112,00;204,90;2;3;2;0
+FLEX-IPHONE12PROMAX;7890010001424;Flex Botão Power/Volume iPhone 12 Pro Max;Flex;Apple;iPhone 12 Pro Max;40,50;76,90;3;1;8;3
+LENTE-IPHONE12PROMAX;;Lente da Câmera iPhone 12 Pro Max;Câmeras;Apple;iPhone 12 Pro Max;19,00;36,90;2;2;4;8
+PEL-IPHONE12PROMAX;7890010001431;Película 3D iPhone 12 Pro Max;Películas;Apple;iPhone 12 Pro Max;10,90;23,90;5;;;9
+CAPA-IPHONE12PROMAX-PRE;;Capinha Silicone iPhone 12 Pro Max Preta;Capinhas;Apple;iPhone 12 Pro Max;16,90;42,90;5;23;0;0
+CAPA-IPHONE12PROMAX-TRA;7890010001448;Capinha Silicone iPhone 12 Pro Max Transparente;Capinhas;Apple;iPhone 12 Pro Max;5,50;11,90;5;;8;17
+TELA-IPHONE13-INC;7890010001455;Tela Frontal iPhone 13 Incell;Telas;Apple;iPhone 13;97,50;207,90;1;7;0;8
+TELA-IPHONE13-OLE;7890010001462;Tela Frontal iPhone 13 OLED;Telas;Apple;iPhone 13;243,00;651,90;2;1;7;3
+TELA-IPHONE13-ORI;;Tela Frontal iPhone 13 Original;Telas;Apple;iPhone 13;170,00;362,90;1;1;8;3
+BAT-IPHONE13;;Bateria iPhone 13;Baterias;Apple;iPhone 13;160,00;327,90;1;0;;
+CON-IPHONE13;;Conector de Carga (Flex) iPhone 13;Conectores;Apple;iPhone 13;27,50;62,90;2;;4;0
+CAM-IPHONE13;7890010001479;Câmera Traseira iPhone 13;Câmeras;Apple;iPhone 13;86,00;155,90;2;;2;2
+ALT-IPHONE13;;Alto-falante iPhone 13;Áudio;Apple;iPhone 13;26,90;57,90;1;2;5;7
+TAMPA-IPHONE13;7890010001486;Tampa Traseira iPhone 13;Carcaças;Apple;iPhone 13;81,90;160,90;3;3;;
+FLEX-IPHONE13;7890010001493;Flex Botão Power/Volume iPhone 13;Flex;Apple;iPhone 13;23,90;44,90;2;7;;
+LENTE-IPHONE13;7890010001509;Lente da Câmera iPhone 13;Câmeras;Apple;iPhone 13;12,00;21,90;3;7;2;1
+PEL-IPHONE13;;Película 3D iPhone 13;Películas;Apple;iPhone 13;3,90;8,90;5;13;15;19
+CAPA-IPHONE13-PRE;7890010001516;Capinha Silicone iPhone 13 Preta;Capinhas;Apple;iPhone 13;9,50;17,90;5;6;23;2
+CAPA-IPHONE13-TRA;7890010001523;Capinha Silicone iPhone 13 Transparente;Capinhas;Apple;iPhone 13;7,50;14,90;5;13;;15
+TELA-IPHONE13PRO-INC;7890010001530;Tela Frontal iPhone 13 Pro Incell;Telas;Apple;iPhone 13 Pro;346,50;666,90;2;2;2;6
+TELA-IPHONE13PRO-OLE;;Tela Frontal iPhone 13 Pro OLED;Telas;Apple;iPhone 13 Pro;409,50;1000,90;3;5;6;7
+TELA-IPHONE13PRO-ORI;7890010001547;Tela Frontal iPhone 13 Pro Original;Telas;Apple;iPhone 13 Pro;296,50;645,90;3;4;3;0
+BAT-IPHONE13PRO;7890010001554;Bateria iPhone 13 Pro;Baterias;Apple;iPhone 13 Pro;100,50;238,90;2;8;5;
+CON-IPHONE13PRO;7890010001561;Conector de Carga (Flex) iPhone 13 Pro;Conectores;Apple;iPhone 13 Pro;46,00;113,90;1;6;7;2
+CAM-IPHONE13PRO;7890010001578;Câmera Traseira iPhone 13 Pro;Câmeras;Apple;iPhone 13 Pro;58,50;152,90;2;2;7;2
+ALT-IPHONE13PRO;7890010001585;Alto-falante iPhone 13 Pro;Áudio;Apple;iPhone 13 Pro;27,90;69,90;3;3;2;7
+TAMPA-IPHONE13PRO;7890010001592;Tampa Traseira iPhone 13 Pro;Carcaças;Apple;iPhone 13 Pro;65,90;125,90;2;5;4;7
+FLEX-IPHONE13PRO;;Flex Botão Power/Volume iPhone 13 Pro;Flex;Apple;iPhone 13 Pro;18,50;40,90;3;1;3;4
+LENTE-IPHONE13PRO;;Lente da Câmera iPhone 13 Pro;Câmeras;Apple;iPhone 13 Pro;20,50;37,90;3;4;6;1
+PEL-IPHONE13PRO;;Película 3D iPhone 13 Pro;Películas;Apple;iPhone 13 Pro;9,50;23,90;5;;;23
+CAPA-IPHONE13PRO-PRE;7890010001608;Capinha Silicone iPhone 13 Pro Preta;Capinhas;Apple;iPhone 13 Pro;11,90;28,90;5;21;3;18
+CAPA-IPHONE13PRO-TRA;7890010001615;Capinha Silicone iPhone 13 Pro Transparente;Capinhas;Apple;iPhone 13 Pro;17,90;41,90;5;17;8;21
+TELA-IPHONE13PROMAX-INC;7890010001622;Tela Frontal iPhone 13 Pro Max Incell;Telas;Apple;iPhone 13 Pro Max;212,00;463,90;3;3;5;7
+TELA-IPHONE13PROMAX-OLE;7890010001639;Tela Frontal iPhone 13 Pro Max OLED;Telas;Apple;iPhone 13 Pro Max;170,50;315,90;2;5;0;6
+TELA-IPHONE13PROMAX-ORI;7890010001646;Tela Frontal iPhone 13 Pro Max Original;Telas;Apple;iPhone 13 Pro Max;69,00;135,90;1;5;;3
+BAT-IPHONE13PROMAX;7890010001653;Bateria iPhone 13 Pro Max;Baterias;Apple;iPhone 13 Pro Max;130,00;286,90;3;6;8;3
+CON-IPHONE13PROMAX;;Conector de Carga (Flex) iPhone 13 Pro Max;Conectores;Apple;iPhone 13 Pro Max;38,00;101,90;2;4;7;3
+CAM-IPHONE13PROMAX;7890010001660;Câmera Traseira iPhone 13 Pro Max;Câmeras;Apple;iPhone 13 Pro Max;73,90;140,90;1;4;4;1
+ALT-IPHONE13PROMAX;7890010001677;Alto-falante iPhone 13 Pro Max;Áudio;Apple;iPhone 13 Pro Max;22,90;53,90;2;3;8;6
+TAMPA-IPHONE13PROMAX;7890010001684;Tampa Traseira iPhone 13 Pro Max;Carcaças;Apple;iPhone 13 Pro Max;65,90;162,90;2;2;;
+FLEX-IPHONE13PROMAX;;Flex Botão Power/Volume iPhone 13 Pro Max;Flex;Apple;iPhone 13 Pro Max;22,00;45,90;1;1;5;7
+LENTE-IPHONE13PROMAX;7890010001691;Lente da Câmera iPhone 13 Pro Max;Câmeras;Apple;iPhone 13 Pro Max;19,90;49,90;1;6;0;
+PEL-IPHONE13PROMAX;7890010001707;Película 3D iPhone 13 Pro Max;Películas;Apple;iPhone 13 Pro Max;4,90;12,90;5;15;;6
+CAPA-IPHONE13PROMAX-PRE;;Capinha Silicone iPhone 13 Pro Max Preta;Capinhas;Apple;iPhone 13 Pro Max;11,50;24,90;5;0;17;
+CAPA-IPHONE13PROMAX-TRA;7890010001714;Capinha Silicone iPhone 13 Pro Max Transparente;Capinhas;Apple;iPhone 13 Pro Max;14,50;28,90;5;8;11;21
+TELA-IPHONE14-INC;7890010001721;Tela Frontal iPhone 14 Incell;Telas;Apple;iPhone 14;384,50;963,90;1;2;3;8
+TELA-IPHONE14-OLE;7890010001738;Tela Frontal iPhone 14 OLED;Telas;Apple;iPhone 14;194,90;433,90;2;4;4;3
+TELA-IPHONE14-ORI;7890010001745;Tela Frontal iPhone 14 Original;Telas;Apple;iPhone 14;296,90;538,90;3;6;2;4
+BAT-IPHONE14;7890010001752;Bateria iPhone 14;Baterias;Apple;iPhone 14;153,50;384,90;2;6;7;5
+CON-IPHONE14;7890010001769;Conector de Carga (Flex) iPhone 14;Conectores;Apple;iPhone 14;29,00;60,90;3;8;;5
+CAM-IPHONE14;7890010001776;Câmera Traseira iPhone 14;Câmeras;Apple;iPhone 14;71,00;183,90;2;7;4;3
+ALT-IPHONE14;7890010001783;Alto-falante iPhone 14;Áudio;Apple;iPhone 14;16,50;33,90;1;;8;5
+TAMPA-IPHONE14;7890010001790;Tampa Traseira iPhone 14;Carcaças;Apple;iPhone 14;70,50;186,90;3;3;4;3
+FLEX-IPHONE14;7890010001806;Flex Botão Power/Volume iPhone 14;Flex;Apple;iPhone 14;14,50;35,90;3;4;5;
+LENTE-IPHONE14;7890010001813;Lente da Câmera iPhone 14;Câmeras;Apple;iPhone 14;15,00;39,90;3;5;6;5
+PEL-IPHONE14;7890010001820;Película 3D iPhone 14;Películas;Apple;iPhone 14;9,50;21,90;5;7;15;
+CAPA-IPHONE14-PRE;7890010001837;Capinha Silicone iPhone 14 Preta;Capinhas;Apple;iPhone 14;14,00;30,90;5;;15;20
+CAPA-IPHONE14-TRA;7890010001844;Capinha Silicone iPhone 14 Transparente;Capinhas;Apple;iPhone 14;11,50;21,90;5;23;22;
+TELA-IPHONE14PLUS-INC;;Tela Frontal iPhone 14 Plus Incell;Telas;Apple;iPhone 14 Plus;137,50;290,90;1;5;4;2
+TELA-IPHONE14PLUS-OLE;7890010001851;Tela Frontal iPhone 14 Plus OLED;Telas;Apple;iPhone 14 Plus;215,90;470,90;2;;5;6
+TELA-IPHONE14PLUS-ORI;7890010001868;Tela Frontal iPhone 14 Plus Original;Telas;Apple;iPhone 14 Plus;384,90;766,90;3;7;5;2
+BAT-IPHONE14PLUS;7890010001875;Bateria iPhone 14 Plus;Baterias;Apple;iPhone 14 Plus;152,90;283,90;2;1;6;3
+CON-IPHONE14PLUS;7890010001882;Conector de Carga (Flex) iPhone 14 Plus;Conectores;Apple;iPhone 14 Plus;20,50;43,90;2;7;6;8
+CAM-IPHONE14PLUS;7890010001899;Câmera Traseira iPhone 14 Plus;Câmeras;Apple;iPhone 14 Plus;298,00;685,90;2;1;7;3
+ALT-IPHONE14PLUS;7890010001905;Alto-falante iPhone 14 Plus;Áudio;Apple;iPhone 14 Plus;39,90;78,90;1;0;7;
+TAMPA-IPHONE14PLUS;7890010001912;Tampa Traseira iPhone 14 Plus;Carcaças;Apple;iPhone 14 Plus;106,50;219,90;1;;8;2
+FLEX-IPHONE14PLUS;7890010001929;Flex Botão Power/Volume iPhone 14 Plus;Flex;Apple;iPhone 14 Plus;49,90;134,90;3;8;3;
+LENTE-IPHONE14PLUS;7890010001936;Lente da Câmera iPhone 14 Plus;Câmeras;Apple;iPhone 14 Plus;20,00;43,90;2;;2;4
+PEL-IPHONE14PLUS;7890010001943;Película 3D iPhone 14 Plus;Películas;Apple;iPhone 14 Plus;9,00;23,90;5;22;3;9
+CAPA-IPHONE14PLUS-PRE;;Capinha Silicone iPhone 14 Plus Preta;Capinhas;Apple;iPhone 14 Plus;14,90;36,90;5;5;;15
+CAPA-IPHONE14PLUS-TRA;7890010001950;Capinha Silicone iPhone 14 Plus Transparente;Capinhas;Apple;iPhone 14 Plus;17,90;44,90;5;8;1;12
+TELA-IPHONE14PRO-INC;7890010001967;Tela Frontal iPhone 14 Pro Incell;Telas;Apple;iPhone 14 Pro;336,50;747,90;1;6;5;3
+TELA-IPHONE14PRO-OLE;7890010001974;Tela Frontal iPhone 14 Pro OLED;Telas;Apple;iPhone 14 Pro;160,90;409,90;3;5;6;
+TELA-IPHONE14PRO-ORI;;Tela Frontal iPhone 14 Pro Original;Telas;Apple;iPhone 14 Pro;109,00;255,90;2;1;2;6
+BAT-IPHONE14PRO;7890010001981;Bateria iPhone 14 Pro;Baterias;Apple;iPhone 14 Pro;152,00;332,90;2;;;5
+CON-IPHONE14PRO;7890010001998;Conector de Carga (Flex) iPhone 14 Pro;Conectores;Apple;iPhone 14 Pro;31,00;61,90;1;7;2;3
+CAM-IPHONE14PRO;7890010002001;Câmera Traseira iPhone 14 Pro;Câmeras;Apple;iPhone 14 Pro;134,50;360,90;1;4;4;8
+ALT-IPHONE14PRO;7890010002018;Alto-falante iPhone 14 Pro;Áudio;Apple;iPhone 14 Pro;25,90;57,90;1;1;6;3
+TAMPA-IPHONE14PRO;;Tampa Traseira iPhone 14 Pro;Carcaças;Apple;iPhone 14 Pro;33,50;72,90;3;0;6;7
+FLEX-IPHONE14PRO;7890010002025;Flex Botão Power/Volume iPhone 14 Pro;Flex;Apple;iPhone 14 Pro;48,00;111,90;2;7;5;5
+LENTE-IPHONE14PRO;7890010002032;Lente da Câmera iPhone 14 Pro;Câmeras;Apple;iPhone 14 Pro;9,50;24,90;3;4;1;6
+PEL-IPHONE14PRO;7890010002049;Película 3D iPhone 14 Pro;Películas;Apple;iPhone 14 Pro;4,00;9,90;5;9;24;
+CAPA-IPHONE14PRO-PRE;;Capinha Silicone iPhone 14 Pro Preta;Capinhas;Apple;iPhone 14 Pro;12,90;28,90;5;10;6;
+CAPA-IPHONE14PRO-TRA;7890010002056;Capinha Silicone iPhone 14 Pro Transparente;Capinhas;Apple;iPhone 14 Pro;17,90;46,90;5;14;5;1
+TELA-IPHONE15-INC;7890010002063;Tela Frontal iPhone 15 Incell;Telas;Apple;iPhone 15;365,00;725,90;1;1;7;1
+TELA-IPHONE15-OLE;7890010002070;Tela Frontal iPhone 15 OLED;Telas;Apple;iPhone 15;213,50;480,90;3;0;;
+TELA-IPHONE15-ORI;7890010002087;Tela Frontal iPhone 15 Original;Telas;Apple;iPhone 15;146,90;393,90;3;8;1;0
+BAT-IPHONE15;7890010002094;Bateria iPhone 15;Baterias;Apple;iPhone 15;91,50;235,90;2;7;4;5
+CON-IPHONE15;7890010002100;Conector de Carga (Flex) iPhone 15;Conectores;Apple;iPhone 15;57,90;148,90;2;7;7;7
+CAM-IPHONE15;7890010002117;Câmera Traseira iPhone 15;Câmeras;Apple;iPhone 15;247,00;589,90;3;3;7;2
+ALT-IPHONE15;7890010002124;Alto-falante iPhone 15;Áudio;Apple;iPhone 15;8,00;17,90;2;;6;3
+TAMPA-IPHONE15;7890010002131;Tampa Traseira iPhone 15;Carcaças;Apple;iPhone 15;87,50;226,90;1;6;2;2
+FLEX-IPHONE15;7890010002148;Flex Botão Power/Volume iPhone 15;Flex;Apple;iPhone 15;47,90;119,90;3;7;;3
+LENTE-IPHONE15;7890010002155;Lente da Câmera iPhone 15;Câmeras;Apple;iPhone 15;17,50;40,90;1;7;3;7
+PEL-IPHONE15;7890010002162;Película 3D iPhone 15;Películas;Apple;iPhone 15;4,90;11,90;5;16;3;
+CAPA-IPHONE15-PRE;7890010002179;Capinha Silicone iPhone 15 Preta;Capinhas;Apple;iPhone 15;12,00;28,90;5;12;4;13
+CAPA-IPHONE15-TRA;;Capinha Silicone iPhone 15 Transparente;Capinhas;Apple;iPhone 15;14,50;30,90;5;18;15;19
+TELA-A01-INC;7890010002186;Tela Frontal Galaxy A01 Incell;Telas;Samsung;Galaxy A01;61,00;127,90;1;3;8;2
+TELA-A01-OLE;7890010002193;Tela Frontal Galaxy A01 OLED;Telas;Samsung;Galaxy A01;259,00;608,90;3;8;5;1
+TELA-A01-ORI;7890010002209;Tela Frontal Galaxy A01 Original;Telas;Samsung;Galaxy A01;198,50;359,90;3;8;1;1
+BAT-A01;7890010002216;Bateria Galaxy A01;Baterias;Samsung;Galaxy A01;157,50;289,90;1;2;8;0
+CON-A01;7890010002223;Conector de Carga (Flex) Galaxy A01;Conectores;Samsung;Galaxy A01;35,00;77,90;1;0;3;3
+CAM-A01;;Câmera Traseira Galaxy A01;Câmeras;Samsung;Galaxy A01;247,90;530,90;2;3;1;
+ALT-A01;7890010002230;Alto-falante Galaxy A01;Áudio;Samsung;Galaxy A01;23,50;62,90;2;1;7;8
+TAMPA-A01;7890010002247;Tampa Traseira Galaxy A01;Carcaças;Samsung;Galaxy A01;90,50;237,90;1;7;1;4
+FLEX-A01;7890010002254;Flex Botão Power/Volume Galaxy A01;Flex;Samsung;Galaxy A01;17,90;39,90;1;3;8;0
+LENTE-A01;7890010002261;Lente da Câmera Galaxy A01;Câmeras;Samsung;Galaxy A01;20,90;53,90;2;;7;6
+PEL-A01;;Película 3D Galaxy A01;Películas;Samsung;Galaxy A01;7,50;14,90;5;25;15;7
+CAPA-A01-PRE;7890010002278;Capinha Silicone Galaxy A01 Preta;Capinhas;Samsung;Galaxy A01;17,00;45,90;5;20;9;17
+CAPA-A01-TRA;7890010002285;Capinha Silicone Galaxy A01 Transparente;Capinhas;Samsung;Galaxy A01;8,90;19,90;5;4;3;12
+TELA-A02-INC;7890010002292;Tela Frontal Galaxy A02 Incell;Telas;Samsung;Galaxy A02;396,90;794,90;3;2;7;3
+TELA-A02-OLE;7890010002308;Tela Frontal Galaxy A02 OLED;Telas;Samsung;Galaxy A02;83,50;168,90;3;1;;
+TELA-A02-ORI;7890010002315;Tela Frontal Galaxy A02 Original;Telas;Samsung;Galaxy A02;251,50;471,90;1;2;2;8
+BAT-A02;7890010002322;Bateria Galaxy A02;Baterias;Samsung;Galaxy A02;70,50;161,90;3;4;1;1
+CON-A02;7890010002339;Conector de Carga (Flex) Galaxy A02;Conectores;Samsung;Galaxy A02;68,50;157,90;3;4;5;1
+CAM-A02;7890010002346;Câmera Traseira Galaxy A02;Câmeras;Samsung;Galaxy A02;257,50;501,90;3;5;7;6
+ALT-A02;7890010002353;Alto-falante Galaxy A02;Áudio;Samsung;Galaxy A02;38,50;87,90;1;1;7;3
+TAMPA-A02;7890010002360;Tampa Traseira Galaxy A02;Carcaças;Samsung;Galaxy A02;91,90;209,90;3;5;2;0
+FLEX-A02;7890010002377;Flex Botão Power/Volume Galaxy A02;Flex;Samsung;Galaxy A02;13,50;32,90;1;1;0;1
+LENTE-A02;7890010002384;Lente da Câmera Galaxy A02;Câmeras;Samsung;Galaxy A02;13,90;28,90;1;5;3;3
+PEL-A02;7890010002391;Película 3D Galaxy A02;Películas;Samsung;Galaxy A02;11,00;27,90;5;18;0;21
+CAPA-A02-PRE;7890010002407;Capinha Silicone Galaxy A02 Preta;Capinhas;Samsung;Galaxy A02;6,50;11,90;5;14;24;22
+CAPA-A02-TRA;;Capinha Silicone Galaxy A02 Transparente;Capinhas;Samsung;Galaxy A02;14,90;28,90;5;25;12;
+TELA-A03-INC;7890010002414;Tela Frontal Galaxy A03 Incell;Telas;Samsung;Galaxy A03;102,90;216,90;2;8;8;
+TELA-A03-OLE;7890010002421;Tela Frontal Galaxy A03 OLED;Telas;Samsung;Galaxy A03;71,00;157,90;2;1;4;3
+TELA-A03-ORI;7890010002438;Tela Frontal Galaxy A03 Original;Telas;Samsung;Galaxy A03;295,00;725,90;2;2;0;1
+BAT-A03;7890010002445;Bateria Galaxy A03;Baterias;Samsung;Galaxy A03;129,90;283,90;3;1;;6
+CON-A03;7890010002452;Conector de Carga (Flex) Galaxy A03;Conectores;Samsung;Galaxy A03;35,00;77,90;3;2;4;5
+CAM-A03;7890010002469;Câmera Traseira Galaxy A03;Câmeras;Samsung;Galaxy A03;173,50;391,90;2;0;6;7
+ALT-A03;7890010002476;Alto-falante Galaxy A03;Áudio;Samsung;Galaxy A03;16,50;44,90;3;2;8;5
+TAMPA-A03;7890010002483;Tampa Traseira Galaxy A03;Carcaças;Samsung;Galaxy A03;63,90;153,90;3;6;;
+FLEX-A03;7890010002490;Flex Botão Power/Volume Galaxy A03;Flex;Samsung;Galaxy A03;24,90;54,90;3;3;6;5
+LENTE-A03;7890010002506;Lente da Câmera Galaxy A03;Câmeras;Samsung;Galaxy A03;7,50;13,90;3;;7;4
+PEL-A03;7890010002513;Película 3D Galaxy A03;Películas;Samsung;Galaxy A03;3,50;7,90;5;17;2;
+CAPA-A03-PRE;7890010002520;Capinha Silicone Galaxy A03 Preta;Capinhas;Samsung;Galaxy A03;12,50;28,90;5;24;6;1
+CAPA-A03-TRA;7890010002537;Capinha Silicone Galaxy A03 Transparente;Capinhas;Samsung;Galaxy A03;18,00;33,90;5;2;17;4
+TELA-A10-INC;7890010002544;Tela Frontal Galaxy A10 Incell;Telas;Samsung;Galaxy A10;67,50;149,90;1;5;5;1
+TELA-A10-OLE;7890010002551;Tela Frontal Galaxy A10 OLED;Telas;Samsung;Galaxy A10;374,50;864,90;3;4;1;6
+TELA-A10-ORI;7890010002568;Tela Frontal Galaxy A10 Original;Telas;Samsung;Galaxy A10;101,90;218,90;3;7;5;8
+BAT-A10;7890010002575;Bateria Galaxy A10;Baterias;Samsung;Galaxy A10;132,90;257,90;1;2;;1
+CON-A10;7890010002582;Conector de Carga (Flex) Galaxy A10;Conectores;Samsung;Galaxy A10;39,00;73,90;3;0;;3
+CAM-A10;7890010002599;Câmera Traseira Galaxy A10;Câmeras;Samsung;Galaxy A10;52,90;126,90;3;1;1;6
+ALT-A10;;Alto-falante Galaxy A10;Áudio;Samsung;Galaxy A10;21,90;43,90;2;6;6;2
+TAMPA-A10;;Tampa Traseira Galaxy A10;Carcaças;Samsung;Galaxy A10;53,00;108,90;1;2;3;3
+FLEX-A10;7890010002605;Flex Botão Power/Volume Galaxy A10;Flex;Samsung;Galaxy A10;38,00;81,90;2;1;3;0
+LENTE-A10;7890010002612;Lente da Câmera Galaxy A10;Câmeras;Samsung;Galaxy A10;9,00;17,90;2;7;0;8
+PEL-A10;7890010002629;Película 3D Galaxy A10;Películas;Samsung;Galaxy A10;6,00;15,90;5;5;19;18
+CAPA-A10-PRE;7890010002636;Capinha Silicone Galaxy A10 Preta;Capinhas;Samsung;Galaxy A10;9,00;17,90;5;7;;23
+CAPA-A10-TRA;7890010002643;Capinha Silicone Galaxy A10 Transparente;Capinhas;Samsung;Galaxy A10;18,50;40,90;5;23;17;15
+TELA-A11-INC;7890010002650;Tela Frontal Galaxy A11 Incell;Telas;Samsung;Galaxy A11;351,90;636,90;2;2;6;3
+TELA-A11-OLE;7890010002667;Tela Frontal Galaxy A11 OLED;Telas;Samsung;Galaxy A11;216,00;508,90;1;4;3;
+TELA-A11-ORI;7890010002674;Tela Frontal Galaxy A11 Original;Telas;Samsung;Galaxy A11;258,90;516,90;2;;5;3
+BAT-A11;7890010002681;Bateria Galaxy A11;Baterias;Samsung;Galaxy A11;104,50;197,90;2;5;;2
+CON-A11;7890010002698;Conector de Carga (Flex) Galaxy A11;Conectores;Samsung;Galaxy A11;32,90;87,90;2;1;7;2
+CAM-A11;7890010002704;Câmera Traseira Galaxy A11;Câmeras;Samsung;Galaxy A11;264,90;644,90;1;6;7;
+ALT-A11;7890010002711;Alto-falante Galaxy A11;Áudio;Samsung;Galaxy A11;37,90;93,90;1;1;3;5
+TAMPA-A11;7890010002728;Tampa Traseira Galaxy A11;Carcaças;Samsung;Galaxy A11;102,00;190,90;2;4;1;1
+FLEX-A11;7890010002735;Flex Botão Power/Volume Galaxy A11;Flex;Samsung;Galaxy A11;52,00;129,90;3;6;4;
+LENTE-A11;;Lente da Câmera Galaxy A11;Câmeras;Samsung;Galaxy A11;10,90;19,90;3;5;;2
+PEL-A11;;Película 3D Galaxy A11;Películas;Samsung;Galaxy A11;6,00;14,90;5;5;17;25
+CAPA-A11-PRE;;Capinha Silicone Galaxy A11 Preta;Capinhas;Samsung;Galaxy A11;9,00;22,90;5;20;12;8
+CAPA-A11-TRA;7890010002742;Capinha Silicone Galaxy A11 Transparente;Capinhas;Samsung;Galaxy A11;16,00;28,90;5;15;21;3
+TELA-A12-INC;7890010002759;Tela Frontal Galaxy A12 Incell;Telas;Samsung;Galaxy A12;167,90;447,90;3;1;1;6
+TELA-A12-OLE;7890010002766;Tela Frontal Galaxy A12 OLED;Telas;Samsung;Galaxy A12;388,90;831,90;1;6;1;2
+TELA-A12-ORI;7890010002773;Tela Frontal Galaxy A12 Original;Telas;Samsung;Galaxy A12;290,90;599,90;2;;4;0
+BAT-A12;;Bateria Galaxy A12;Baterias;Samsung;Galaxy A12;74,90;152,90;1;;;2
+CON-A12;;Conector de Carga (Flex) Galaxy A12;Conectores;Samsung;Galaxy A12;40,50;74,90;2;0;7;
+CAM-A12;7890010002780;Câmera Traseira Galaxy A12;Câmeras;Samsung;Galaxy A12;65,90;138,90;2;0;1;4
+ALT-A12;7890010002797;Alto-falante Galaxy A12;Áudio;Samsung;Galaxy A12;18,00;44,90;2;;8;7
+TAMPA-A12;7890010002803;Tampa Traseira Galaxy A12;Carcaças;Samsung;Galaxy A12;76,00;193,90;3;;1;4
+FLEX-A12;7890010002810;Flex Botão Power/Volume Galaxy A12;Flex;Samsung;Galaxy A12;40,00;102,90;3;;7;6
+LENTE-A12;7890010002827;Lente da Câmera Galaxy A12;Câmeras;Samsung;Galaxy A12;12,00;26,90;1;8;6;3
+PEL-A12;;Película 3D Galaxy A12;Películas;Samsung;Galaxy A12;11,50;20,90;5;17;6;19
+CAPA-A12-PRE;7890010002834;Capinha Silicone Galaxy A12 Preta;Capinhas;Samsung;Galaxy A12;13,50;35,90;5;;25;24
+CAPA-A12-TRA;;Capinha Silicone Galaxy A12 Transparente;Capinhas;Samsung;Galaxy A12;10,90;24,90;5;25;;13
+TELA-A13-INC;7890010002841;Tela Frontal Galaxy A13 Incell;Telas;Samsung;Galaxy A13;370,00;711,90;3;;2;8
+TELA-A13-OLE;7890010002858;Tela Frontal Galaxy A13 OLED;Telas;Samsung;Galaxy A13;121,50;262,90;2;3;6;
+TELA-A13-ORI;;Tela Frontal Galaxy A13 Original;Telas;Samsung;Galaxy A13;213,00;493,90;3;4;8;7
+BAT-A13;7890010002865;Bateria Galaxy A13;Baterias;Samsung;Galaxy A13;77,50;178,90;2;5;7;2
+CON-A13;7890010002872;Conector de Carga (Flex) Galaxy A13;Conectores;Samsung;Galaxy A13;30,50;55,90;3;8;5;4
+CAM-A13;7890010002889;Câmera Traseira Galaxy A13;Câmeras;Samsung;Galaxy A13;201,00;393,90;3;;3;7
+ALT-A13;7890010002896;Alto-falante Galaxy A13;Áudio;Samsung;Galaxy A13;34,90;63,90;1;1;7;6
+TAMPA-A13;;Tampa Traseira Galaxy A13;Carcaças;Samsung;Galaxy A13;92,90;222,90;2;7;5;8
+FLEX-A13;7890010002902;Flex Botão Power/Volume Galaxy A13;Flex;Samsung;Galaxy A13;25,00;57,90;1;8;5;1
+LENTE-A13;7890010002919;Lente da Câmera Galaxy A13;Câmeras;Samsung;Galaxy A13;21,90;43,90;1;;0;4
+PEL-A13;7890010002926;Película 3D Galaxy A13;Películas;Samsung;Galaxy A13;9,00;16,90;5;;17;1
+CAPA-A13-PRE;7890010002933;Capinha Silicone Galaxy A13 Preta;Capinhas;Samsung;Galaxy A13;11,90;25,90;5;6;0;18
+CAPA-A13-TRA;7890010002940;Capinha Silicone Galaxy A13 Transparente;Capinhas;Samsung;Galaxy A13;16,50;30,90;5;17;8;0
+TELA-A14-INC;7890010002957;Tela Frontal Galaxy A14 Incell;Telas;Samsung;Galaxy A14;397,00;977,90;1;2;7;8
+TELA-A14-OLE;7890010002964;Tela Frontal Galaxy A14 OLED;Telas;Samsung;Galaxy A14;221,00;534,90;3;7;0;1
+TELA-A14-ORI;7890010002971;Tela Frontal Galaxy A14 Original;Telas;Samsung;Galaxy A14;285,90;669,90;1;5;1;
+BAT-A14;7890010002988;Bateria Galaxy A14;Baterias;Samsung;Galaxy A14;84,50;201,90;2;5;0;0
+CON-A14;7890010002995;Conector de Carga (Flex) Galaxy A14;Conectores;Samsung;Galaxy A14;25,90;52,90;1;6;8;0
+CAM-A14;7890010003008;Câmera Traseira Galaxy A14;Câmeras;Samsung;Galaxy A14;172,50;381,90;3;;;6
+ALT-A14;7890010003015;Alto-falante Galaxy A14;Áudio;Samsung;Galaxy A14;19,90;38,90;2;1;6;
+TAMPA-A14;;Tampa Traseira Galaxy A14;Carcaças;Samsung;Galaxy A14;46,90;92,90;1;;1;
+FLEX-A14;7890010003022;Flex Botão Power/Volume Galaxy A14;Flex;Samsung;Galaxy A14;19,50;44,90;1;5;4;6
+LENTE-A14;7890010003039;Lente da Câmera Galaxy A14;Câmeras;Samsung;Galaxy A14;26,00;53,90;3;4;7;4
+PEL-A14;7890010003046;Película 3D Galaxy A14;Películas;Samsung;Galaxy A14;4,00;8,90;5;20;;22
+CAPA-A14-PRE;;Capinha Silicone Galaxy A14 Preta;Capinhas;Samsung;Galaxy A14;7,00;16,90;5;3;9;4
+CAPA-A14-TRA;7890010003053;Capinha Silicone Galaxy A14 Transparente;Capinhas;Samsung;Galaxy A14;14,00;28,90;5;;15;18
+TELA-A20-INC;7890010003060;Tela Frontal Galaxy A20 Incell;Telas;Samsung;Galaxy A20;343,90;677,90;3;3;2;6
+TELA-A20-OLE;7890010003077;Tela Frontal Galaxy A20 OLED;Telas;Samsung;Galaxy A20;352,50;916,90;2;5;7;0
+TELA-A20-ORI;7890010003084;Tela Frontal Galaxy A20 Original;Telas;Samsung;Galaxy A20;359,90;749,90;1;0;8;7
+BAT-A20;7890010003091;Bateria Galaxy A20;Baterias;Samsung;Galaxy A20;122,00;320,90;3;4;2;7
+CON-A20;7890010003107;Conector de Carga (Flex) Galaxy A20;Conectores;Samsung;Galaxy A20;38,00;89,90;3;5;5;1
+CAM-A20;7890010003114;Câmera Traseira Galaxy A20;Câmeras;Samsung;Galaxy A20;306,00;553,90;1;2;8;
+ALT-A20;7890010003121;Alto-falante Galaxy A20;Áudio;Samsung;Galaxy A20;44,00;81,90;2;2;3;
+TAMPA-A20;;Tampa Traseira Galaxy A20;Carcaças;Samsung;Galaxy A20;46,90;107,90;1;6;5;5
+FLEX-A20;;Flex Botão Power/Volume Galaxy A20;Flex;Samsung;Galaxy A20;44,50;113,90;1;4;5;7
+LENTE-A20;7890010003138;Lente da Câmera Galaxy A20;Câmeras;Samsung;Galaxy A20;10,50;20,90;1;;7;5
+PEL-A20;7890010003145;Película 3D Galaxy A20;Películas;Samsung;Galaxy A20;3,90;9,90;5;7;17;
+CAPA-A20-PRE;7890010003152;Capinha Silicone Galaxy A20 Preta;Capinhas;Samsung;Galaxy A20;7,50;14,90;5;12;;1
+CAPA-A20-TRA;7890010003169;Capinha Silicone Galaxy A20 Transparente;Capinhas;Samsung;Galaxy A20;16,90;40,90;5;3;19;16
+TELA-A21S-INC;7890010003176;Tela Frontal Galaxy A21s Incell;Telas;Samsung;Galaxy A21s;225,90;579,90;1;5;3;4
+TELA-A21S-OLE;7890010003183;Tela Frontal Galaxy A21s OLED;Telas;Samsung;Galaxy A21s;194,00;388,90;2;;;4
+TELA-A21S-ORI;;Tela Frontal Galaxy A21s Original;Telas;Samsung;Galaxy A21s;312,90;825,90;1;3;8;4
+BAT-A21S;7890010003190;Bateria Galaxy A21s;Baterias;Samsung;Galaxy A21s;71,00;147,90;2;0;0;3
+CON-A21S;7890010003206;Conector de Carga (Flex) Galaxy A21s;Conectores;Samsung;Galaxy A21s;17,00;40,90;2;4;4;4
+CAM-A21S;7890010003213;Câmera Traseira Galaxy A21s;Câmeras;Samsung;Galaxy A21s;72,90;175,90;1;8;;4
+ALT-A21S;7890010003220;Alto-falante Galaxy A21s;Áudio;Samsung;Galaxy A21s;42,00;76,90;1;;8;6
+TAMPA-A21S;7890010003237;Tampa Traseira Galaxy A21s;Carcaças;Samsung;Galaxy A21s;70,90;170,90;1;1;3;5
+FLEX-A21S;;Flex Botão Power/Volume Galaxy A21s;Flex;Samsung;Galaxy A21s;44,00;79,90;3;5;8;3
+LENTE-A21S;7890010003244;Lente da Câmera Galaxy A21s;Câmeras;Samsung;Galaxy A21s;19,50;41,90;1;1;6;6
+PEL-A21S;7890010003251;Película 3D Galaxy A21s;Películas;Samsung;Galaxy A21s;9,90;24,90;5;;18;22
+CAPA-A21S-PRE;7890010003268;Capinha Silicone Galaxy A21s Preta;Capinhas;Samsung;Galaxy A21s;7,90;20,90;5;8;;24
+CAPA-A21S-TRA;7890010003275;Capinha Silicone Galaxy A21s Transparente;Capinhas;Samsung;Galaxy A21s;5,90;10,90;5;7;11;13
+TELA-A22-INC;;Tela Frontal Galaxy A22 Incell;Telas;Samsung;Galaxy A22;193,50;472,90;2;7;7;2
+TELA-A22-OLE;;Tela Frontal Galaxy A22 OLED;Telas;Samsung;Galaxy A22;67,90;141,90;3;3;5;
+TELA-A22-ORI;7890010003282;Tela Frontal Galaxy A22 Original;Telas;Samsung;Galaxy A22;133,00;344,90;1;4;4;
+BAT-A22;7890010003299;Bateria Galaxy A22;Baterias;Samsung;Galaxy A22;128,90;312,90;1;2;6;7
+CON-A22;7890010003305;Conector de Carga (Flex) Galaxy A22;Conectores;Samsung;Galaxy A22;38,50;77,90;1;5;5;8
+CAM-A22;7890010003312;Câmera Traseira Galaxy A22;Câmeras;Samsung;Galaxy A22;196,00;459,90;2;;3;2
+ALT-A22;7890010003329;Alto-falante Galaxy A22;Áudio;Samsung;Galaxy A22;24,50;51,90;2;4;;7
+TAMPA-A22;7890010003336;Tampa Traseira Galaxy A22;Carcaças;Samsung;Galaxy A22;81,00;212,90;1;;5;7
+FLEX-A22;7890010003343;Flex Botão Power/Volume Galaxy A22;Flex;Samsung;Galaxy A22;52,50;126,90;2;3;2;2
+LENTE-A22;;Lente da Câmera Galaxy A22;Câmeras;Samsung;Galaxy A22;29,90;66,90;3;5;8;0
+PEL-A22;7890010003350;Película 3D Galaxy A22;Películas;Samsung;Galaxy A22;3,90;7,90;5;11;22;22
+CAPA-A22-PRE;;Capinha Silicone Galaxy A22 Preta;Capinhas;Samsung;Galaxy A22;13,50;24,90;5;0;12;4
+CAPA-A22-TRA;7890010003367;Capinha Silicone Galaxy A22 Transparente;Capinhas;Samsung;Galaxy A22;13,50;26,90;5;23;15;
+TELA-A30-INC;7890010003374;Tela Frontal Galaxy A30 Incell;Telas;Samsung;Galaxy A30;157,90;344,90;3;7;4;3
+TELA-A30-OLE;7890010003381;Tela Frontal Galaxy A30 OLED;Telas;Samsung;Galaxy A30;183,90;346,90;3;3;2;6
+TELA-A30-ORI;7890010003398;Tela Frontal Galaxy A30 Original;Telas;Samsung;Galaxy A30;388,50;940,90;2;0;1;5
+BAT-A30;7890010003404;Bateria Galaxy A30;Baterias;Samsung;Galaxy A30;108,50;195,90;2;6;0;7
+CON-A30;;Conector de Carga (Flex) Galaxy A30;Conectores;Samsung;Galaxy A30;29,90;61,90;2;0;;7
+CAM-A30;7890010003411;Câmera Traseira Galaxy A30;Câmeras;Samsung;Galaxy A30;90,00;205,90;1;8;3;2
+ALT-A30;7890010003428;Alto-falante Galaxy A30;Áudio;Samsung;Galaxy A30;10,90;22,90;2;2;3;4
+TAMPA-A30;7890010003435;Tampa Traseira Galaxy A30;Carcaças;Samsung;Galaxy A30;94,50;231,90;1;2;0;6
+FLEX-A30;7890010003442;Flex Botão Power/Volume Galaxy A30;Flex;Samsung;Galaxy A30;36,50;74,90;1;7;5;
+LENTE-A30;;Lente da Câmera Galaxy A30;Câmeras;Samsung;Galaxy A30;17,00;31,90;3;;4;5
+PEL-A30;;Película 3D Galaxy A30;Películas;Samsung;Galaxy A30;4,00;8,90;5;0;5;0
+CAPA-A30-PRE;;Capinha Silicone Galaxy A30 Preta;Capinhas;Samsung;Galaxy A30;18,00;37,90;5;5;12;14
+CAPA-A30-TRA;7890010003459;Capinha Silicone Galaxy A30 Transparente;Capinhas;Samsung;Galaxy A30;6,90;12,90;5;9;18;1
+TELA-A31-INC;7890010003466;Tela Frontal Galaxy A31 Incell;Telas;Samsung;Galaxy A31;300,90;776,90;1;4;6;8
+TELA-A31-OLE;7890010003473;Tela Frontal Galaxy A31 OLED;Telas;Samsung;Galaxy A31;63,90;161,90;1;4;6;5
+TELA-A31-ORI;7890010003480;Tela Frontal Galaxy A31 Original;Telas;Samsung;Galaxy A31;213,90;452,90;1;0;3;
+BAT-A31;7890010003497;Bateria Galaxy A31;Baterias;Samsung;Galaxy A31;111,50;251,90;2;;6;7
+CON-A31;;Conector de Carga (Flex) Galaxy A31;Conectores;Samsung;Galaxy A31;25,50;50,90;1;6;5;7
+CAM-A31;7890010003503;Câmera Traseira Galaxy A31;Câmeras;Samsung;Galaxy A31;312,90;716,90;1;8;2;4
+ALT-A31;7890010003510;Alto-falante Galaxy A31;Áudio;Samsung;Galaxy A31;42,50;112,90;3;3;7;8
+TAMPA-A31;7890010003527;Tampa Traseira Galaxy A31;Carcaças;Samsung;Galaxy A31;72,00;181,90;2;3;0;3
+FLEX-A31;;Flex Botão Power/Volume Galaxy A31;Flex;Samsung;Galaxy A31;44,00;89,90;1;6;8;6
+LENTE-A31;7890010003534;Lente da Câmera Galaxy A31;Câmeras;Samsung;Galaxy A31;6,50;14,90;3;7;5;0
+PEL-A31;7890010003541;Película 3D Galaxy A31;Películas;Samsung;Galaxy A31;7,50;15,90;5;21;21;20
+CAPA-A31-PRE;7890010003558;Capinha Silicone Galaxy A31 Preta;Capinhas;Samsung;Galaxy A31;12,50;23,90;5;25;0;18
+CAPA-A31-TRA;7890010003565;Capinha Silicone Galaxy A31 Transparente;Capinhas;Samsung;Galaxy A31;8,50;16,90;5;2;23;22
+TELA-A32-INC;7890010003572;Tela Frontal Galaxy A32 Incell;Telas;Samsung;Galaxy A32;160,90;292,90;1;1;6;4
+TELA-A32-OLE;;Tela Frontal Galaxy A32 OLED;Telas;Samsung;Galaxy A32;100,00;200,90;2;;1;5
+TELA-A32-ORI;7890010003589;Tela Frontal Galaxy A32 Original;Telas;Samsung;Galaxy A32;224,00;433,90;3;6;1;3
+BAT-A32;7890010003596;Bateria Galaxy A32;Baterias;Samsung;Galaxy A32;37,50;67,90;1;0;3;3
+CON-A32;7890010003602;Conector de Carga (Flex) Galaxy A32;Conectores;Samsung;Galaxy A32;33,00;59,90;3;5;4;6
+CAM-A32;7890010003619;Câmera Traseira Galaxy A32;Câmeras;Samsung;Galaxy A32;245,50;659,90;2;5;0;7
+ALT-A32;7890010003626;Alto-falante Galaxy A32;Áudio;Samsung;Galaxy A32;28,50;56,90;2;8;0;5
+TAMPA-A32;7890010003633;Tampa Traseira Galaxy A32;Carcaças;Samsung;Galaxy A32;110,50;294,90;2;2;5;
+FLEX-A32;7890010003640;Flex Botão Power/Volume Galaxy A32;Flex;Samsung;Galaxy A32;32,50;58,90;1;7;4;2
+LENTE-A32;7890010003657;Lente da Câmera Galaxy A32;Câmeras;Samsung;Galaxy A32;28,50;73,90;1;3;5;8
+PEL-A32;7890010003664;Película 3D Galaxy A32;Películas;Samsung;Galaxy A32;5,00;9,90;5;11;;23
+CAPA-A32-PRE;7890010003671;Capinha Silicone Galaxy A32 Preta;Capinhas;Samsung;Galaxy A32;14,00;30,90;5;8;13;22
+CAPA-A32-TRA;7890010003688;Capinha Silicone Galaxy A32 Transparente;Capinhas;Samsung;Galaxy A32;15,00;39,90;5;25;16;
+TELA-A50-INC;7890010003695;Tela Frontal Galaxy A50 Incell;Telas;Samsung;Galaxy A50;163,50;370,90;2;;5;
+TELA-A50-OLE;7890010003701;Tela Frontal Galaxy A50 OLED;Telas;Samsung;Galaxy A50;256,50;483,90;1;;8;2
+TELA-A50-ORI;;Tela Frontal Galaxy A50 Original;Telas;Samsung;Galaxy A50;413,90;830,90;1;0;7;3
+BAT-A50;7890010003718;Bateria Galaxy A50;Baterias;Samsung;Galaxy A50;141,50;360,90;3;7;5;
+CON-A50;7890010003725;Conector de Carga (Flex) Galaxy A50;Conectores;Samsung;Galaxy A50;40,00;97,90;1;4;;
+CAM-A50;7890010003732;Câmera Traseira Galaxy A50;Câmeras;Samsung;Galaxy A50;110,90;235,90;3;4;3;1
+ALT-A50;7890010003749;Alto-falante Galaxy A50;Áudio;Samsung;Galaxy A50;39,90;89,90;2;6;2;0
+TAMPA-A50;7890010003756;Tampa Traseira Galaxy A50;Carcaças;Samsung;Galaxy A50;95,00;218,90;1;5;2;3
+FLEX-A50;7890010003763;Flex Botão Power/Volume Galaxy A50;Flex;Samsung;Galaxy A50;11,50;30,90;1;3;5;3
+LENTE-A50;7890010003770;Lente da Câmera Galaxy A50;Câmeras;Samsung;Galaxy A50;20,00;52,90;2;6;6;3
+PEL-A50;7890010003787;Película 3D Galaxy A50;Películas;Samsung;Galaxy A50;7,50;18,90;5;;4;12
+CAPA-A50-PRE;;Capinha Silicone Galaxy A50 Preta;Capinhas;Samsung;Galaxy A50;5,50;10,90;5;16;1;23
+CAPA-A50-TRA;7890010003794;Capinha Silicone Galaxy A50 Transparente;Capinhas;Samsung;Galaxy A50;5,90;10,90;5;10;10;9
+TELA-A51-INC;7890010003800;Tela Frontal Galaxy A51 Incell;Telas;Samsung;Galaxy A51;177,50;471,90;2;4;2;0
+TELA-A51-OLE;7890010003817;Tela Frontal Galaxy A51 OLED;Telas;Samsung;Galaxy A51;165,90;307,90;1;8;;1
+TELA-A51-ORI;;Tela Frontal Galaxy A51 Original;Telas;Samsung;Galaxy A51;396,00;749,90;3;1;5;3
+BAT-A51;7890010003824;Bateria Galaxy A51;Baterias;Samsung;Galaxy A51;122,50;264,90;3;5;6;5
+CON-A51;;Conector de Carga (Flex) Galaxy A51;Conectores;Samsung;Galaxy A51;43,50;93,90;2;5;5;3
+CAM-A51;7890010003831;Câmera Traseira Galaxy A51;Câmeras;Samsung;Galaxy A51;145,00;272,90;3;;;7
+ALT-A51;;Alto-falante Galaxy A51;Áudio;Samsung;Galaxy A51;42,90;112,90;1;5;1;
+TAMPA-A51;7890010003848;Tampa Traseira Galaxy A51;Carcaças;Samsung;Galaxy A51;100,90;218,90;2;5;2;6
+FLEX-A51;;Flex Botão Power/Volume Galaxy A51;Flex;Samsung;Galaxy A51;11,90;28,90;3;3;;
+LENTE-A51;7890010003855;Lente da Câmera Galaxy A51;Câmeras;Samsung;Galaxy A51;18,00;38,90;3;5;1;5
+PEL-A51;7890010003862;Película 3D Galaxy A51;Películas;Samsung;Galaxy A51;10,50;22,90;5;21;;2
+CAPA-A51-PRE;7890010003879;Capinha Silicone Galaxy A51 Preta;Capinhas;Samsung;Galaxy A51;17,50;35,90;5;15;21;4
+CAPA-A51-TRA;7890010003886;Capinha Silicone Galaxy A51 Transparente;Capinhas;Samsung;Galaxy A51;15,90;39,90;5;21;6;12
+TELA-A52-INC;7890010003893;Tela Frontal Galaxy A52 Incell;Telas;Samsung;Galaxy A52;280,50;542,90;2;7;2;7
+TELA-A52-OLE;7890010003909;Tela Frontal Galaxy A52 OLED;Telas;Samsung;Galaxy A52;75,50;138,90;3;2;2;4
+TELA-A52-ORI;7890010003916;Tela Frontal Galaxy A52 Original;Telas;Samsung;Galaxy A52;76,90;205,90;1;1;2;1
+BAT-A52;7890010003923;Bateria Galaxy A52;Baterias;Samsung;Galaxy A52;158,00;288,90;3;6;0;
+CON-A52;7890010003930;Conector de Carga (Flex) Galaxy A52;Conectores;Samsung;Galaxy A52;20,90;49,90;2;0;1;5
+CAM-A52;7890010003947;Câmera Traseira Galaxy A52;Câmeras;Samsung;Galaxy A52;57,00;118,90;3;4;3;0
+ALT-A52;7890010003954;Alto-falante Galaxy A52;Áudio;Samsung;Galaxy A52;36,90;97,90;2;4;7;0
+TAMPA-A52;7890010003961;Tampa Traseira Galaxy A52;Carcaças;Samsung;Galaxy A52;46,90;85,90;3;3;5;8
+FLEX-A52;7890010003978;Flex Botão Power/Volume Galaxy A52;Flex;Samsung;Galaxy A52;15,90;41,90;3;2;;0
+LENTE-A52;7890010003985;Lente da Câmera Galaxy A52;Câmeras;Samsung;Galaxy A52;24,00;42,90;1;2;;8
+PEL-A52;7890010003992;Película 3D Galaxy A52;Películas;Samsung;Galaxy A52;9,50;19,90;5;14;7;15
+CAPA-A52-PRE;7890010004005;Capinha Silicone Galaxy A52 Preta;Capinhas;Samsung;Galaxy A52;6,00;12,90;5;23;9;1
+CAPA-A52-TRA;;Capinha Silicone Galaxy A52 Transparente;Capinhas;Samsung;Galaxy A52;18,50;38,90;5;15;16;21
+TELA-A53-INC;;Tela Frontal Galaxy A53 Incell;Telas;Samsung;Galaxy A53;236,00;475,90;3;8;1;6
+TELA-A53-OLE;7890010004012;Tela Frontal Galaxy A53 OLED;Telas;Samsung;Galaxy A53;325,50;747,90;3;0;4;3
+TELA-A53-ORI;7890010004029;Tela Frontal Galaxy A53 Original;Telas;Samsung;Galaxy A53;279,90;538,90;2;;5;7
+BAT-A53;7890010004036;Bateria Galaxy A53;Baterias;Samsung;Galaxy A53;138,90;255,90;2;6;;3
+CON-A53;7890010004043;Conector de Carga (Flex) Galaxy A53;Conectores;Samsung;Galaxy A53;59,00;135,90;2;2;3;
+CAM-A53;7890010004050;Câmera Traseira Galaxy A53;Câmeras;Samsung;Galaxy A53;277,90;680,90;1;5;5;8
+ALT-A53;7890010004067;Alto-falante Galaxy A53;Áudio;Samsung;Galaxy A53;26,90;61,90;3;5;2;8
+TAMPA-A53;7890010004074;Tampa Traseira Galaxy A53;Carcaças;Samsung;Galaxy A53;63,90;157,90;1;2;3;0
+FLEX-A53;7890010004081;Flex Botão Power/Volume Galaxy A53;Flex;Samsung;Galaxy A53;26,90;55,90;1;5;;1
+LENTE-A53;7890010004098;Lente da Câmera Galaxy A53;Câmeras;Samsung;Galaxy A53;25,50;56,90;1;0;4;2
+PEL-A53;7890010004104;Película 3D Galaxy A53;Películas;Samsung;Galaxy A53;3,50;6,90;5;12;15;21
+CAPA-A53-PRE;;Capinha Silicone Galaxy A53 Preta;Capinhas;Samsung;Galaxy A53;6,90;12,90;5;23;2;7
+CAPA-A53-TRA;7890010004111;Capinha Silicone Galaxy A53 Transparente;Capinhas;Samsung;Galaxy A53;16,00;32,90;5;;3;13
+TELA-A54-INC;7890010004128;Tela Frontal Galaxy A54 Incell;Telas;Samsung;Galaxy A54;321,00;842,90;3;8;3;2
+TELA-A54-OLE;;Tela Frontal Galaxy A54 OLED;Telas;Samsung;Galaxy A54;367,90;790,90;1;0;3;6
+TELA-A54-ORI;;Tela Frontal Galaxy A54 Original;Telas;Samsung;Galaxy A54;190,50;451,90;3;5;5;6
+BAT-A54;7890010004135;Bateria Galaxy A54;Baterias;Samsung;Galaxy A54;119,50;320,90;1;1;7;2
+CON-A54;7890010004142;Conector de Carga (Flex) Galaxy A54;Conectores;Samsung;Galaxy A54;56,90;135,90;2;4;3;1
+CAM-A54;7890010004159;Câmera Traseira Galaxy A54;Câmeras;Samsung;Galaxy A54;58,90;152,90;2;6;5;3
+ALT-A54;;Alto-falante Galaxy A54;Áudio;Samsung;Galaxy A54;30,00;62,90;2;1;2;7
+TAMPA-A54;7890010004166;Tampa Traseira Galaxy A54;Carcaças;Samsung;Galaxy A54;73,90;166,90;1;2;0;6
+FLEX-A54;7890010004173;Flex Botão Power/Volume Galaxy A54;Flex;Samsung;Galaxy A54;36,50;83,90;3;6;7;
+LENTE-A54;7890010004180;Lente da Câmera Galaxy A54;Câmeras;Samsung;Galaxy A54;11,50;29,90;2;0;8;3
+PEL-A54;;Película 3D Galaxy A54;Películas;Samsung;Galaxy A54;3,00;6,90;5;15;6;9
+CAPA-A54-PRE;;Capinha Silicone Galaxy A54 Preta;Capinhas;Samsung;Galaxy A54;10,90;19,90;5;1;19;8
+CAPA-A54-TRA;7890010004197;Capinha Silicone Galaxy A54 Transparente;Capinhas;Samsung;Galaxy A54;14,90;31,90;5;1;3;
+TELA-A71-INC;7890010004203;Tela Frontal Galaxy A71 Incell;Telas;Samsung;Galaxy A71;188,00;430,90;2;7;3;4
+TELA-A71-OLE;7890010004210;Tela Frontal Galaxy A71 OLED;Telas;Samsung;Galaxy A71;372,00;711,90;3;1;1;0
+TELA-A71-ORI;7890010004227;Tela Frontal Galaxy A71 Original;Telas;Samsung;Galaxy A71;108,90;247,90;1;2;;2
+BAT-A71;7890010004234;Bateria Galaxy A71;Baterias;Samsung;Galaxy A71;159,50;412,90;2;3;7;2
+CON-A71;7890010004241;Conector de Carga (Flex) Galaxy A71;Conectores;Samsung;Galaxy A71;63,90;149,90;3;2;3;7
+CAM-A71;7890010004258;Câmera Traseira Galaxy A71;Câmeras;Samsung;Galaxy A71;229,90;447,90;1;6;8;6
+ALT-A71;7890010004265;Alto-falante Galaxy A71;Áudio;Samsung;Galaxy A71;43,00;89,90;2;4;2;7
+TAMPA-A71;7890010004272;Tampa Traseira Galaxy A71;Carcaças;Samsung;Galaxy A71;78,00;198,90;3;5;2;7
+FLEX-A71;;Flex Botão Power/Volume Galaxy A71;Flex;Samsung;Galaxy A71;40,50;88,90;2;8;7;7
+LENTE-A71;7890010004289;Lente da Câmera Galaxy A71;Câmeras;Samsung;Galaxy A71;17,90;35,90;1;4;;6
+PEL-A71;7890010004296;Película 3D Galaxy A71;Películas;Samsung;Galaxy A71;9,00;19,90;5;17;0;4
+CAPA-A71-PRE;7890010004302;Capinha Silicone Galaxy A71 Preta;Capinhas;Samsung;Galaxy A71;10,50;18,90;5;11;3;0
+CAPA-A71-TRA;7890010004319;Capinha Silicone Galaxy A71 Transparente;Capinhas;Samsung;Galaxy A71;5,00;11,90;5;0;20;
+TELA-A72-INC;7890010004326;Tela Frontal Galaxy A72 Incell;Telas;Samsung;Galaxy A72;102,00;187,90;3;3;7;
+TELA-A72-OLE;7890010004333;Tela Frontal Galaxy A72 OLED;Telas;Samsung;Galaxy A72;134,90;297,90;3;7;3;2
+TELA-A72-ORI;7890010004340;Tela Frontal Galaxy A72 Original;Telas;Samsung;Galaxy A72;360,90;810,90;3;0;4;5
+BAT-A72;7890010004357;Bateria Galaxy A72;Baterias;Samsung;Galaxy A72;38,90;100,90;2;2;0;5
+CON-A72;7890010004364;Conector de Carga (Flex) Galaxy A72;Conectores;Samsung;Galaxy A72;19,90;47,90;3;4;2;
+CAM-A72;;Câmera Traseira Galaxy A72;Câmeras;Samsung;Galaxy A72;44,50;99,90;2;;1;0
+ALT-A72;7890010004371;Alto-falante Galaxy A72;Áudio;Samsung;Galaxy A72;18,50;35,90;2;4;7;1
+TAMPA-A72;;Tampa Traseira Galaxy A72;Carcaças;Samsung;Galaxy A72;38,50;84,90;2;5;6;
+FLEX-A72;7890010004388;Flex Botão Power/Volume Galaxy A72;Flex;Samsung;Galaxy A72;33,90;72,90;3;3;4;4
+LENTE-A72;7890010004395;Lente da Câmera Galaxy A72;Câmeras;Samsung;Galaxy A72;13,00;26,90;2;2;4;3
+PEL-A72;7890010004401;Película 3D Galaxy A72;Películas;Samsung;Galaxy A72;9,50;16,90;5;24;13;21
+CAPA-A72-PRE;;Capinha Silicone Galaxy A72 Preta;Capinhas;Samsung;Galaxy A72;17,00;40,90;5;6;6;7
+CAPA-A72-TRA;7890010004418;Capinha Silicone Galaxy A72 Transparente;Capinhas;Samsung;Galaxy A72;17,90;44,90;5;4;;
+TELA-M12-INC;7890010004425;Tela Frontal Galaxy M12 Incell;Telas;Samsung;Galaxy M12;413,50;817,90;1;4;3;
+TELA-M12-OLE;;Tela Frontal Galaxy M12 OLED;Telas;Samsung;Galaxy M12;401,00;892,90;1;3;2;4
+TELA-M12-ORI;7890010004432;Tela Frontal Galaxy M12 Original;Telas;Samsung;Galaxy M12;344,90;719,90;1;8;5;3
+BAT-M12;7890010004449;Bateria Galaxy M12;Baterias;Samsung;Galaxy M12;150,00;400,90;3;7;4;
+CON-M12;7890010004456;Conector de Carga (Flex) Galaxy M12;Conectores;Samsung;Galaxy M12;61,50;145,90;2;;3;2
+CAM-M12;;Câmera Traseira Galaxy M12;Câmeras;Samsung;Galaxy M12;83,50;176,90;2;2;7;
+ALT-M12;;Alto-falante Galaxy M12;Áudio;Samsung;Galaxy M12;43,50;108,90;1;8;7;2
+TAMPA-M12;7890010004463;Tampa Traseira Galaxy M12;Carcaças;Samsung;Galaxy M12;31,00;69,90;2;3;1;
+FLEX-M12;7890010004470;Flex Botão Power/Volume Galaxy M12;Flex;Samsung;Galaxy M12;35,90;84,90;3;1;0;8
+LENTE-M12;7890010004487;Lente da Câmera Galaxy M12;Câmeras;Samsung;Galaxy M12;7,50;17,90;1;6;6;
+PEL-M12;7890010004494;Película 3D Galaxy M12;Películas;Samsung;Galaxy M12;8,50;14,90;5;14;9;22
+CAPA-M12-PRE;7890010004500;Capinha Silicone Galaxy M12 Preta;Capinhas;Samsung;Galaxy M12;10,50;18,90;5;15;4;4
+CAPA-M12-TRA;;Capinha Silicone Galaxy M12 Transparente;Capinhas;Samsung;Galaxy M12;13,90;29,90;5;10;6;0
+TELA-M22-INC;;Tela Frontal Galaxy M22 Incell;Telas;Samsung;Galaxy M22;60,50;115,90;2;;0;4
+TELA-M22-OLE;7890010004517;Tela Frontal Galaxy M22 OLED;Telas;Samsung;Galaxy M22;166,90;360,90;3;8;3;4
+TELA-M22-ORI;7890010004524;Tela Frontal Galaxy M22 Original;Telas;Samsung;Galaxy M22;279,00;539,90;1;7;2;3
+BAT-M22;7890010004531;Bateria Galaxy M22;Baterias;Samsung;Galaxy M22;95,50;219,90;3;8;8;4
+CON-M22;7890010004548;Conector de Carga (Flex) Galaxy M22;Conectores;Samsung;Galaxy M22;29,50;67,90;2;1;8;4
+CAM-M22;;Câmera Traseira Galaxy M22;Câmeras;Samsung;Galaxy M22;84,00;195,90;2;2;7;4
+ALT-M22;7890010004555;Alto-falante Galaxy M22;Áudio;Samsung;Galaxy M22;26,90;48,90;1;4;5;2
+TAMPA-M22;7890010004562;Tampa Traseira Galaxy M22;Carcaças;Samsung;Galaxy M22;61,00;135,90;2;6;5;7
+FLEX-M22;7890010004579;Flex Botão Power/Volume Galaxy M22;Flex;Samsung;Galaxy M22;43,90;82,90;1;8;4;4
+LENTE-M22;7890010004586;Lente da Câmera Galaxy M22;Câmeras;Samsung;Galaxy M22;9,90;20,90;2;3;0;8
+PEL-M22;7890010004593;Película 3D Galaxy M22;Películas;Samsung;Galaxy M22;4,00;6,90;5;25;5;
+CAPA-M22-PRE;7890010004609;Capinha Silicone Galaxy M22 Preta;Capinhas;Samsung;Galaxy M22;12,50;25,90;5;15;16;2
+CAPA-M22-TRA;7890010004616;Capinha Silicone Galaxy M22 Transparente;Capinhas;Samsung;Galaxy M22;16,50;33,90;5;19;23;20
+TELA-M32-INC;7890010004623;Tela Frontal Galaxy M32 Incell;Telas;Samsung;Galaxy M32;210,50;502,90;3;8;;5
+TELA-M32-OLE;7890010004630;Tela Frontal Galaxy M32 OLED;Telas;Samsung;Galaxy M32;179,50;439,90;2;;2;0
+TELA-M32-ORI;7890010004647;Tela Frontal Galaxy M32 Original;Telas;Samsung;Galaxy M32;278,50;587,90;3;1;6;1
+BAT-M32;7890010004654;Bateria Galaxy M32;Baterias;Samsung;Galaxy M32;57,50;105,90;2;;7;2
+CON-M32;7890010004661;Conector de Carga (Flex) Galaxy M32;Conectores;Samsung;Galaxy M32;43,90;105,90;1;7;7;4
+CAM-M32;;Câmera Traseira Galaxy M32;Câmeras;Samsung;Galaxy M32;253,50;584,90;3;2;2;5
+ALT-M32;7890010004678;Alto-falante Galaxy M32;Áudio;Samsung;Galaxy M32;10,90;20,90;2;7;4;7
+TAMPA-M32;7890010004685;Tampa Traseira Galaxy M32;Carcaças;Samsung;Galaxy M32;22,50;47,90;3;6;;
+FLEX-M32;7890010004692;Flex Botão Power/Volume Galaxy M32;Flex;Samsung;Galaxy M32;45,90;118,90;3;4;4;2
+LENTE-M32;;Lente da Câmera Galaxy M32;Câmeras;Samsung;Galaxy M32;12,90;28,90;2;6;4;8
+PEL-M32;7890010004708;Película 3D Galaxy M32;Películas;Samsung;Galaxy M32;4,50;10,90;5;8;11;4
+CAPA-M32-PRE;7890010004715;Capinha Silicone Galaxy M32 Preta;Capinhas;Samsung;Galaxy M32;7,50;16,90;5;16;15;7
+CAPA-M32-TRA;7890010004722;Capinha Silicone Galaxy M32 Transparente;Capinhas;Samsung;Galaxy M32;11,90;28,90;5;;0;
+TELA-S20FE-INC;7890010004739;Tela Frontal Galaxy S20 FE Incell;Telas;Samsung;Galaxy S20 FE;165,90;382,90;3;3;;4
+TELA-S20FE-OLE;7890010004746;Tela Frontal Galaxy S20 FE OLED;Telas;Samsung;Galaxy S20 FE;349,00;893,90;2;5;7;8
+TELA-S20FE-ORI;7890010004753;Tela Frontal Galaxy S20 FE Original;Telas;Samsung;Galaxy S20 FE;90,50;243,90;2;1;5;8
+BAT-S20FE;7890010004760;Bateria Galaxy S20 FE;Baterias;Samsung;Galaxy S20 FE;149,90;360,90;3;5;;
+CON-S20FE;7890010004777;Conector de Carga (Flex) Galaxy S20 FE;Conectores;Samsung;Galaxy S20 FE;50,00;104,90;1;7;7;6
+CAM-S20FE;;Câmera Traseira Galaxy S20 FE;Câmeras;Samsung;Galaxy S20 FE;259,00;501,90;2;6;8;5
+ALT-S20FE;7890010004784;Alto-falante Galaxy S20 FE;Áudio;Samsung;Galaxy S20 FE;37,00;79,90;1;3;7;2
+TAMPA-S20FE;7890010004791;Tampa Traseira Galaxy S20 FE;Carcaças;Samsung;Galaxy S20 FE;115,90;277,90;2;6;6;0
+FLEX-S20FE;7890010004807;Flex Botão Power/Volume Galaxy S20 FE;Flex;Samsung;Galaxy S20 FE;54,90;139,90;1;1;2;1
+LENTE-S20FE;;Lente da Câmera Galaxy S20 FE;Câmeras;Samsung;Galaxy S20 FE;8,90;23,90;2;5;3;4
+PEL-S20FE;7890010004814;Película 3D Galaxy S20 FE;Películas;Samsung;Galaxy S20 FE;5,90;13,90;5;6;23;21
+CAPA-S20FE-PRE;;Capinha Silicone Galaxy S20 FE Preta;Capinhas;Samsung;Galaxy S20 FE;9,50;24,90;5;1;;6
+CAPA-S20FE-TRA;7890010004821;Capinha Silicone Galaxy S20 FE Transparente;Capinhas;Samsung;Galaxy S20 FE;7,50;19,90;5;12;24;16
+TELA-S21-INC;;Tela Frontal Galaxy S21 Incell;Telas;Samsung;Galaxy S21;222,90;532,90;3;8;0;7
+TELA-S21-OLE;;Tela Frontal Galaxy S21 OLED;Telas;Samsung;Galaxy S21;140,00;329,90;2;5;0;8
+TELA-S21-ORI;;Tela Frontal Galaxy S21 Original;Telas;Samsung;Galaxy S21;414,90;899,90;1;8;3;6
+BAT-S21;7890010004838;Bateria Galaxy S21;Baterias;Samsung;Galaxy S21;133,00;290,90;2;2;;0
+CON-S21;7890010004845;Conector de Carga (Flex) Galaxy S21;Conectores;Samsung;Galaxy S21;29,00;74,90;2;8;;3
+CAM-S21;7890010004852;Câmera Traseira Galaxy S21;Câmeras;Samsung;Galaxy S21;132,50;338,90;3;4;5;8
+ALT-S21;7890010004869;Alto-falante Galaxy S21;Áudio;Samsung;Galaxy S21;40,50;99,90;1;0;3;5
+TAMPA-S21;7890010004876;Tampa Traseira Galaxy S21;Carcaças;Samsung;Galaxy S21;22,90;45,90;2;7;2;0
+FLEX-S21;7890010004883;Flex Botão Power/Volume Galaxy S21;Flex;Samsung;Galaxy S21;16,50;43,90;1;2;1;2
+LENTE-S21;7890010004890;Lente da Câmera Galaxy S21;Câmeras;Samsung;Galaxy S21;22,90;47,90;2;0;4;6
+PEL-S21;;Película 3D Galaxy S21;Películas;Samsung;Galaxy S21;9,90;19,90;5;0;12;1
+CAPA-S21-PRE;7890010004906;Capinha Silicone Galaxy S21 Preta;Capinhas;Samsung;Galaxy S21;10,50;20,90;5;12;3;11
+CAPA-S21-TRA;7890010004913;Capinha Silicone Galaxy S21 Transparente;Capinhas;Samsung;Galaxy S21;14,90;39,90;5;4;24;24
+TELA-S22-INC;7890010004920;Tela Frontal Galaxy S22 Incell;Telas;Samsung;Galaxy S22;237,50;450,90;3;2;5;2
+TELA-S22-OLE;7890010004937;Tela Frontal Galaxy S22 OLED;Telas;Samsung;Galaxy S22;138,90;327,90;2;8;0;
+TELA-S22-ORI;7890010004944;Tela Frontal Galaxy S22 Original;Telas;Samsung;Galaxy S22;66,00;128,90;3;7;4;5
+BAT-S22;;Bateria Galaxy S22;Baterias;Samsung;Galaxy S22;58,90;130,90;2;0;3;1
+CON-S22;7890010004951;Conector de Carga (Flex) Galaxy S22;Conectores;Samsung;Galaxy S22;53,00;105,90;3;1;0;7
+CAM-S22;7890010004968;Câmera Traseira Galaxy S22;Câmeras;Samsung;Galaxy S22;265,90;590,90;2;3;3;7
+ALT-S22;7890010004975;Alto-falante Galaxy S22;Áudio;Samsung;Galaxy S22;13,90;31,90;1;7;4;5
+TAMPA-S22;7890010004982;Tampa Traseira Galaxy S22;Carcaças;Samsung;Galaxy S22;109,90;239,90;3;7;0;0
+FLEX-S22;7890010004999;Flex Botão Power/Volume Galaxy S22;Flex;Samsung;Galaxy S22;35,00;91,90;3;5;8;1
+LENTE-S22;7890010005002;Lente da Câmera Galaxy S22;Câmeras;Samsung;Galaxy S22;26,50;58,90;3;8;7;0
+PEL-S22;7890010005019;Película 3D Galaxy S22;Películas;Samsung;Galaxy S22;6,00;14,90;5;;16;5
+CAPA-S22-PRE;;Capinha Silicone Galaxy S22 Preta;Capinhas;Samsung;Galaxy S22;5,50;10,90;5;;;3
+CAPA-S22-TRA;7890010005026;Capinha Silicone Galaxy S22 Transparente;Capinhas;Samsung;Galaxy S22;8,90;18,90;5;23;10;10
+TELA-S23-INC;7890010005033;Tela Frontal Galaxy S23 Incell;Telas;Samsung;Galaxy S23;337,90;627,90;2;4;6;4
+TELA-S23-OLE;7890010005040;Tela Frontal Galaxy S23 OLED;Telas;Samsung;Galaxy S23;363,50;859,90;3;8;5;0
+TELA-S23-ORI;7890010005057;Tela Frontal Galaxy S23 Original;Telas;Samsung;Galaxy S23;126,50;237,90;3;3;0;3
+BAT-S23;7890010005064;Bateria Galaxy S23;Baterias;Samsung;Galaxy S23;47,00;106,90;1;8;1;6
+CON-S23;7890010005071;Conector de Carga (Flex) Galaxy S23;Conectores;Samsung;Galaxy S23;34,90;93,90;1;8;0;7
+CAM-S23;7890010005088;Câmera Traseira Galaxy S23;Câmeras;Samsung;Galaxy S23;129,00;262,90;3;1;0;3
+ALT-S23;7890010005095;Alto-falante Galaxy S23;Áudio;Samsung;Galaxy S23;14,50;34,90;1;5;4;1
+TAMPA-S23;7890010005101;Tampa Traseira Galaxy S23;Carcaças;Samsung;Galaxy S23;94,90;184,90;2;0;;8
+FLEX-S23;7890010005118;Flex Botão Power/Volume Galaxy S23;Flex;Samsung;Galaxy S23;50,50;125,90;2;3;8;3
+LENTE-S23;7890010005125;Lente da Câmera Galaxy S23;Câmeras;Samsung;Galaxy S23;17,90;40,90;2;6;6;0
+PEL-S23;;Película 3D Galaxy S23;Películas;Samsung;Galaxy S23;12,00;27,90;5;16;15;7
+CAPA-S23-PRE;7890010005132;Capinha Silicone Galaxy S23 Preta;Capinhas;Samsung;Galaxy S23;13,90;25,90;5;21;17;23
+CAPA-S23-TRA;7890010005149;Capinha Silicone Galaxy S23 Transparente;Capinhas;Samsung;Galaxy S23;14,90;39,90;5;2;14;13
+TELA-MOTOG7-INC;7890010005156;Tela Frontal Moto G7 Incell;Telas;Motorola;Moto G7;309,90;614,90;1;2;8;0
+TELA-MOTOG7-OLE;;Tela Frontal Moto G7 OLED;Telas;Motorola;Moto G7;97,50;219,90;1;;0;8
+TELA-MOTOG7-ORI;;Tela Frontal Moto G7 Original;Telas;Motorola;Moto G7;167,90;428,90;1;4;2;7
+BAT-MOTOG7;7890010005163;Bateria Moto G7;Baterias;Motorola;Moto G7;140,00;267,90;1;7;3;4
+CON-MOTOG7;7890010005170;Conector de Carga (Flex) Moto G7;Conectores;Motorola;Moto G7;53,00;101,90;3;1;4;7
+CAM-MOTOG7;7890010005187;Câmera Traseira Moto G7;Câmeras;Motorola;Moto G7;68,00;152,90;3;4;5;3
+ALT-MOTOG7;7890010005194;Alto-falante Moto G7;Áudio;Motorola;Moto G7;8,90;18,90;1;8;4;8
+TAMPA-MOTOG7;;Tampa Traseira Moto G7;Carcaças;Motorola;Moto G7;60,50;114,90;3;6;4;5
+FLEX-MOTOG7;7890010005200;Flex Botão Power/Volume Moto G7;Flex;Motorola;Moto G7;10,90;24,90;3;;;8
+LENTE-MOTOG7;7890010005217;Lente da Câmera Moto G7;Câmeras;Motorola;Moto G7;16,00;36,90;3;2;;6
+PEL-MOTOG7;7890010005224;Película 3D Moto G7;Películas;Motorola;Moto G7;7,90;16,90;5;10;15;20
+CAPA-MOTOG7-PRE;7890010005231;Capinha Silicone Moto G7 Preta;Capinhas;Motorola;Moto G7;5,90;11,90;5;9;;5
+CAPA-MOTOG7-TRA;7890010005248;Capinha Silicone Moto G7 Transparente;Capinhas;Motorola;Moto G7;7,00;17,90;5;14;24;14
+TELA-MOTOG7POWER-INC;7890010005255;Tela Frontal Moto G7 Power Incell;Telas;Motorola;Moto G7 Power;129,00;286,90;3;8;0;3
+TELA-MOTOG7POWER-OLE;7890010005262;Tela Frontal Moto G7 Power OLED;Telas;Motorola;Moto G7 Power;300,50;689,90;1;8;5;6
+TELA-MOTOG7POWER-ORI;7890010005279;Tela Frontal Moto G7 Power Original;Telas;Motorola;Moto G7 Power;374,90;718,90;1;0;2;1
+BAT-MOTOG7POWER;7890010005286;Bateria Moto G7 Power;Baterias;Motorola;Moto G7 Power;78,50;199,90;2;6;;5
+CON-MOTOG7POWER;;Conector de Carga (Flex) Moto G7 Power;Conectores;Motorola;Moto G7 Power;64,00;125,90;2;1;1;8
+CAM-MOTOG7POWER;7890010005293;Câmera Traseira Moto G7 Power;Câmeras;Motorola;Moto G7 Power;60,90;134,90;3;;7;1
+ALT-MOTOG7POWER;7890010005309;Alto-falante Moto G7 Power;Áudio;Motorola;Moto G7 Power;20,50;51,90;3;5;6;4
+TAMPA-MOTOG7POWER;7890010005316;Tampa Traseira Moto G7 Power;Carcaças;Motorola;Moto G7 Power;31,50;56,90;2;8;3;
+FLEX-MOTOG7POWER;7890010005323;Flex Botão Power/Volume Moto G7 Power;Flex;Motorola;Moto G7 Power;22,00;47,90;1;4;;1
+LENTE-MOTOG7POWER;7890010005330;Lente da Câmera Moto G7 Power;Câmeras;Motorola;Moto G7 Power;30,90;64,90;2;3;0;1
+PEL-MOTOG7POWER;7890010005347;Película 3D Moto G7 Power;Películas;Motorola;Moto G7 Power;12,50;24,90;5;21;2;2
+CAPA-MOTOG7POWER-PRE;7890010005354;Capinha Silicone Moto G7 Power Preta;Capinhas;Motorola;Moto G7 Power;17,00;36,90;5;17;4;
+CAPA-MOTOG7POWER-TRA;;Capinha Silicone Moto G7 Power Transparente;Capinhas;Motorola;Moto G7 Power;6,50;16,90;5;20;;23
+TELA-MOTOG8-INC;7890010005361;Tela Frontal Moto G8 Incell;Telas;Motorola;Moto G8;315,00;830,90;1;5;0;4
+TELA-MOTOG8-OLE;;Tela Frontal Moto G8 OLED;Telas;Motorola;Moto G8;406,00;1018,90;1;;2;4
+TELA-MOTOG8-ORI;;Tela Frontal Moto G8 Original;Telas;Motorola;Moto G8;271,90;696,90;2;5;2;5
+BAT-MOTOG8;;Bateria Moto G8;Baterias;Motorola;Moto G8;153,50;340,90;1;4;7;2
+CON-MOTOG8;7890010005378;Conector de Carga (Flex) Moto G8;Conectores;Motorola;Moto G8;39,90;97,90;1;8;3;
+CAM-MOTOG8;7890010005385;Câmera Traseira Moto G8;Câmeras;Motorola;Moto G8;61,50;148,90;2;6;0;4
+ALT-MOTOG8;7890010005392;Alto-falante Moto G8;Áudio;Motorola;Moto G8;39,50;99,90;1;1;4;8
+TAMPA-MOTOG8;7890010005408;Tampa Traseira Moto G8;Carcaças;Motorola;Moto G8;82,50;207,90;1;5;3;1
+FLEX-MOTOG8;7890010005415;Flex Botão Power/Volume Moto G8;Flex;Motorola;Moto G8;23,00;58,90;3;7;8;0
+LENTE-MOTOG8;7890010005422;Lente da Câmera Moto G8;Câmeras;Motorola;Moto G8;8,00;13,90;1;0;2;7
+PEL-MOTOG8;7890010005439;Película 3D Moto G8;Películas;Motorola;Moto G8;9,50;18,90;5;;10;17
+CAPA-MOTOG8-PRE;7890010005446;Capinha Silicone Moto G8 Preta;Capinhas;Motorola;Moto G8;9,50;22,90;5;7;;1
+CAPA-MOTOG8-TRA;7890010005453;Capinha Silicone Moto G8 Transparente;Capinhas;Motorola;Moto G8;13,90;35,90;5;20;18;3
+TELA-MOTOG8POWER-INC;7890010005460;Tela Frontal Moto G8 Power Incell;Telas;Motorola;Moto G8 Power;259,00;493,90;1;6;6;5
+TELA-MOTOG8POWER-OLE;7890010005477;Tela Frontal Moto G8 Power OLED;Telas;Motorola;Moto G8 Power;324,90;766,90;2;2;7;6
+TELA-MOTOG8POWER-ORI;;Tela Frontal Moto G8 Power Original;Telas;Motorola;Moto G8 Power;98,00;233,90;1;;1;1
+BAT-MOTOG8POWER;7890010005484;Bateria Moto G8 Power;Baterias;Motorola;Moto G8 Power;57,90;149,90;2;;3;3
+CON-MOTOG8POWER;;Conector de Carga (Flex) Moto G8 Power;Conectores;Motorola;Moto G8 Power;55,00;124,90;2;7;5;3
+CAM-MOTOG8POWER;;Câmera Traseira Moto G8 Power;Câmeras;Motorola;Moto G8 Power;217,00;550,90;3;6;8;
+ALT-MOTOG8POWER;7890010005491;Alto-falante Moto G8 Power;Áudio;Motorola;Moto G8 Power;36,00;70,90;1;7;4;
+TAMPA-MOTOG8POWER;7890010005507;Tampa Traseira Moto G8 Power;Carcaças;Motorola;Moto G8 Power;70,00;152,90;3;2;0;5
+FLEX-MOTOG8POWER;7890010005514;Flex Botão Power/Volume Moto G8 Power;Flex;Motorola;Moto G8 Power;22,00;43,90;1;7;8;0
+LENTE-MOTOG8POWER;;Lente da Câmera Moto G8 Power;Câmeras;Motorola;Moto G8 Power;16,90;31,90;3;;5;0
+PEL-MOTOG8POWER;7890010005521;Película 3D Moto G8 Power;Películas;Motorola;Moto G8 Power;11,00;19,90;5;11;4;11
+CAPA-MOTOG8POWER-PRE;7890010005538;Capinha Silicone Moto G8 Power Preta;Capinhas;Motorola;Moto G8 Power;8,00;15,90;5;7;;22
+CAPA-MOTOG8POWER-TRA;7890010005545;Capinha Silicone Moto G8 Power Transparente;Capinhas;Motorola;Moto G8 Power;16,50;40,90;5;11;;8
+TELA-MOTOG9PLAY-INC;7890010005552;Tela Frontal Moto G9 Play Incell;Telas;Motorola;Moto G9 Play;313,00;688,90;1;7;5;1
+TELA-MOTOG9PLAY-OLE;;Tela Frontal Moto G9 Play OLED;Telas;Motorola;Moto G9 Play;337,00;888,90;2;6;2;4
+TELA-MOTOG9PLAY-ORI;7890010005569;Tela Frontal Moto G9 Play Original;Telas;Motorola;Moto G9 Play;178,50;447,90;1;6;7;6
+BAT-MOTOG9PLAY;7890010005576;Bateria Moto G9 Play;Baterias;Motorola;Moto G9 Play;137,00;258,90;3;;7;8
+CON-MOTOG9PLAY;7890010005583;Conector de Carga (Flex) Moto G9 Play;Conectores;Motorola;Moto G9 Play;33,00;64,90;1;4;2;7
+CAM-MOTOG9PLAY;7890010005590;Câmera Traseira Moto G9 Play;Câmeras;Motorola;Moto G9 Play;211,50;488,90;3;5;;1
+ALT-MOTOG9PLAY;7890010005606;Alto-falante Moto G9 Play;Áudio;Motorola;Moto G9 Play;12,90;29,90;1;8;;2
+TAMPA-MOTOG9PLAY;7890010005613;Tampa Traseira Moto G9 Play;Carcaças;Motorola;Moto G9 Play;84,90;186,90;1;8;7;0
+FLEX-MOTOG9PLAY;7890010005620;Flex Botão Power/Volume Moto G9 Play;Flex;Motorola;Moto G9 Play;14,00;36,90;1;5;7;0
+LENTE-MOTOG9PLAY;7890010005637;Lente da Câmera Moto G9 Play;Câmeras;Motorola;Moto G9 Play;24,00;55,90;3;1;4;7
+PEL-MOTOG9PLAY;;Película 3D Moto G9 Play;Películas;Motorola;Moto G9 Play;7,90;19,90;5;13;3;6
+CAPA-MOTOG9PLAY-PRE;7890010005644;Capinha Silicone Moto G9 Play Preta;Capinhas;Motorola;Moto G9 Play;15,90;40,90;5;8;6;25
+CAPA-MOTOG9PLAY-TRA;7890010005651;Capinha Silicone Moto G9 Play Transparente;Capinhas;Motorola;Moto G9 Play;17,50;46,90;5;25;11;14
+TELA-MOTOG9PLUS-INC;7890010005668;Tela Frontal Moto G9 Plus Incell;Telas;Motorola;Moto G9 Plus;378,50;954,90;3;;3;4
+TELA-MOTOG9PLUS-OLE;7890010005675;Tela Frontal Moto G9 Plus OLED;Telas;Motorola;Moto G9 Plus;88,90;172,90;2;6;4;5
+TELA-MOTOG9PLUS-ORI;7890010005682;Tela Frontal Moto G9 Plus Original;Telas;Motorola;Moto G9 Plus;304,50;818,90;2;4;7;8
+BAT-MOTOG9PLUS;7890010005699;Bateria Moto G9 Plus;Baterias;Motorola;Moto G9 Plus;90,90;180,90;3;2;0;6
+CON-MOTOG9PLUS;7890010005705;Conector de Carga (Flex) Moto G9 Plus;Conectores;Motorola;Moto G9 Plus;29,90;74,90;3;8;4;2
+CAM-MOTOG9PLUS;7890010005712;Câmera Traseira Moto G9 Plus;Câmeras;Motorola;Moto G9 Plus;156,90;369,90;1;2;6;0
+ALT-MOTOG9PLUS;7890010005729;Alto-falante Moto G9 Plus;Áudio;Motorola;Moto G9 Plus;15,50;34,90;2;5;5;0
+TAMPA-MOTOG9PLUS;7890010005736;Tampa Traseira Moto G9 Plus;Carcaças;Motorola;Moto G9 Plus;55,90;122,90;1;4;5;5
+FLEX-MOTOG9PLUS;7890010005743;Flex Botão Power/Volume Moto G9 Plus;Flex;Motorola;Moto G9 Plus;49,90;122,90;1;6;3;0
+LENTE-MOTOG9PLUS;7890010005750;Lente da Câmera Moto G9 Plus;Câmeras;Motorola;Moto G9 Plus;23,90;47,90;2;7;0;
+PEL-MOTOG9PLUS;7890010005767;Película 3D Moto G9 Plus;Películas;Motorola;Moto G9 Plus;5,00;12,90;5;17;23;8
+CAPA-MOTOG9PLUS-PRE;7890010005774;Capinha Silicone Moto G9 Plus Preta;Capinhas;Motorola;Moto G9 Plus;14,90;30,90;5;3;;20
+CAPA-MOTOG9PLUS-TRA;7890010005781;Capinha Silicone Moto G9 Plus Transparente;Capinhas;Motorola;Moto G9 Plus;14,00;36,90;5;22;5;11
+TELA-MOTOG10-INC;7890010005798;Tela Frontal Moto G10 Incell;Telas;Motorola;Moto G10;258,00;493,90;2;1;4;8
+TELA-MOTOG10-OLE;7890010005804;Tela Frontal Moto G10 OLED;Telas;Motorola;Moto G10;98,00;190,90;2;1;0;7
+TELA-MOTOG10-ORI;7890010005811;Tela Frontal Moto G10 Original;Telas;Motorola;Moto G10;287,00;686,90;3;4;8;1
+BAT-MOTOG10;7890010005828;Bateria Moto G10;Baterias;Motorola;Moto G10;83,00;173,90;1;0;1;3
+CON-MOTOG10;7890010005835;Conector de Carga (Flex) Moto G10;Conectores;Motorola;Moto G10;65,00;143,90;3;4;;8
+CAM-MOTOG10;7890010005842;Câmera Traseira Moto G10;Câmeras;Motorola;Moto G10;163,90;397,90;3;7;8;0
+ALT-MOTOG10;7890010005859;Alto-falante Moto G10;Áudio;Motorola;Moto G10;21,50;51,90;3;;4;5
+TAMPA-MOTOG10;7890010005866;Tampa Traseira Moto G10;Carcaças;Motorola;Moto G10;24,50;47,90;3;0;3;0
+FLEX-MOTOG10;7890010005873;Flex Botão Power/Volume Moto G10;Flex;Motorola;Moto G10;32,90;78,90;1;1;8;4
+LENTE-MOTOG10;7890010005880;Lente da Câmera Moto G10;Câmeras;Motorola;Moto G10;25,90;65,90;2;1;;
+PEL-MOTOG10;7890010005897;Película 3D Moto G10;Películas;Motorola;Moto G10;9,90;19,90;5;;;22
+CAPA-MOTOG10-PRE;7890010005903;Capinha Silicone Moto G10 Preta;Capinhas;Motorola;Moto G10;9,00;21,90;5;20;6;19
+CAPA-MOTOG10-TRA;7890010005910;Capinha Silicone Moto G10 Transparente;Capinhas;Motorola;Moto G10;9,00;20,90;5;25;1;15
+TELA-MOTOG20-INC;;Tela Frontal Moto G20 Incell;Telas;Motorola;Moto G20;326,90;708,90;2;6;8;2
+TELA-MOTOG20-OLE;;Tela Frontal Moto G20 OLED;Telas;Motorola;Moto G20;325,90;748,90;3;;5;2
+TELA-MOTOG20-ORI;7890010005927;Tela Frontal Moto G20 Original;Telas;Motorola;Moto G20;334,00;875,90;1;;6;1
+BAT-MOTOG20;7890010005934;Bateria Moto G20;Baterias;Motorola;Moto G20;113,50;300,90;1;0;2;6
+CON-MOTOG20;;Conector de Carga (Flex) Moto G20;Conectores;Motorola;Moto G20;67,50;166,90;2;1;0;6
+CAM-MOTOG20;7890010005941;Câmera Traseira Moto G20;Câmeras;Motorola;Moto G20;306,90;791,90;3;4;4;4
+ALT-MOTOG20;7890010005958;Alto-falante Moto G20;Áudio;Motorola;Moto G20;31,50;59,90;1;0;7;1
+TAMPA-MOTOG20;7890010005965;Tampa Traseira Moto G20;Carcaças;Motorola;Moto G20;52,00;137,90;1;3;8;4
+FLEX-MOTOG20;7890010005972;Flex Botão Power/Volume Moto G20;Flex;Motorola;Moto G20;30,00;74,90;1;8;;0
+LENTE-MOTOG20;;Lente da Câmera Moto G20;Câmeras;Motorola;Moto G20;10,50;23,90;2;0;6;2
+PEL-MOTOG20;7890010005989;Película 3D Moto G20;Películas;Motorola;Moto G20;7,00;14,90;5;14;;2
+CAPA-MOTOG20-PRE;;Capinha Silicone Moto G20 Preta;Capinhas;Motorola;Moto G20;15,50;37,90;5;17;4;17
+CAPA-MOTOG20-TRA;;Capinha Silicone Moto G20 Transparente;Capinhas;Motorola;Moto G20;11,50;25,90;5;1;20;
+TELA-MOTOG22-INC;7890010005996;Tela Frontal Moto G22 Incell;Telas;Motorola;Moto G22;287,00;772,90;3;5;6;5
+TELA-MOTOG22-OLE;7890010006009;Tela Frontal Moto G22 OLED;Telas;Motorola;Moto G22;393,50;981,90;3;0;7;6
+TELA-MOTOG22-ORI;7890010006016;Tela Frontal Moto G22 Original;Telas;Motorola;Moto G22;300,90;787,90;3;0;8;4
+BAT-MOTOG22;7890010006023;Bateria Moto G22;Baterias;Motorola;Moto G22;150,90;340,90;2;7;3;5
+CON-MOTOG22;7890010006030;Conector de Carga (Flex) Moto G22;Conectores;Motorola;Moto G22;28,90;73,90;3;4;5;5
+CAM-MOTOG22;7890010006047;Câmera Traseira Moto G22;Câmeras;Motorola;Moto G22;126,90;253,90;3;0;3;
+ALT-MOTOG22;7890010006054;Alto-falante Moto G22;Áudio;Motorola;Moto G22;23,00;45,90;3;7;1;3
+TAMPA-MOTOG22;7890010006061;Tampa Traseira Moto G22;Carcaças;Motorola;Moto G22;100,90;197,90;2;6;4;5
+FLEX-MOTOG22;;Flex Botão Power/Volume Moto G22;Flex;Motorola;Moto G22;12,50;23,90;1;0;8;
+LENTE-MOTOG22;7890010006078;Lente da Câmera Moto G22;Câmeras;Motorola;Moto G22;19,00;48,90;2;1;5;8
+PEL-MOTOG22;7890010006085;Película 3D Moto G22;Películas;Motorola;Moto G22;10,50;20,90;5;8;19;
+CAPA-MOTOG22-PRE;7890010006092;Capinha Silicone Moto G22 Preta;Capinhas;Motorola;Moto G22;14,00;27,90;5;17;;24
+CAPA-MOTOG22-TRA;7890010006108;Capinha Silicone Moto G22 Transparente;Capinhas;Motorola;Moto G22;18,50;43,90;5;17;13;11
+TELA-MOTOG30-INC;7890010006115;Tela Frontal Moto G30 Incell;Telas;Motorola;Moto G30;201,00;412,90;2;0;3;1
+TELA-MOTOG30-OLE;7890010006122;Tela Frontal Moto G30 OLED;Telas;Motorola;Moto G30;370,00;941,90;2;;6;
+TELA-MOTOG30-ORI;7890010006139;Tela Frontal Moto G30 Original;Telas;Motorola;Moto G30;225,50;586,90;1;7;6;3
+BAT-MOTOG30;7890010006146;Bateria Moto G30;Baterias;Motorola;Moto G30;63,00;140,90;3;2;8;0
+CON-MOTOG30;;Conector de Carga (Flex) Moto G30;Conectores;Motorola;Moto G30;56,00;105,90;3;1;2;3
+CAM-MOTOG30;;Câmera Traseira Moto G30;Câmeras;Motorola;Moto G30;103,50;191,90;2;8;;0
+ALT-MOTOG30;7890010006153;Alto-falante Moto G30;Áudio;Motorola;Moto G30;26,90;56,90;2;3;8;3
+TAMPA-MOTOG30;7890010006160;Tampa Traseira Moto G30;Carcaças;Motorola;Moto G30;84,90;177,90;1;6;1;3
+FLEX-MOTOG30;7890010006177;Flex Botão Power/Volume Moto G30;Flex;Motorola;Moto G30;55,50;145,90;3;3;;1
+LENTE-MOTOG30;7890010006184;Lente da Câmera Moto G30;Câmeras;Motorola;Moto G30;7,90;15,90;3;0;1;
+PEL-MOTOG30;7890010006191;Película 3D Moto G30;Películas;Motorola;Moto G30;9,90;24,90;5;;12;13
+CAPA-MOTOG30-PRE;7890010006207;Capinha Silicone Moto G30 Preta;Capinhas;Motorola;Moto G30;18,00;33,90;5;13;20;13
+CAPA-MOTOG30-TRA;7890010006214;Capinha Silicone Moto G30 Transparente;Capinhas;Motorola;Moto G30;9,90;19,90;5;16;14;
+TELA-MOTOG31-INC;7890010006221;Tela Frontal Moto G31 Incell;Telas;Motorola;Moto G31;100,90;220,90;3;6;6;
+TELA-MOTOG31-OLE;7890010006238;Tela Frontal Moto G31 OLED;Telas;Motorola;Moto G31;215,90;546,90;1;;8;
+TELA-MOTOG31-ORI;7890010006245;Tela Frontal Moto G31 Original;Telas;Motorola;Moto G31;218,00;482,90;1;6;;0
+BAT-MOTOG31;7890010006252;Bateria Moto G31;Baterias;Motorola;Moto G31;71,90;179,90;2;4;8;4
+CON-MOTOG31;7890010006269;Conector de Carga (Flex) Moto G31;Conectores;Motorola;Moto G31;63,90;124,90;3;8;4;6
+CAM-MOTOG31;7890010006276;Câmera Traseira Moto G31;Câmeras;Motorola;Moto G31;106,50;227,90;3;3;4;4
+ALT-MOTOG31;7890010006283;Alto-falante Moto G31;Áudio;Motorola;Moto G31;42,50;84,90;2;5;2;
+TAMPA-MOTOG31;7890010006290;Tampa Traseira Moto G31;Carcaças;Motorola;Moto G31;21,90;45,90;1;7;7;3
+FLEX-MOTOG31;7890010006306;Flex Botão Power/Volume Moto G31;Flex;Motorola;Moto G31;26,00;51,90;3;3;5;8
+LENTE-MOTOG31;7890010006313;Lente da Câmera Moto G31;Câmeras;Motorola;Moto G31;24,50;52,90;2;;1;0
+PEL-MOTOG31;7890010006320;Película 3D Moto G31;Películas;Motorola;Moto G31;4,50;8,90;5;23;13;9
+CAPA-MOTOG31-PRE;7890010006337;Capinha Silicone Moto G31 Preta;Capinhas;Motorola;Moto G31;10,90;22,90;5;9;12;
+CAPA-MOTOG31-TRA;7890010006344;Capinha Silicone Moto G31 Transparente;Capinhas;Motorola;Moto G31;10,00;18,90;5;22;18;18
+TELA-MOTOG32-INC;7890010006351;Tela Frontal Moto G32 Incell;Telas;Motorola;Moto G32;319,50;708,90;3;0;2;
+TELA-MOTOG32-OLE;;Tela Frontal Moto G32 OLED;Telas;Motorola;Moto G32;370,90;800,90;3;;8;1
+TELA-MOTOG32-ORI;7890010006368;Tela Frontal Moto G32 Original;Telas;Motorola;Moto G32;295,90;722,90;1;5;5;8
+BAT-MOTOG32;7890010006375;Bateria Moto G32;Baterias;Motorola;Moto G32;118,50;310,90;3;6;5;4
+CON-MOTOG32;;Conector de Carga (Flex) Moto G32;Conectores;Motorola;Moto G32;38,90;74,90;3;1;3;3
+CAM-MOTOG32;7890010006382;Câmera Traseira Moto G32;Câmeras;Motorola;Moto G32;312,90;612,90;1;;5;4
+ALT-MOTOG32;;Alto-falante Moto G32;Áudio;Motorola;Moto G32;43,00;93,90;2;1;4;5
+TAMPA-MOTOG32;7890010006399;Tampa Traseira Moto G32;Carcaças;Motorola;Moto G32;82,90;220,90;2;3;0;7
+FLEX-MOTOG32;7890010006405;Flex Botão Power/Volume Moto G32;Flex;Motorola;Moto G32;34,50;67,90;1;4;7;0
+LENTE-MOTOG32;;Lente da Câmera Moto G32;Câmeras;Motorola;Moto G32;8,50;21,90;1;8;8;1
+PEL-MOTOG32;;Película 3D Moto G32;Películas;Motorola;Moto G32;12,00;27,90;5;14;7;10
+CAPA-MOTOG32-PRE;7890010006412;Capinha Silicone Moto G32 Preta;Capinhas;Motorola;Moto G32;8,00;19,90;5;7;24;22
+CAPA-MOTOG32-TRA;7890010006429;Capinha Silicone Moto G32 Transparente;Capinhas;Motorola;Moto G32;8,00;14,90;5;;;13
+TELA-MOTOG41-INC;;Tela Frontal Moto G41 Incell;Telas;Motorola;Moto G41;179,00;341,90;3;;2;2
+TELA-MOTOG41-OLE;7890010006436;Tela Frontal Moto G41 OLED;Telas;Motorola;Moto G41;309,50;743,90;2;2;;3
+TELA-MOTOG41-ORI;7890010006443;Tela Frontal Moto G41 Original;Telas;Motorola;Moto G41;158,90;287,90;2;5;1;4
+BAT-MOTOG41;;Bateria Moto G41;Baterias;Motorola;Moto G41;47,90;117,90;3;7;6;1
+CON-MOTOG41;7890010006450;Conector de Carga (Flex) Moto G41;Conectores;Motorola;Moto G41;66,50;124,90;1;2;8;5
+CAM-MOTOG41;7890010006467;Câmera Traseira Moto G41;Câmeras;Motorola;Moto G41;186,50;398,90;2;2;4;2
+ALT-MOTOG41;;Alto-falante Moto G41;Áudio;Motorola;Moto G41;36,00;77,90;3;1;;8
+TAMPA-MOTOG41;;Tampa Traseira Moto G41;Carcaças;Motorola;Moto G41;100,50;186,90;3;5;1;
+FLEX-MOTOG41;7890010006474;Flex Botão Power/Volume Moto G41;Flex;Motorola;Moto G41;29,90;70,90;2;0;7;7
+LENTE-MOTOG41;7890010006481;Lente da Câmera Moto G41;Câmeras;Motorola;Moto G41;28,00;58,90;3;4;6;1
+PEL-MOTOG41;7890010006498;Película 3D Moto G41;Películas;Motorola;Moto G41;7,90;20,90;5;12;;22
+CAPA-MOTOG41-PRE;7890010006504;Capinha Silicone Moto G41 Preta;Capinhas;Motorola;Moto G41;9,00;23,90;5;11;15;3
+CAPA-MOTOG41-TRA;;Capinha Silicone Moto G41 Transparente;Capinhas;Motorola;Moto G41;16,50;29,90;5;4;6;
+TELA-MOTOG52-INC;7890010006511;Tela Frontal Moto G52 Incell;Telas;Motorola;Moto G52;364,50;773,90;1;2;;0
+TELA-MOTOG52-OLE;7890010006528;Tela Frontal Moto G52 OLED;Telas;Motorola;Moto G52;370,50;838,90;2;7;6;2
+TELA-MOTOG52-ORI;7890010006535;Tela Frontal Moto G52 Original;Telas;Motorola;Moto G52;186,00;414,90;1;5;3;2
+BAT-MOTOG52;7890010006542;Bateria Moto G52;Baterias;Motorola;Moto G52;56,50;129,90;3;2;1;7
+CON-MOTOG52;7890010006559;Conector de Carga (Flex) Moto G52;Conectores;Motorola;Moto G52;21,00;40,90;2;5;4;0
+CAM-MOTOG52;7890010006566;Câmera Traseira Moto G52;Câmeras;Motorola;Moto G52;242,90;585,90;1;8;4;3
+ALT-MOTOG52;;Alto-falante Moto G52;Áudio;Motorola;Moto G52;26,00;68,90;2;;3;4
+TAMPA-MOTOG52;7890010006573;Tampa Traseira Moto G52;Carcaças;Motorola;Moto G52;109,50;251,90;3;8;2;4
+FLEX-MOTOG52;7890010006580;Flex Botão Power/Volume Moto G52;Flex;Motorola;Moto G52;47,90;126,90;2;7;0;4
+LENTE-MOTOG52;7890010006597;Lente da Câmera Moto G52;Câmeras;Motorola;Moto G52;19,90;45,90;1;7;1;3
+PEL-MOTOG52;;Película 3D Moto G52;Películas;Motorola;Moto G52;3,00;6,90;5;6;20;15
+CAPA-MOTOG52-PRE;7890010006603;Capinha Silicone Moto G52 Preta;Capinhas;Motorola;Moto G52;8,90;18,90;5;21;14;21
+CAPA-MOTOG52-TRA;7890010006610;Capinha Silicone Moto G52 Transparente;Capinhas;Motorola;Moto G52;18,90;45,90;5;13;10;
+TELA-MOTOG53-INC;;Tela Frontal Moto G53 Incell;Telas;Motorola;Moto G53;272,00;715,90;2;0;;3
+TELA-MOTOG53-OLE;7890010006627;Tela Frontal Moto G53 OLED;Telas;Motorola;Moto G53;112,90;283,90;1;4;5;6
+TELA-MOTOG53-ORI;7890010006634;Tela Frontal Moto G53 Original;Telas;Motorola;Moto G53;187,00;382,90;2;7;6;5
+BAT-MOTOG53;7890010006641;Bateria Moto G53;Baterias;Motorola;Moto G53;45,90;93,90;2;6;7;
+CON-MOTOG53;7890010006658;Conector de Carga (Flex) Moto G53;Conectores;Motorola;Moto G53;41,00;85,90;3;4;6;1
+CAM-MOTOG53;7890010006665;Câmera Traseira Moto G53;Câmeras;Motorola;Moto G53;156,90;347,90;2;6;;3
+ALT-MOTOG53;7890010006672;Alto-falante Moto G53;Áudio;Motorola;Moto G53;16,90;35,90;2;8;8;5
+TAMPA-MOTOG53;7890010006689;Tampa Traseira Moto G53;Carcaças;Motorola;Moto G53;113,00;288,90;3;;7;3
+FLEX-MOTOG53;7890010006696;Flex Botão Power/Volume Moto G53;Flex;Motorola;Moto G53;13,90;29,90;2;4;6;2
+LENTE-MOTOG53;;Lente da Câmera Moto G53;Câmeras;Motorola;Moto G53;25,00;63,90;2;;1;3
+PEL-MOTOG53;7890010006702;Película 3D Moto G53;Películas;Motorola;Moto G53;12,00;25,90;5;16;;3
+CAPA-MOTOG53-PRE;7890010006719;Capinha Silicone Moto G53 Preta;Capinhas;Motorola;Moto G53;18,50;45,90;5;5;9;
+CAPA-MOTOG53-TRA;7890010006726;Capinha Silicone Moto G53 Transparente;Capinhas;Motorola;Moto G53;5,00;12,90;5;;15;18
+TELA-MOTOG60-INC;7890010006733;Tela Frontal Moto G60 Incell;Telas;Motorola;Moto G60;386,50;998,90;3;;6;0
+TELA-MOTOG60-OLE;7890010006740;Tela Frontal Moto G60 OLED;Telas;Motorola;Moto G60;70,00;172,90;3;6;3;4
+TELA-MOTOG60-ORI;7890010006757;Tela Frontal Moto G60 Original;Telas;Motorola;Moto G60;219,50;441,90;2;;8;8
+BAT-MOTOG60;7890010006764;Bateria Moto G60;Baterias;Motorola;Moto G60;136,50;324,90;2;0;4;5
+CON-MOTOG60;;Conector de Carga (Flex) Moto G60;Conectores;Motorola;Moto G60;41,00;85,90;1;8;;5
+CAM-MOTOG60;;Câmera Traseira Moto G60;Câmeras;Motorola;Moto G60;146,00;272,90;1;6;8;5
+ALT-MOTOG60;7890010006771;Alto-falante Moto G60;Áudio;Motorola;Moto G60;37,50;68,90;1;4;8;3
+TAMPA-MOTOG60;7890010006788;Tampa Traseira Moto G60;Carcaças;Motorola;Moto G60;108,50;250,90;2;0;5;0
+FLEX-MOTOG60;;Flex Botão Power/Volume Moto G60;Flex;Motorola;Moto G60;22,00;40,90;3;;6;
+LENTE-MOTOG60;;Lente da Câmera Moto G60;Câmeras;Motorola;Moto G60;9,50;18,90;2;4;2;0
+PEL-MOTOG60;7890010006795;Película 3D Moto G60;Películas;Motorola;Moto G60;8,00;14,90;5;15;18;25
+CAPA-MOTOG60-PRE;7890010006801;Capinha Silicone Moto G60 Preta;Capinhas;Motorola;Moto G60;5,90;15,90;5;14;9;5
+CAPA-MOTOG60-TRA;7890010006818;Capinha Silicone Moto G60 Transparente;Capinhas;Motorola;Moto G60;16,00;37,90;5;5;10;5
+TELA-MOTOG62-INC;7890010006825;Tela Frontal Moto G62 Incell;Telas;Motorola;Moto G62;297,00;573,90;2;3;0;3
+TELA-MOTOG62-OLE;7890010006832;Tela Frontal Moto G62 OLED;Telas;Motorola;Moto G62;194,90;492,90;2;4;;1
+TELA-MOTOG62-ORI;7890010006849;Tela Frontal Moto G62 Original;Telas;Motorola;Moto G62;201,90;411,90;3;7;3;1
+BAT-MOTOG62;7890010006856;Bateria Moto G62;Baterias;Motorola;Moto G62;76,90;206,90;2;4;7;0
+CON-MOTOG62;7890010006863;Conector de Carga (Flex) Moto G62;Conectores;Motorola;Moto G62;47,00;92,90;2;1;6;5
+CAM-MOTOG62;7890010006870;Câmera Traseira Moto G62;Câmeras;Motorola;Moto G62;42,50;108,90;3;4;7;
+ALT-MOTOG62;7890010006887;Alto-falante Moto G62;Áudio;Motorola;Moto G62;24,90;50,90;2;0;6;0
+TAMPA-MOTOG62;7890010006894;Tampa Traseira Moto G62;Carcaças;Motorola;Moto G62;100,90;265,90;2;6;1;1
+FLEX-MOTOG62;7890010006900;Flex Botão Power/Volume Moto G62;Flex;Motorola;Moto G62;23,50;46,90;3;7;3;5
+LENTE-MOTOG62;7890010006917;Lente da Câmera Moto G62;Câmeras;Motorola;Moto G62;24,00;46,90;1;;;1
+PEL-MOTOG62;7890010006924;Película 3D Moto G62;Películas;Motorola;Moto G62;6,00;10,90;5;1;8;24
+CAPA-MOTOG62-PRE;7890010006931;Capinha Silicone Moto G62 Preta;Capinhas;Motorola;Moto G62;5,00;10,90;5;17;13;25
+CAPA-MOTOG62-TRA;7890010006948;Capinha Silicone Moto G62 Transparente;Capinhas;Motorola;Moto G62;17,90;36,90;5;8;4;17
+TELA-MOTOG82-INC;7890010006955;Tela Frontal Moto G82 Incell;Telas;Motorola;Moto G82;342,90;897,90;2;;1;7
+TELA-MOTOG82-OLE;7890010006962;Tela Frontal Moto G82 OLED;Telas;Motorola;Moto G82;120,90;324,90;2;3;7;3
+TELA-MOTOG82-ORI;7890010006979;Tela Frontal Moto G82 Original;Telas;Motorola;Moto G82;392,00;994,90;3;6;6;2
+BAT-MOTOG82;7890010006986;Bateria Moto G82;Baterias;Motorola;Moto G82;152,50;333,90;1;4;6;2
+CON-MOTOG82;7890010006993;Conector de Carga (Flex) Moto G82;Conectores;Motorola;Moto G82;13,50;26,90;1;6;8;4
+CAM-MOTOG82;;Câmera Traseira Moto G82;Câmeras;Motorola;Moto G82;185,90;341,90;2;;0;2
+ALT-MOTOG82;7890010007006;Alto-falante Moto G82;Áudio;Motorola;Moto G82;8,90;15,90;3;8;1;1
+TAMPA-MOTOG82;7890010007013;Tampa Traseira Moto G82;Carcaças;Motorola;Moto G82;39,50;76,90;2;2;4;1
+FLEX-MOTOG82;7890010007020;Flex Botão Power/Volume Moto G82;Flex;Motorola;Moto G82;51,50;100,90;3;0;1;5
+LENTE-MOTOG82;7890010007037;Lente da Câmera Moto G82;Câmeras;Motorola;Moto G82;16,50;38,90;3;;0;1
+PEL-MOTOG82;;Película 3D Moto G82;Películas;Motorola;Moto G82;6,00;12,90;5;21;;17
+CAPA-MOTOG82-PRE;7890010007044;Capinha Silicone Moto G82 Preta;Capinhas;Motorola;Moto G82;11,90;28,90;5;24;24;21
+CAPA-MOTOG82-TRA;7890010007051;Capinha Silicone Moto G82 Transparente;Capinhas;Motorola;Moto G82;10,00;25,90;5;;4;20
+TELA-MOTOG84-INC;;Tela Frontal Moto G84 Incell;Telas;Motorola;Moto G84;326,50;807,90;3;8;2;7
+TELA-MOTOG84-OLE;;Tela Frontal Moto G84 OLED;Telas;Motorola;Moto G84;342,90;892,90;3;6;5;7
+TELA-MOTOG84-ORI;7890010007068;Tela Frontal Moto G84 Original;Telas;Motorola;Moto G84;78,00;201,90;2;5;;4
+BAT-MOTOG84;7890010007075;Bateria Moto G84;Baterias;Motorola;Moto G84;114,90;212,90;3;7;0;0
+CON-MOTOG84;7890010007082;Conector de Carga (Flex) Moto G84;Conectores;Motorola;Moto G84;50,00;115,90;2;4;7;2
+CAM-MOTOG84;7890010007099;Câmera Traseira Moto G84;Câmeras;Motorola;Moto G84;145,50;289,90;2;0;;2
+ALT-MOTOG84;7890010007105;Alto-falante Moto G84;Áudio;Motorola;Moto G84;43,90;102,90;1;1;6;1
+TAMPA-MOTOG84;;Tampa Traseira Moto G84;Carcaças;Motorola;Moto G84;109,90;230,90;2;8;;1
+FLEX-MOTOG84;;Flex Botão Power/Volume Moto G84;Flex;Motorola;Moto G84;34,50;77,90;2;;3;8
+LENTE-MOTOG84;;Lente da Câmera Moto G84;Câmeras;Motorola;Moto G84;28,00;66,90;1;6;8;5
+PEL-MOTOG84;7890010007112;Película 3D Moto G84;Películas;Motorola;Moto G84;9,50;22,90;5;7;21;17
+CAPA-MOTOG84-PRE;7890010007129;Capinha Silicone Moto G84 Preta;Capinhas;Motorola;Moto G84;11,90;29,90;5;20;1;25
+CAPA-MOTOG84-TRA;;Capinha Silicone Moto G84 Transparente;Capinhas;Motorola;Moto G84;8,50;14,90;5;8;1;9
+TELA-MOTOE6S-INC;7890010007136;Tela Frontal Moto E6s Incell;Telas;Motorola;Moto E6s;95,00;171,90;3;0;5;8
+TELA-MOTOE6S-OLE;7890010007143;Tela Frontal Moto E6s OLED;Telas;Motorola;Moto E6s;239,00;576,90;2;4;;6
+TELA-MOTOE6S-ORI;7890010007150;Tela Frontal Moto E6s Original;Telas;Motorola;Moto E6s;205,00;419,90;1;8;4;2
+BAT-MOTOE6S;;Bateria Moto E6s;Baterias;Motorola;Moto E6s;130,90;271,90;3;0;;7
+CON-MOTOE6S;;Conector de Carga (Flex) Moto E6s;Conectores;Motorola;Moto E6s;36,90;72,90;2;4;5;7
+CAM-MOTOE6S;;Câmera Traseira Moto E6s;Câmeras;Motorola;Moto E6s;286,90;576,90;3;2;3;8
+ALT-MOTOE6S;7890010007167;Alto-falante Moto E6s;Áudio;Motorola;Moto E6s;42,90;89,90;1;6;8;2
+TAMPA-MOTOE6S;7890010007174;Tampa Traseira Moto E6s;Carcaças;Motorola;Moto E6s;52,00;118,90;1;6;6;6
+FLEX-MOTOE6S;;Flex Botão Power/Volume Moto E6s;Flex;Motorola;Moto E6s;11,00;27,90;2;8;3;1
+LENTE-MOTOE6S;;Lente da Câmera Moto E6s;Câmeras;Motorola;Moto E6s;30,00;60,90;1;2;8;5
+PEL-MOTOE6S;;Película 3D Moto E6s;Películas;Motorola;Moto E6s;11,00;25,90;5;2;25;3
+CAPA-MOTOE6S-PRE;7890010007181;Capinha Silicone Moto E6s Preta;Capinhas;Motorola;Moto E6s;9,00;17,90;5;;25;16
+CAPA-MOTOE6S-TRA;7890010007198;Capinha Silicone Moto E6s Transparente;Capinhas;Motorola;Moto E6s;13,50;35,90;5;4;9;17
+TELA-MOTOE7-INC;7890010007204;Tela Frontal Moto E7 Incell;Telas;Motorola;Moto E7;205,90;451,90;1;3;3;5
+TELA-MOTOE7-OLE;7890010007211;Tela Frontal Moto E7 OLED;Telas;Motorola;Moto E7;183,50;343,90;3;4;0;1
+TELA-MOTOE7-ORI;7890010007228;Tela Frontal Moto E7 Original;Telas;Motorola;Moto E7;294,50;681,90;3;5;4;4
+BAT-MOTOE7;7890010007235;Bateria Moto E7;Baterias;Motorola;Moto E7;133,00;290,90;2;1;8;5
+CON-MOTOE7;7890010007242;Conector de Carga (Flex) Moto E7;Conectores;Motorola;Moto E7;65,00;129,90;1;8;4;
+CAM-MOTOE7;7890010007259;Câmera Traseira Moto E7;Câmeras;Motorola;Moto E7;52,00;108,90;2;4;1;1
+ALT-MOTOE7;7890010007266;Alto-falante Moto E7;Áudio;Motorola;Moto E7;39,50;80,90;2;7;8;1
+TAMPA-MOTOE7;7890010007273;Tampa Traseira Moto E7;Carcaças;Motorola;Moto E7;103,00;200,90;2;;4;7
+FLEX-MOTOE7;7890010007280;Flex Botão Power/Volume Moto E7;Flex;Motorola;Moto E7;47,90;106,90;3;1;5;
+LENTE-MOTOE7;7890010007297;Lente da Câmera Moto E7;Câmeras;Motorola;Moto E7;28,90;71,90;3;4;7;8
+PEL-MOTOE7;7890010007303;Película 3D Moto E7;Películas;Motorola;Moto E7;12,90;28,90;5;6;22;6
+CAPA-MOTOE7-PRE;7890010007310;Capinha Silicone Moto E7 Preta;Capinhas;Motorola;Moto E7;17,00;33,90;5;23;7;5
+CAPA-MOTOE7-TRA;7890010007327;Capinha Silicone Moto E7 Transparente;Capinhas;Motorola;Moto E7;16,90;32,90;5;11;2;9
+TELA-MOTOE20-INC;7890010007334;Tela Frontal Moto E20 Incell;Telas;Motorola;Moto E20;190,00;394,90;2;7;3;8
+TELA-MOTOE20-OLE;7890010007341;Tela Frontal Moto E20 OLED;Telas;Motorola;Moto E20;89,90;209,90;1;5;2;1
+TELA-MOTOE20-ORI;7890010007358;Tela Frontal Moto E20 Original;Telas;Motorola;Moto E20;97,50;199,90;1;0;7;8
+BAT-MOTOE20;7890010007365;Bateria Moto E20;Baterias;Motorola;Moto E20;118,90;304,90;2;1;8;7
+CON-MOTOE20;7890010007372;Conector de Carga (Flex) Moto E20;Conectores;Motorola;Moto E20;24,50;65,90;3;7;1;2
+CAM-MOTOE20;7890010007389;Câmera Traseira Moto E20;Câmeras;Motorola;Moto E20;261,90;536,90;1;7;4;0
+ALT-MOTOE20;7890010007396;Alto-falante Moto E20;Áudio;Motorola;Moto E20;33,50;74,90;2;5;4;2
+TAMPA-MOTOE20;7890010007402;Tampa Traseira Moto E20;Carcaças;Motorola;Moto E20;67,50;143,90;2;3;3;3
+FLEX-MOTOE20;7890010007419;Flex Botão Power/Volume Moto E20;Flex;Motorola;Moto E20;17,50;37,90;3;3;4;1
+LENTE-MOTOE20;7890010007426;Lente da Câmera Moto E20;Câmeras;Motorola;Moto E20;8,00;18,90;1;8;8;7
+PEL-MOTOE20;7890010007433;Película 3D Moto E20;Películas;Motorola;Moto E20;3,90;8,90;5;20;12;5
+CAPA-MOTOE20-PRE;7890010007440;Capinha Silicone Moto E20 Preta;Capinhas;Motorola;Moto E20;14,50;34,90;5;19;9;
+CAPA-MOTOE20-TRA;7890010007457;Capinha Silicone Moto E20 Transparente;Capinhas;Motorola;Moto E20;14,00;30,90;5;7;;18
+TELA-MOTOE22-INC;7890010007464;Tela Frontal Moto E22 Incell;Telas;Motorola;Moto E22;198,00;425,90;2;;1;6
+TELA-MOTOE22-OLE;;Tela Frontal Moto E22 OLED;Telas;Motorola;Moto E22;206,90;476,90;2;3;5;4
+TELA-MOTOE22-ORI;;Tela Frontal Moto E22 Original;Telas;Motorola;Moto E22;226,50;500,90;3;8;5;8
+BAT-MOTOE22;7890010007471;Bateria Moto E22;Baterias;Motorola;Moto E22;58,00;152,90;3;;3;4
+CON-MOTOE22;7890010007488;Conector de Carga (Flex) Moto E22;Conectores;Motorola;Moto E22;29,50;58,90;1;8;4;8
+CAM-MOTOE22;7890010007495;Câmera Traseira Moto E22;Câmeras;Motorola;Moto E22;205,00;426,90;2;5;8;6
+ALT-MOTOE22;7890010007501;Alto-falante Moto E22;Áudio;Motorola;Moto E22;24,50;47,90;3;7;5;7
+TAMPA-MOTOE22;;Tampa Traseira Moto E22;Carcaças;Motorola;Moto E22;84,90;176,90;1;6;7;4
+FLEX-MOTOE22;7890010007518;Flex Botão Power/Volume Moto E22;Flex;Motorola;Moto E22;28,00;60,90;3;6;1;8
+LENTE-MOTOE22;7890010007525;Lente da Câmera Moto E22;Câmeras;Motorola;Moto E22;14,90;29,90;2;3;1;0
+PEL-MOTOE22;7890010007532;Película 3D Moto E22;Películas;Motorola;Moto E22;10,50;25,90;5;13;3;23
+CAPA-MOTOE22-PRE;7890010007549;Capinha Silicone Moto E22 Preta;Capinhas;Motorola;Moto E22;12,00;26,90;5;21;7;23
+CAPA-MOTOE22-TRA;7890010007556;Capinha Silicone Moto E22 Transparente;Capinhas;Motorola;Moto E22;11,90;29,90;5;7;2;15
+TELA-MOTOE32-INC;7890010007563;Tela Frontal Moto E32 Incell;Telas;Motorola;Moto E32;368,50;759,90;2;6;7;3
+TELA-MOTOE32-OLE;;Tela Frontal Moto E32 OLED;Telas;Motorola;Moto E32;359,00;661,90;1;5;2;8
+TELA-MOTOE32-ORI;7890010007570;Tela Frontal Moto E32 Original;Telas;Motorola;Moto E32;140,00;284,90;1;7;5;6
+BAT-MOTOE32;;Bateria Moto E32;Baterias;Motorola;Moto E32;99,00;246,90;1;;0;2
+CON-MOTOE32;7890010007587;Conector de Carga (Flex) Moto E32;Conectores;Motorola;Moto E32;14,90;28,90;1;;;3
+CAM-MOTOE32;;Câmera Traseira Moto E32;Câmeras;Motorola;Moto E32;175,00;369,90;3;2;2;8
+ALT-MOTOE32;7890010007594;Alto-falante Moto E32;Áudio;Motorola;Moto E32;8,90;20,90;1;8;8;3
+TAMPA-MOTOE32;7890010007600;Tampa Traseira Moto E32;Carcaças;Motorola;Moto E32;29,50;61,90;2;3;7;0
+FLEX-MOTOE32;7890010007617;Flex Botão Power/Volume Moto E32;Flex;Motorola;Moto E32;26,00;57,90;1;3;3;
+LENTE-MOTOE32;;Lente da Câmera Moto E32;Câmeras;Motorola;Moto E32;12,00;21,90;2;2;8;2
+PEL-MOTOE32;7890010007624;Película 3D Moto E32;Películas;Motorola;Moto E32;7,00;16,90;5;;21;4
+CAPA-MOTOE32-PRE;7890010007631;Capinha Silicone Moto E32 Preta;Capinhas;Motorola;Moto E32;10,00;20,90;5;11;14;0
+CAPA-MOTOE32-TRA;7890010007648;Capinha Silicone Moto E32 Transparente;Capinhas;Motorola;Moto E32;7,50;15,90;5;1;14;6
+TELA-MOTOEDGE20-INC;7890010007655;Tela Frontal Moto Edge 20 Incell;Telas;Motorola;Moto Edge 20;248,00;475,90;3;5;6;0
+TELA-MOTOEDGE20-OLE;;Tela Frontal Moto Edge 20 OLED;Telas;Motorola;Moto Edge 20;156,90;353,90;1;7;5;
+TELA-MOTOEDGE20-ORI;7890010007662;Tela Frontal Moto Edge 20 Original;Telas;Motorola;Moto Edge 20;359,90;958,90;2;8;;8
+BAT-MOTOEDGE20;7890010007679;Bateria Moto Edge 20;Baterias;Motorola;Moto Edge 20;86,90;157,90;2;8;;7
+CON-MOTOEDGE20;7890010007686;Conector de Carga (Flex) Moto Edge 20;Conectores;Motorola;Moto Edge 20;70,90;184,90;2;4;7;8
+CAM-MOTOEDGE20;7890010007693;Câmera Traseira Moto Edge 20;Câmeras;Motorola;Moto Edge 20;311,00;645,90;2;2;8;
+ALT-MOTOEDGE20;7890010007709;Alto-falante Moto Edge 20;Áudio;Motorola;Moto Edge 20;31,00;72,90;3;3;1;6
+TAMPA-MOTOEDGE20;7890010007716;Tampa Traseira Moto Edge 20;Carcaças;Motorola;Moto Edge 20;66,50;161,90;2;8;;4
+FLEX-MOTOEDGE20;7890010007723;Flex Botão Power/Volume Moto Edge 20;Flex;Motorola;Moto Edge 20;21,90;54,90;1;;7;6
+LENTE-MOTOEDGE20;7890010007730;Lente da Câmera Moto Edge 20;Câmeras;Motorola;Moto Edge 20;24,00;43,90;3;8;4;
+PEL-MOTOEDGE20;7890010007747;Película 3D Moto Edge 20;Películas;Motorola;Moto Edge 20;5,00;12,90;5;10;22;11
+CAPA-MOTOEDGE20-PRE;7890010007754;Capinha Silicone Moto Edge 20 Preta;Capinhas;Motorola;Moto Edge 20;15,90;39,90;5;;16;16
+CAPA-MOTOEDGE20-TRA;7890010007761;Capinha Silicone Moto Edge 20 Transparente;Capinhas;Motorola;Moto Edge 20;7,00;17,90;5;;23;17
+TELA-RN8-INC;7890010007778;Tela Frontal Redmi Note 8 Incell;Telas;Xiaomi;Redmi Note 8;303,00;747,90;1;2;7;4
+TELA-RN8-OLE;7890010007785;Tela Frontal Redmi Note 8 OLED;Telas;Xiaomi;Redmi Note 8;302,00;626,90;2;1;4;
+TELA-RN8-ORI;7890010007792;Tela Frontal Redmi Note 8 Original;Telas;Xiaomi;Redmi Note 8;346,00;683,90;1;1;0;8
+BAT-RN8;7890010007808;Bateria Redmi Note 8;Baterias;Xiaomi;Redmi Note 8;37,50;90,90;2;6;3;3
+CON-RN8;7890010007815;Conector de Carga (Flex) Redmi Note 8;Conectores;Xiaomi;Redmi Note 8;30,00;57,90;1;4;3;2
+CAM-RN8;7890010007822;Câmera Traseira Redmi Note 8;Câmeras;Xiaomi;Redmi Note 8;209,90;563,90;3;;0;4
+ALT-RN8;7890010007839;Alto-falante Redmi Note 8;Áudio;Xiaomi;Redmi Note 8;21,50;42,90;3;;5;1
+TAMPA-RN8;7890010007846;Tampa Traseira Redmi Note 8;Carcaças;Xiaomi;Redmi Note 8;77,50;157,90;1;2;6;6
+FLEX-RN8;7890010007853;Flex Botão Power/Volume Redmi Note 8;Flex;Xiaomi;Redmi Note 8;14,00;32,90;2;5;1;3
+LENTE-RN8;7890010007860;Lente da Câmera Redmi Note 8;Câmeras;Xiaomi;Redmi Note 8;25,00;55,90;2;1;6;0
+PEL-RN8;7890010007877;Película 3D Redmi Note 8;Películas;Xiaomi;Redmi Note 8;12,00;29,90;5;3;9;11
+CAPA-RN8-PRE;7890010007884;Capinha Silicone Redmi Note 8 Preta;Capinhas;Xiaomi;Redmi Note 8;5,90;15,90;5;20;;12
+CAPA-RN8-TRA;7890010007891;Capinha Silicone Redmi Note 8 Transparente;Capinhas;Xiaomi;Redmi Note 8;16,90;42,90;5;;17;20
+TELA-RN9-INC;;Tela Frontal Redmi Note 9 Incell;Telas;Xiaomi;Redmi Note 9;146,50;326,90;1;7;4;8
+TELA-RN9-OLE;7890010007907;Tela Frontal Redmi Note 9 OLED;Telas;Xiaomi;Redmi Note 9;263,00;523,90;2;;3;1
+TELA-RN9-ORI;7890010007914;Tela Frontal Redmi Note 9 Original;Telas;Xiaomi;Redmi Note 9;345,90;799,90;2;5;5;4
+BAT-RN9;7890010007921;Bateria Redmi Note 9;Baterias;Xiaomi;Redmi Note 9;124,50;334,90;1;2;8;4
+CON-RN9;7890010007938;Conector de Carga (Flex) Redmi Note 9;Conectores;Xiaomi;Redmi Note 9;50,90;109,90;2;4;4;1
+CAM-RN9;;Câmera Traseira Redmi Note 9;Câmeras;Xiaomi;Redmi Note 9;48,50;89,90;1;4;3;4
+ALT-RN9;7890010007945;Alto-falante Redmi Note 9;Áudio;Xiaomi;Redmi Note 9;12,90;33,90;3;6;6;1
+TAMPA-RN9;7890010007952;Tampa Traseira Redmi Note 9;Carcaças;Xiaomi;Redmi Note 9;38,90;70,90;1;0;6;5
+FLEX-RN9;7890010007969;Flex Botão Power/Volume Redmi Note 9;Flex;Xiaomi;Redmi Note 9;36,00;72,90;1;4;2;
+LENTE-RN9;7890010007976;Lente da Câmera Redmi Note 9;Câmeras;Xiaomi;Redmi Note 9;19,50;37,90;2;0;3;7
+PEL-RN9;7890010007983;Película 3D Redmi Note 9;Películas;Xiaomi;Redmi Note 9;8,90;17,90;5;15;9;20
+CAPA-RN9-PRE;;Capinha Silicone Redmi Note 9 Preta;Capinhas;Xiaomi;Redmi Note 9;17,50;44,90;5;19;2;4
+CAPA-RN9-TRA;7890010007990;Capinha Silicone Redmi Note 9 Transparente;Capinhas;Xiaomi;Redmi Note 9;18,00;44,90;5;22;1;7
+TELA-RN10-INC;7890010008003;Tela Frontal Redmi Note 10 Incell;Telas;Xiaomi;Redmi Note 10;157,00;365,90;3;3;5;
+TELA-RN10-OLE;;Tela Frontal Redmi Note 10 OLED;Telas;Xiaomi;Redmi Note 10;287,00;613,90;2;5;7;8
+TELA-RN10-ORI;;Tela Frontal Redmi Note 10 Original;Telas;Xiaomi;Redmi Note 10;239,90;494,90;1;6;8;5
+BAT-RN10;7890010008010;Bateria Redmi Note 10;Baterias;Xiaomi;Redmi Note 10;100,00;185,90;2;;2;
+CON-RN10;;Conector de Carga (Flex) Redmi Note 10;Conectores;Xiaomi;Redmi Note 10;18,90;49,90;3;;;3
+CAM-RN10;7890010008027;Câmera Traseira Redmi Note 10;Câmeras;Xiaomi;Redmi Note 10;152,50;350,90;1;0;3;8
+ALT-RN10;7890010008034;Alto-falante Redmi Note 10;Áudio;Xiaomi;Redmi Note 10;20,50;47,90;1;6;2;4
+TAMPA-RN10;7890010008041;Tampa Traseira Redmi Note 10;Carcaças;Xiaomi;Redmi Note 10;83,90;172,90;2;1;3;
+FLEX-RN10;7890010008058;Flex Botão Power/Volume Redmi Note 10;Flex;Xiaomi;Redmi Note 10;16,90;34,90;2;3;1;
+LENTE-RN10;7890010008065;Lente da Câmera Redmi Note 10;Câmeras;Xiaomi;Redmi Note 10;11,00;28,90;1;8;2;6
+PEL-RN10;;Película 3D Redmi Note 10;Películas;Xiaomi;Redmi Note 10;9,50;19,90;5;0;21;9
+CAPA-RN10-PRE;7890010008072;Capinha Silicone Redmi Note 10 Preta;Capinhas;Xiaomi;Redmi Note 10;10,50;22,90;5;8;16;8
+CAPA-RN10-TRA;7890010008089;Capinha Silicone Redmi Note 10 Transparente;Capinhas;Xiaomi;Redmi Note 10;7,90;19,90;5;5;19;5
+TELA-RN11-INC;7890010008096;Tela Frontal Redmi Note 11 Incell;Telas;Xiaomi;Redmi Note 11;171,00;409,90;1;6;7;6
+TELA-RN11-OLE;7890010008102;Tela Frontal Redmi Note 11 OLED;Telas;Xiaomi;Redmi Note 11;313,90;791,90;3;0;1;3
+TELA-RN11-ORI;7890010008119;Tela Frontal Redmi Note 11 Original;Telas;Xiaomi;Redmi Note 11;141,50;372,90;3;6;5;6
+BAT-RN11;7890010008126;Bateria Redmi Note 11;Baterias;Xiaomi;Redmi Note 11;58,00;138,90;3;6;6;7
+CON-RN11;7890010008133;Conector de Carga (Flex) Redmi Note 11;Conectores;Xiaomi;Redmi Note 11;30,90;66,90;3;;2;7
+CAM-RN11;7890010008140;Câmera Traseira Redmi Note 11;Câmeras;Xiaomi;Redmi Note 11;70,00;169,90;1;5;0;6
+ALT-RN11;7890010008157;Alto-falante Redmi Note 11;Áudio;Xiaomi;Redmi Note 11;11,90;30,90;3;8;6;2
+TAMPA-RN11;;Tampa Traseira Redmi Note 11;Carcaças;Xiaomi;Redmi Note 11;67,50;173,90;3;4;3;8
+FLEX-RN11;;Flex Botão Power/Volume Redmi Note 11;Flex;Xiaomi;Redmi Note 11;15,00;35,90;3;7;3;8
+LENTE-RN11;;Lente da Câmera Redmi Note 11;Câmeras;Xiaomi;Redmi Note 11;14,00;37,90;2;5;6;4
+PEL-RN11;7890010008164;Película 3D Redmi Note 11;Películas;Xiaomi;Redmi Note 11;12,50;31,90;5;18;13;6
+CAPA-RN11-PRE;;Capinha Silicone Redmi Note 11 Preta;Capinhas;Xiaomi;Redmi Note 11;17,00;41,90;5;3;2;
+CAPA-RN11-TRA;;Capinha Silicone Redmi Note 11 Transparente;Capinhas;Xiaomi;Redmi Note 11;10,90;27,90;5;15;23;8
+TELA-RN12-INC;7890010008171;Tela Frontal Redmi Note 12 Incell;Telas;Xiaomi;Redmi Note 12;368,90;835,90;3;4;3;
+TELA-RN12-OLE;7890010008188;Tela Frontal Redmi Note 12 OLED;Telas;Xiaomi;Redmi Note 12;210,90;432,90;3;3;8;3
+TELA-RN12-ORI;;Tela Frontal Redmi Note 12 Original;Telas;Xiaomi;Redmi Note 12;121,50;290,90;1;7;5;4
+BAT-RN12;7890010008195;Bateria Redmi Note 12;Baterias;Xiaomi;Redmi Note 12;85,00;218,90;1;7;3;6
+CON-RN12;7890010008201;Conector de Carga (Flex) Redmi Note 12;Conectores;Xiaomi;Redmi Note 12;55,00;130,90;1;7;7;3
+CAM-RN12;7890010008218;Câmera Traseira Redmi Note 12;Câmeras;Xiaomi;Redmi Note 12;144,90;295,90;3;0;0;6
+ALT-RN12;7890010008225;Alto-falante Redmi Note 12;Áudio;Xiaomi;Redmi Note 12;16,00;34,90;2;3;8;2
+TAMPA-RN12;7890010008232;Tampa Traseira Redmi Note 12;Carcaças;Xiaomi;Redmi Note 12;44,90;86,90;3;3;8;8
+FLEX-RN12;7890010008249;Flex Botão Power/Volume Redmi Note 12;Flex;Xiaomi;Redmi Note 12;17,00;42,90;2;4;;4
+LENTE-RN12;7890010008256;Lente da Câmera Redmi Note 12;Câmeras;Xiaomi;Redmi Note 12;12,90;23,90;1;5;2;2
+PEL-RN12;7890010008263;Película 3D Redmi Note 12;Películas;Xiaomi;Redmi Note 12;5,50;13,90;5;1;18;17
+CAPA-RN12-PRE;7890010008270;Capinha Silicone Redmi Note 12 Preta;Capinhas;Xiaomi;Redmi Note 12;7,90;16,90;5;16;11;23
+CAPA-RN12-TRA;7890010008287;Capinha Silicone Redmi Note 12 Transparente;Capinhas;Xiaomi;Redmi Note 12;10,00;20,90;5;8;;10
+TELA-RN13-INC;7890010008294;Tela Frontal Redmi Note 13 Incell;Telas;Xiaomi;Redmi Note 13;403,90;994,90;3;0;6;1
+TELA-RN13-OLE;7890010008300;Tela Frontal Redmi Note 13 OLED;Telas;Xiaomi;Redmi Note 13;316,90;635,90;3;7;0;
+TELA-RN13-ORI;7890010008317;Tela Frontal Redmi Note 13 Original;Telas;Xiaomi;Redmi Note 13;63,00;149,90;3;1;4;8
+BAT-RN13;;Bateria Redmi Note 13;Baterias;Xiaomi;Redmi Note 13;118,50;249,90;1;5;4;6
+CON-RN13;7890010008324;Conector de Carga (Flex) Redmi Note 13;Conectores;Xiaomi;Redmi Note 13;61,90;137,90;1;4;7;
+CAM-RN13;;Câmera Traseira Redmi Note 13;Câmeras;Xiaomi;Redmi Note 13;244,00;609,90;3;5;8;
+ALT-RN13;7890010008331;Alto-falante Redmi Note 13;Áudio;Xiaomi;Redmi Note 13;45,50;105,90;3;1;3;7
+TAMPA-RN13;7890010008348;Tampa Traseira Redmi Note 13;Carcaças;Xiaomi;Redmi Note 13;70,90;155,90;2;3;7;2
+FLEX-RN13;;Flex Botão Power/Volume Redmi Note 13;Flex;Xiaomi;Redmi Note 13;47,00;94,90;3;3;;5
+LENTE-RN13;7890010008355;Lente da Câmera Redmi Note 13;Câmeras;Xiaomi;Redmi Note 13;22,50;51,90;3;6;3;3
+PEL-RN13;7890010008362;Película 3D Redmi Note 13;Películas;Xiaomi;Redmi Note 13;10,00;18,90;5;9;7;13
+CAPA-RN13-PRE;7890010008379;Capinha Silicone Redmi Note 13 Preta;Capinhas;Xiaomi;Redmi Note 13;18,90;41,90;5;9;23;11
+CAPA-RN13-TRA;7890010008386;Capinha Silicone Redmi Note 13 Transparente;Capinhas;Xiaomi;Redmi Note 13;8,90;20,90;5;4;7;
+TELA-REDMI9-INC;;Tela Frontal Redmi 9 Incell;Telas;Xiaomi;Redmi 9;239,00;480,90;3;;6;1
+TELA-REDMI9-OLE;7890010008393;Tela Frontal Redmi 9 OLED;Telas;Xiaomi;Redmi 9;235,90;529,90;1;3;;5
+TELA-REDMI9-ORI;7890010008409;Tela Frontal Redmi 9 Original;Telas;Xiaomi;Redmi 9;165,50;339,90;2;;6;8
+BAT-REDMI9;7890010008416;Bateria Redmi 9;Baterias;Xiaomi;Redmi 9;149,50;313,90;3;;2;0
+CON-REDMI9;7890010008423;Conector de Carga (Flex) Redmi 9;Conectores;Xiaomi;Redmi 9;40,50;94,90;2;5;3;8
+CAM-REDMI9;7890010008430;Câmera Traseira Redmi 9;Câmeras;Xiaomi;Redmi 9;179,00;392,90;2;3;4;5
+ALT-REDMI9;;Alto-falante Redmi 9;Áudio;Xiaomi;Redmi 9;33,00;86,90;2;4;3;0
+TAMPA-REDMI9;7890010008447;Tampa Traseira Redmi 9;Carcaças;Xiaomi;Redmi 9;113,90;237,90;2;1;2;7
+FLEX-REDMI9;7890010008454;Flex Botão Power/Volume Redmi 9;Flex;Xiaomi;Redmi 9;26,90;60,90;3;2;2;8
+LENTE-REDMI9;7890010008461;Lente da Câmera Redmi 9;Câmeras;Xiaomi;Redmi 9;16,00;38,90;3;7;3;
+PEL-REDMI9;;Película 3D Redmi 9;Películas;Xiaomi;Redmi 9;9,00;22,90;5;10;;24
+CAPA-REDMI9-PRE;;Capinha Silicone Redmi 9 Preta;Capinhas;Xiaomi;Redmi 9;13,50;34,90;5;23;5;6
+CAPA-REDMI9-TRA;7890010008478;Capinha Silicone Redmi 9 Transparente;Capinhas;Xiaomi;Redmi 9;17,00;35,90;5;3;23;14
+TELA-REDMI9A-INC;7890010008485;Tela Frontal Redmi 9A Incell;Telas;Xiaomi;Redmi 9A;216,50;579,90;3;1;4;6
+TELA-REDMI9A-OLE;7890010008492;Tela Frontal Redmi 9A OLED;Telas;Xiaomi;Redmi 9A;260,00;579,90;3;8;2;2
+TELA-REDMI9A-ORI;7890010008508;Tela Frontal Redmi 9A Original;Telas;Xiaomi;Redmi 9A;292,90;632,90;3;4;2;7
+BAT-REDMI9A;7890010008515;Bateria Redmi 9A;Baterias;Xiaomi;Redmi 9A;38,00;95,90;2;6;8;1
+CON-REDMI9A;7890010008522;Conector de Carga (Flex) Redmi 9A;Conectores;Xiaomi;Redmi 9A;24,00;47,90;1;7;1;8
+CAM-REDMI9A;7890010008539;Câmera Traseira Redmi 9A;Câmeras;Xiaomi;Redmi 9A;80,50;161,90;3;7;1;1
+ALT-REDMI9A;7890010008546;Alto-falante Redmi 9A;Áudio;Xiaomi;Redmi 9A;25,00;60,90;2;3;5;4
+TAMPA-REDMI9A;;Tampa Traseira Redmi 9A;Carcaças;Xiaomi;Redmi 9A;70,00;147,90;1;8;7;7
+FLEX-REDMI9A;7890010008553;Flex Botão Power/Volume Redmi 9A;Flex;Xiaomi;Redmi 9A;46,00;100,90;2;6;6;8
+LENTE-REDMI9A;;Lente da Câmera Redmi 9A;Câmeras;Xiaomi;Redmi 9A;22,50;46,90;1;1;3;5
+PEL-REDMI9A;7890010008560;Película 3D Redmi 9A;Películas;Xiaomi;Redmi 9A;8,90;20,90;5;9;13;16
+CAPA-REDMI9A-PRE;7890010008577;Capinha Silicone Redmi 9A Preta;Capinhas;Xiaomi;Redmi 9A;14,50;27,90;5;8;3;18
+CAPA-REDMI9A-TRA;;Capinha Silicone Redmi 9A Transparente;Capinhas;Xiaomi;Redmi 9A;17,90;37,90;5;12;2;14
+TELA-REDMI9C-INC;7890010008584;Tela Frontal Redmi 9C Incell;Telas;Xiaomi;Redmi 9C;249,90;610,90;2;1;0;5
+TELA-REDMI9C-OLE;7890010008591;Tela Frontal Redmi 9C OLED;Telas;Xiaomi;Redmi 9C;156,00;298,90;1;;0;8
+TELA-REDMI9C-ORI;7890010008607;Tela Frontal Redmi 9C Original;Telas;Xiaomi;Redmi 9C;105,00;190,90;1;8;;1
+BAT-REDMI9C;7890010008614;Bateria Redmi 9C;Baterias;Xiaomi;Redmi 9C;158,00;382,90;2;;6;2
+CON-REDMI9C;;Conector de Carga (Flex) Redmi 9C;Conectores;Xiaomi;Redmi 9C;36,50;75,90;1;;8;4
+CAM-REDMI9C;7890010008621;Câmera Traseira Redmi 9C;Câmeras;Xiaomi;Redmi 9C;253,50;503,90;1;8;7;1
+ALT-REDMI9C;7890010008638;Alto-falante Redmi 9C;Áudio;Xiaomi;Redmi 9C;18,00;43,90;3;;1;3
+TAMPA-REDMI9C;7890010008645;Tampa Traseira Redmi 9C;Carcaças;Xiaomi;Redmi 9C;62,00;139,90;1;2;0;0
+FLEX-REDMI9C;;Flex Botão Power/Volume Redmi 9C;Flex;Xiaomi;Redmi 9C;41,00;106,90;1;1;6;3
+LENTE-REDMI9C;7890010008652;Lente da Câmera Redmi 9C;Câmeras;Xiaomi;Redmi 9C;22,50;44,90;3;4;8;6
+PEL-REDMI9C;7890010008669;Película 3D Redmi 9C;Películas;Xiaomi;Redmi 9C;3,00;5,90;5;25;17;16
+CAPA-REDMI9C-PRE;7890010008676;Capinha Silicone Redmi 9C Preta;Capinhas;Xiaomi;Redmi 9C;18,00;47,90;5;17;;11
+CAPA-REDMI9C-TRA;;Capinha Silicone Redmi 9C Transparente;Capinhas;Xiaomi;Redmi 9C;8,50;18,90;5;24;16;
+TELA-REDMI10-INC;;Tela Frontal Redmi 10 Incell;Telas;Xiaomi;Redmi 10;78,00;183,90;1;4;1;1
+TELA-REDMI10-OLE;7890010008683;Tela Frontal Redmi 10 OLED;Telas;Xiaomi;Redmi 10;303,00;623,90;3;1;3;0
+TELA-REDMI10-ORI;7890010008690;Tela Frontal Redmi 10 Original;Telas;Xiaomi;Redmi 10;136,00;337,90;3;7;2;0
+BAT-REDMI10;7890010008706;Bateria Redmi 10;Baterias;Xiaomi;Redmi 10;89,90;222,90;1;6;7;1
+CON-REDMI10;7890010008713;Conector de Carga (Flex) Redmi 10;Conectores;Xiaomi;Redmi 10;35,50;72,90;2;;3;
+CAM-REDMI10;7890010008720;Câmera Traseira Redmi 10;Câmeras;Xiaomi;Redmi 10;272,00;513,90;1;8;5;3
+ALT-REDMI10;7890010008737;Alto-falante Redmi 10;Áudio;Xiaomi;Redmi 10;44,00;111,90;1;0;5;3
+TAMPA-REDMI10;7890010008744;Tampa Traseira Redmi 10;Carcaças;Xiaomi;Redmi 10;60,00;137,90;1;3;6;7
+FLEX-REDMI10;;Flex Botão Power/Volume Redmi 10;Flex;Xiaomi;Redmi 10;29,00;62,90;2;2;1;6
+LENTE-REDMI10;7890010008751;Lente da Câmera Redmi 10;Câmeras;Xiaomi;Redmi 10;14,50;27,90;1;4;0;2
+PEL-REDMI10;;Película 3D Redmi 10;Películas;Xiaomi;Redmi 10;3,50;8,90;5;5;6;25
+CAPA-REDMI10-PRE;7890010008768;Capinha Silicone Redmi 10 Preta;Capinhas;Xiaomi;Redmi 10;9,50;22,90;5;;17;16
+CAPA-REDMI10-TRA;7890010008775;Capinha Silicone Redmi 10 Transparente;Capinhas;Xiaomi;Redmi 10;15,00;27,90;5;7;25;24
+TELA-REDMI12-INC;;Tela Frontal Redmi 12 Incell;Telas;Xiaomi;Redmi 12;376,50;695,90;3;;1;1
+TELA-REDMI12-OLE;7890010008782;Tela Frontal Redmi 12 OLED;Telas;Xiaomi;Redmi 12;322,90;821,90;1;4;4;6
+TELA-REDMI12-ORI;7890010008799;Tela Frontal Redmi 12 Original;Telas;Xiaomi;Redmi 12;384,50;975,90;2;2;5;2
+BAT-REDMI12;7890010008805;Bateria Redmi 12;Baterias;Xiaomi;Redmi 12;88,90;200,90;1;3;4;7
+CON-REDMI12;;Conector de Carga (Flex) Redmi 12;Conectores;Xiaomi;Redmi 12;56,00;114,90;1;4;;5
+CAM-REDMI12;7890010008812;Câmera Traseira Redmi 12;Câmeras;Xiaomi;Redmi 12;264,90;683,90;1;1;5;7
+ALT-REDMI12;7890010008829;Alto-falante Redmi 12;Áudio;Xiaomi;Redmi 12;22,50;40,90;2;2;;1
+TAMPA-REDMI12;7890010008836;Tampa Traseira Redmi 12;Carcaças;Xiaomi;Redmi 12;32,90;63,90;1;0;0;6
+FLEX-REDMI12;7890010008843;Flex Botão Power/Volume Redmi 12;Flex;Xiaomi;Redmi 12;17,50;32,90;2;0;4;1
+LENTE-REDMI12;7890010008850;Lente da Câmera Redmi 12;Câmeras;Xiaomi;Redmi 12;6,50;14,90;2;8;;2
+PEL-REDMI12;7890010008867;Película 3D Redmi 12;Películas;Xiaomi;Redmi 12;5,00;10,90;5;9;0;7
+CAPA-REDMI12-PRE;;Capinha Silicone Redmi 12 Preta;Capinhas;Xiaomi;Redmi 12;16,50;33,90;5;25;;6
+CAPA-REDMI12-TRA;7890010008874;Capinha Silicone Redmi 12 Transparente;Capinhas;Xiaomi;Redmi 12;12,50;26,90;5;16;23;5
+TELA-REDMI12C-INC;7890010008881;Tela Frontal Redmi 12C Incell;Telas;Xiaomi;Redmi 12C;229,90;458,90;3;0;1;6
+TELA-REDMI12C-OLE;7890010008898;Tela Frontal Redmi 12C OLED;Telas;Xiaomi;Redmi 12C;152,00;291,90;1;0;1;2
+TELA-REDMI12C-ORI;;Tela Frontal Redmi 12C Original;Telas;Xiaomi;Redmi 12C;214,00;393,90;3;5;2;5
+BAT-REDMI12C;7890010008904;Bateria Redmi 12C;Baterias;Xiaomi;Redmi 12C;133,90;261,90;2;1;2;8
+CON-REDMI12C;7890010008911;Conector de Carga (Flex) Redmi 12C;Conectores;Xiaomi;Redmi 12C;61,50;160,90;3;6;8;1
+CAM-REDMI12C;7890010008928;Câmera Traseira Redmi 12C;Câmeras;Xiaomi;Redmi 12C;137,00;261,90;1;6;4;3
+ALT-REDMI12C;;Alto-falante Redmi 12C;Áudio;Xiaomi;Redmi 12C;25,50;62,90;1;8;1;
+TAMPA-REDMI12C;;Tampa Traseira Redmi 12C;Carcaças;Xiaomi;Redmi 12C;64,50;161,90;1;4;4;6
+FLEX-REDMI12C;7890010008935;Flex Botão Power/Volume Redmi 12C;Flex;Xiaomi;Redmi 12C;25,90;67,90;1;8;2;
+LENTE-REDMI12C;;Lente da Câmera Redmi 12C;Câmeras;Xiaomi;Redmi 12C;8,00;20,90;2;0;;3
+PEL-REDMI12C;7890010008942;Película 3D Redmi 12C;Películas;Xiaomi;Redmi 12C;5,50;12,90;5;7;0;8
+CAPA-REDMI12C-PRE;7890010008959;Capinha Silicone Redmi 12C Preta;Capinhas;Xiaomi;Redmi 12C;8,90;20,90;5;2;5;20
+CAPA-REDMI12C-TRA;7890010008966;Capinha Silicone Redmi 12C Transparente;Capinhas;Xiaomi;Redmi 12C;12,00;26,90;5;20;1;6
+TELA-REDMI13C-INC;7890010008973;Tela Frontal Redmi 13C Incell;Telas;Xiaomi;Redmi 13C;222,00;475,90;1;0;0;6
+TELA-REDMI13C-OLE;;Tela Frontal Redmi 13C OLED;Telas;Xiaomi;Redmi 13C;156,90;392,90;3;0;1;8
+TELA-REDMI13C-ORI;7890010008980;Tela Frontal Redmi 13C Original;Telas;Xiaomi;Redmi 13C;367,00;910,90;2;6;5;7
+BAT-REDMI13C;7890010008997;Bateria Redmi 13C;Baterias;Xiaomi;Redmi 13C;119,00;267,90;3;5;;7
+CON-REDMI13C;7890010009000;Conector de Carga (Flex) Redmi 13C;Conectores;Xiaomi;Redmi 13C;55,50;118,90;2;1;0;7
+CAM-REDMI13C;7890010009017;Câmera Traseira Redmi 13C;Câmeras;Xiaomi;Redmi 13C;314,00;731,90;3;5;7;2
+ALT-REDMI13C;7890010009024;Alto-falante Redmi 13C;Áudio;Xiaomi;Redmi 13C;15,90;36,90;3;2;5;5
+TAMPA-REDMI13C;;Tampa Traseira Redmi 13C;Carcaças;Xiaomi;Redmi 13C;83,90;194,90;2;;5;0
+FLEX-REDMI13C;7890010009031;Flex Botão Power/Volume Redmi 13C;Flex;Xiaomi;Redmi 13C;23,90;48,90;3;0;1;
+LENTE-REDMI13C;7890010009048;Lente da Câmera Redmi 13C;Câmeras;Xiaomi;Redmi 13C;30,00;64,90;2;4;2;6
+PEL-REDMI13C;7890010009055;Película 3D Redmi 13C;Películas;Xiaomi;Redmi 13C;12,00;30,90;5;3;19;3
+CAPA-REDMI13C-PRE;7890010009062;Capinha Silicone Redmi 13C Preta;Capinhas;Xiaomi;Redmi 13C;11,00;26,90;5;24;9;2
+CAPA-REDMI13C-TRA;7890010009079;Capinha Silicone Redmi 13C Transparente;Capinhas;Xiaomi;Redmi 13C;9,00;21,90;5;15;8;8
+TELA-POCOX3-INC;7890010009086;Tela Frontal Poco X3 Incell;Telas;Xiaomi;Poco X3;149,50;380,90;2;;2;1
+TELA-POCOX3-OLE;7890010009093;Tela Frontal Poco X3 OLED;Telas;Xiaomi;Poco X3;294,00;547,90;3;7;3;3
+TELA-POCOX3-ORI;7890010009109;Tela Frontal Poco X3 Original;Telas;Xiaomi;Poco X3;394,90;915,90;3;5;7;2
+BAT-POCOX3;7890010009116;Bateria Poco X3;Baterias;Xiaomi;Poco X3;127,90;281,90;2;7;4;7
+CON-POCOX3;7890010009123;Conector de Carga (Flex) Poco X3;Conectores;Xiaomi;Poco X3;65,90;157,90;3;0;8;2
+CAM-POCOX3;;Câmera Traseira Poco X3;Câmeras;Xiaomi;Poco X3;135,00;281,90;1;0;8;4
+ALT-POCOX3;7890010009130;Alto-falante Poco X3;Áudio;Xiaomi;Poco X3;14,90;33,90;1;2;2;0
+TAMPA-POCOX3;7890010009147;Tampa Traseira Poco X3;Carcaças;Xiaomi;Poco X3;109,50;222,90;3;7;3;
+FLEX-POCOX3;7890010009154;Flex Botão Power/Volume Poco X3;Flex;Xiaomi;Poco X3;21,90;57,90;3;4;4;6
+LENTE-POCOX3;7890010009161;Lente da Câmera Poco X3;Câmeras;Xiaomi;Poco X3;8,50;21,90;1;;2;6
+PEL-POCOX3;7890010009178;Película 3D Poco X3;Películas;Xiaomi;Poco X3;9,00;22,90;5;;15;18
+CAPA-POCOX3-PRE;7890010009185;Capinha Silicone Poco X3 Preta;Capinhas;Xiaomi;Poco X3;15,90;38,90;5;0;17;16
+CAPA-POCOX3-TRA;7890010009192;Capinha Silicone Poco X3 Transparente;Capinhas;Xiaomi;Poco X3;16,90;45,90;5;;;23
+TELA-POCOX4PRO-INC;7890010009208;Tela Frontal Poco X4 Pro Incell;Telas;Xiaomi;Poco X4 Pro;365,50;707,90;1;0;;4
+TELA-POCOX4PRO-OLE;7890010009215;Tela Frontal Poco X4 Pro OLED;Telas;Xiaomi;Poco X4 Pro;385,50;816,90;3;6;3;
+TELA-POCOX4PRO-ORI;7890010009222;Tela Frontal Poco X4 Pro Original;Telas;Xiaomi;Poco X4 Pro;419,50;1009,90;1;;4;
+BAT-POCOX4PRO;7890010009239;Bateria Poco X4 Pro;Baterias;Xiaomi;Poco X4 Pro;111,00;228,90;3;5;5;7
+CON-POCOX4PRO;7890010009246;Conector de Carga (Flex) Poco X4 Pro;Conectores;Xiaomi;Poco X4 Pro;68,00;139,90;2;7;0;7
+CAM-POCOX4PRO;;Câmera Traseira Poco X4 Pro;Câmeras;Xiaomi;Poco X4 Pro;97,00;203,90;1;0;3;
+ALT-POCOX4PRO;7890010009253;Alto-falante Poco X4 Pro;Áudio;Xiaomi;Poco X4 Pro;36,00;79,90;2;;2;7
+TAMPA-POCOX4PRO;;Tampa Traseira Poco X4 Pro;Carcaças;Xiaomi;Poco X4 Pro;46,00;114,90;1;2;7;1
+FLEX-POCOX4PRO;7890010009260;Flex Botão Power/Volume Poco X4 Pro;Flex;Xiaomi;Poco X4 Pro;44,90;104,90;2;6;0;7
+LENTE-POCOX4PRO;;Lente da Câmera Poco X4 Pro;Câmeras;Xiaomi;Poco X4 Pro;25,50;50,90;1;2;4;5
+PEL-POCOX4PRO;7890010009277;Película 3D Poco X4 Pro;Películas;Xiaomi;Poco X4 Pro;12,00;31,90;5;19;17;6
+CAPA-POCOX4PRO-PRE;7890010009284;Capinha Silicone Poco X4 Pro Preta;Capinhas;Xiaomi;Poco X4 Pro;14,90;38,90;5;0;17;6
+CAPA-POCOX4PRO-TRA;7890010009291;Capinha Silicone Poco X4 Pro Transparente;Capinhas;Xiaomi;Poco X4 Pro;9,50;24,90;5;8;24;21
+TELA-POCOX5-INC;7890010009307;Tela Frontal Poco X5 Incell;Telas;Xiaomi;Poco X5;171,00;449,90;3;3;1;2
+TELA-POCOX5-OLE;7890010009314;Tela Frontal Poco X5 OLED;Telas;Xiaomi;Poco X5;359,00;810,90;1;5;1;8
+TELA-POCOX5-ORI;7890010009321;Tela Frontal Poco X5 Original;Telas;Xiaomi;Poco X5;153,90;329,90;1;2;;0
+BAT-POCOX5;7890010009338;Bateria Poco X5;Baterias;Xiaomi;Poco X5;38,00;79,90;1;5;0;4
+CON-POCOX5;7890010009345;Conector de Carga (Flex) Poco X5;Conectores;Xiaomi;Poco X5;67,90;173,90;2;3;8;3
+CAM-POCOX5;7890010009352;Câmera Traseira Poco X5;Câmeras;Xiaomi;Poco X5;300,90;643,90;1;;6;8
+ALT-POCOX5;7890010009369;Alto-falante Poco X5;Áudio;Xiaomi;Poco X5;42,50;106,90;2;4;3;8
+TAMPA-POCOX5;7890010009376;Tampa Traseira Poco X5;Carcaças;Xiaomi;Poco X5;61,90;143,90;2;;8;2
+FLEX-POCOX5;7890010009383;Flex Botão Power/Volume Poco X5;Flex;Xiaomi;Poco X5;52,90;136,90;3;0;1;0
+LENTE-POCOX5;7890010009390;Lente da Câmera Poco X5;Câmeras;Xiaomi;Poco X5;9,00;23,90;2;2;4;3
+PEL-POCOX5;;Película 3D Poco X5;Películas;Xiaomi;Poco X5;11,90;31,90;5;6;;23
+CAPA-POCOX5-PRE;7890010009406;Capinha Silicone Poco X5 Preta;Capinhas;Xiaomi;Poco X5;18,90;40,90;5;21;17;0
+CAPA-POCOX5-TRA;7890010009413;Capinha Silicone Poco X5 Transparente;Capinhas;Xiaomi;Poco X5;6,00;10,90;5;4;11;11
+TELA-POCOM3-INC;7890010009420;Tela Frontal Poco M3 Incell;Telas;Xiaomi;Poco M3;149,50;377,90;3;4;8;5
+TELA-POCOM3-OLE;7890010009437;Tela Frontal Poco M3 OLED;Telas;Xiaomi;Poco M3;227,90;429,90;2;7;6;3
+TELA-POCOM3-ORI;;Tela Frontal Poco M3 Original;Telas;Xiaomi;Poco M3;256,50;584,90;1;5;;4
+BAT-POCOM3;;Bateria Poco M3;Baterias;Xiaomi;Poco M3;126,00;256,90;2;2;;3
+CON-POCOM3;;Conector de Carga (Flex) Poco M3;Conectores;Xiaomi;Poco M3;54,50;146,90;3;2;7;8
+CAM-POCOM3;7890010009444;Câmera Traseira Poco M3;Câmeras;Xiaomi;Poco M3;309,50;614,90;1;7;7;2
+ALT-POCOM3;7890010009451;Alto-falante Poco M3;Áudio;Xiaomi;Poco M3;29,50;55,90;3;5;2;
+TAMPA-POCOM3;;Tampa Traseira Poco M3;Carcaças;Xiaomi;Poco M3;21,00;46,90;2;8;2;
+FLEX-POCOM3;7890010009468;Flex Botão Power/Volume Poco M3;Flex;Xiaomi;Poco M3;35,00;82,90;2;6;1;8
+LENTE-POCOM3;7890010009475;Lente da Câmera Poco M3;Câmeras;Xiaomi;Poco M3;7,90;17,90;3;8;4;2
+PEL-POCOM3;7890010009482;Película 3D Poco M3;Películas;Xiaomi;Poco M3;6,90;15,90;5;3;3;13
+CAPA-POCOM3-PRE;7890010009499;Capinha Silicone Poco M3 Preta;Capinhas;Xiaomi;Poco M3;13,90;31,90;5;17;5;25
+CAPA-POCOM3-TRA;7890010009505;Capinha Silicone Poco M3 Transparente;Capinhas;Xiaomi;Poco M3;9,90;18,90;5;2;5;2
+TELA-POCOM4PRO-INC;7890010009512;Tela Frontal Poco M4 Pro Incell;Telas;Xiaomi;Poco M4 Pro;169,90;311,90;1;1;5;4
+TELA-POCOM4PRO-OLE;7890010009529;Tela Frontal Poco M4 Pro OLED;Telas;Xiaomi;Poco M4 Pro;137,50;300,90;3;0;5;7
+TELA-POCOM4PRO-ORI;7890010009536;Tela Frontal Poco M4 Pro Original;Telas;Xiaomi;Poco M4 Pro;408,90;816,90;2;0;1;1
+BAT-POCOM4PRO;7890010009543;Bateria Poco M4 Pro;Baterias;Xiaomi;Poco M4 Pro;146,90;316,90;2;2;0;
+CON-POCOM4PRO;7890010009550;Conector de Carga (Flex) Poco M4 Pro;Conectores;Xiaomi;Poco M4 Pro;58,50;106,90;2;;1;1
+CAM-POCOM4PRO;;Câmera Traseira Poco M4 Pro;Câmeras;Xiaomi;Poco M4 Pro;245,00;659,90;1;3;7;5
+ALT-POCOM4PRO;7890010009567;Alto-falante Poco M4 Pro;Áudio;Xiaomi;Poco M4 Pro;39,50;96,90;2;4;2;2
+TAMPA-POCOM4PRO;7890010009574;Tampa Traseira Poco M4 Pro;Carcaças;Xiaomi;Poco M4 Pro;15,00;38,90;3;0;8;6
+FLEX-POCOM4PRO;7890010009581;Flex Botão Power/Volume Poco M4 Pro;Flex;Xiaomi;Poco M4 Pro;38,90;90,90;2;2;;5
+LENTE-POCOM4PRO;7890010009598;Lente da Câmera Poco M4 Pro;Câmeras;Xiaomi;Poco M4 Pro;29,50;65,90;1;7;5;
+PEL-POCOM4PRO;7890010009604;Película 3D Poco M4 Pro;Películas;Xiaomi;Poco M4 Pro;4,50;8,90;5;18;15;3
+CAPA-POCOM4PRO-PRE;7890010009611;Capinha Silicone Poco M4 Pro Preta;Capinhas;Xiaomi;Poco M4 Pro;11,00;22,90;5;;9;1
+CAPA-POCOM4PRO-TRA;7890010009628;Capinha Silicone Poco M4 Pro Transparente;Capinhas;Xiaomi;Poco M4 Pro;9,00;21,90;5;3;21;15
+TELA-MI11LITE-INC;7890010009635;Tela Frontal Mi 11 Lite Incell;Telas;Xiaomi;Mi 11 Lite;400,00;730,90;1;1;6;
+TELA-MI11LITE-OLE;7890010009642;Tela Frontal Mi 11 Lite OLED;Telas;Xiaomi;Mi 11 Lite;117,90;262,90;3;7;6;8
+TELA-MI11LITE-ORI;;Tela Frontal Mi 11 Lite Original;Telas;Xiaomi;Mi 11 Lite;216,50;507,90;3;3;4;3
+BAT-MI11LITE;;Bateria Mi 11 Lite;Baterias;Xiaomi;Mi 11 Lite;44,90;96,90;2;0;5;0
+CON-MI11LITE;7890010009659;Conector de Carga (Flex) Mi 11 Lite;Conectores;Xiaomi;Mi 11 Lite;23,90;52,90;2;4;5;5
+CAM-MI11LITE;7890010009666;Câmera Traseira Mi 11 Lite;Câmeras;Xiaomi;Mi 11 Lite;60,00;139,90;2;1;0;0
+ALT-MI11LITE;7890010009673;Alto-falante Mi 11 Lite;Áudio;Xiaomi;Mi 11 Lite;39,00;89,90;2;1;6;2
+TAMPA-MI11LITE;7890010009680;Tampa Traseira Mi 11 Lite;Carcaças;Xiaomi;Mi 11 Lite;39,00;93,90;2;4;2;6
+FLEX-MI11LITE;;Flex Botão Power/Volume Mi 11 Lite;Flex;Xiaomi;Mi 11 Lite;18,00;36,90;3;6;8;5
+LENTE-MI11LITE;7890010009697;Lente da Câmera Mi 11 Lite;Câmeras;Xiaomi;Mi 11 Lite;29,50;55,90;2;0;2;8
+PEL-MI11LITE;7890010009703;Película 3D Mi 11 Lite;Películas;Xiaomi;Mi 11 Lite;6,50;15,90;5;;0;4
+CAPA-MI11LITE-PRE;;Capinha Silicone Mi 11 Lite Preta;Capinhas;Xiaomi;Mi 11 Lite;13,50;30,90;5;22;21;21
+CAPA-MI11LITE-TRA;7890010009710;Capinha Silicone Mi 11 Lite Transparente;Capinhas;Xiaomi;Mi 11 Lite;17,00;41,90;5;18;;17
+CARR-20W-USBC;;Carregador Turbo 20W USB-C;Carregadores;Genérico;;25,00;50,90;5;3;6;0
+CARR-25W-SAM;;Carregador Samsung 25W Super Fast;Carregadores;Samsung;;55,00;110,90;5;24;23;1
+CARR-33W-XIA;7890010009727;Carregador Xiaomi 33W;Carregadores;Xiaomi;;48,00;96,90;5;16;23;4
+CARR-VEIC-DUO;7890010009734;Carregador Veicular Duplo USB;Carregadores;Genérico;;14,00;28,90;5;9;11;1
+CABO-LIGHT-1M;7890010009741;Cabo Lightning 1m;Cabos;Genérico;;9,00;18,90;5;21;6;25
+CABO-LIGHT-2M;7890010009758;Cabo Lightning 2m;Cabos;Genérico;;13,00;26,90;5;25;20;8
+CABO-USBC-1M;7890010009765;Cabo USB-C 1m;Cabos;Genérico;;8,00;16,90;5;4;23;
+CABO-USBC-2M;;Cabo USB-C 2m;Cabos;Genérico;;11,00;22,90;5;24;0;5
+CABO-C-C-1M;7890010009772;Cabo USB-C para USB-C 1m;Cabos;Genérico;;12,00;24,90;5;23;1;4
+CABO-MICRO-1M;7890010009789;Cabo Micro USB 1m;Cabos;Genérico;;6,00;12,90;5;15;9;25
+FONE-P2-BAS;;Fone de Ouvido P2 Básico;Áudio;Genérico;;7,00;14,90;5;0;8;2
+FONE-BT-TWS;7890010009796;Fone Bluetooth TWS;Áudio;Genérico;;38,00;76,90;5;17;;22
+SUP-VEIC-MAG;7890010009802;Suporte Veicular Magnético;Acessórios;Genérico;;12,00;24,90;5;12;;
+PB-10000;7890010009819;Power Bank 10.000mAh;Carregadores;Genérico;;52,00;104,90;5;22;8;12
+PB-20000;7890010009826;Power Bank 20.000mAh;Carregadores;Genérico;;85,00;170,90;5;8;15;4
+CART-SD-64;7890010009833;Cartão de Memória 64GB;Armazenamento;SanDisk;;32,00;64,90;5;3;24;18
+CART-SD-128;7890010009840;Cartão de Memória 128GB;Armazenamento;SanDisk;;55,00;110,90;5;;19;22
+PEN-32;;Pen Drive 32GB;Armazenamento;SanDisk;;22,00;44,90;5;;10;13
