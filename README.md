@@ -53,6 +53,20 @@ npm run dev
 
 **Produção:** `npm run build` gera `apps/api/dist` (bundle Node ESM: `server.js`, `migrate.js`, `seed.js`, `import-products.js`) e `apps/web/dist` (estático — sirva atrás do mesmo domínio com `/api` apontando para a API).
 
+### Portas e conflito com outros projetos
+
+| Serviço | Porta padrão | Como trocar |
+|---|---|---|
+| Painel (Vite) | 5173 | `WEB_PORT=5174` em `apps/web/.env` (modelo: `apps/web/.env.example`) |
+| API | 3333 | `PORT=3334` em `apps/api/.env` — o painel lê esse mesmo arquivo e acompanha sozinho |
+| PostgreSQL (Docker) | 5432 | `DB_PORT=5433 docker compose up -d` **e** a mesma porta no `DATABASE_URL` de `apps/api/.env` |
+
+Se `localhost` abrir **outro projeto**, alguma dessas portas já está ocupada na sua máquina. Em vez de trocar de porta em silêncio, o sistema recusa subir e diz qual porta está em uso (`Port 5173 is already in use` / `A porta 3333 já está em uso`). Encerre o outro projeto ou troque a porta conforme a tabela e rode `npm run dev` de novo.
+
+Se a página continuar mostrando o outro projeto mesmo na porta certa, o navegador está usando cache ou service worker daquele projeto. Recarregue com `Ctrl+Shift+R` ou limpe os dados do site em DevTools → Application → Clear site data.
+
+Problemas de banco na primeira instalação aparecem na tela de login com a ação a tomar, como "Verifique se o PostgreSQL está rodando" ou "rode npm run db:migrate", em vez de "erro interno".
+
 ## Usuários de demonstração
 
 Senha de todos: **`Senha@123`**

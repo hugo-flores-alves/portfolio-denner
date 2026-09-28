@@ -10,21 +10,39 @@ interface PgError {
   detail?: string;
 }
 
-/** O Drizzle embrulha erros do driver; procuramos o erro original do Postgres. */
-function findPgError(err: unknown): PgError | null {
+/** Erro original + causas (o Drizzle embrulha o erro do driver; o Node agrega falhas IPv4/IPv6). */
+function errorChain(err: unknown): Array<{ code?: unknown; constraint?: string; detail?: string }> {
+  const chain: Array<{ code?: unknown; constraint?: string }> = [];
   let current: unknown = err;
-  for (let depth = 0; current && depth < 5; depth++) {
-    if (
-      typeof current === 'object' &&
-      'code' in current &&
-      typeof (current as PgError).code === 'string' &&
-      /^[0-9A-Z]{5}$/.test((current as PgError).code)
-    ) {
-      return current as PgError;
-    }
-    current = (current as { cause?: unknown }).cause;
+  for (let depth = 0; current && typeof current === 'object' && depth < 6; depth++) {
+    chain.push(current as { code?: unknown });
+    const { cause, errors } = current as { cause?: unknown; errors?: unknown[] };
+    current = cause ?? errors?.[0];
   }
-  return null;
+  return chain;
+}
+
+function findPgError(err: unknown): PgError | null {
+  const found = errorChain(err).find((e) => typeof e.code === 'string' && /^[0-9A-Z]{5}$/.test(e.code));
+  return (found as PgError | undefined) ?? null;
+}
+
+const DB_HINT = 'confira o DATABASE_URL em apps/api/.env';
+/** Problemas típicos de instalação: respondem 503 com a ação a tomar, não "erro interno". */
+const SETUP_ERRORS: Record<string, string> = {
+  ECONNREFUSED: `Não foi possível conectar ao banco de dados. Verifique se o PostgreSQL está rodando (docker compose up -d) e ${DB_HINT}.`,
+  ENOTFOUND: `Servidor do banco de dados não encontrado — ${DB_HINT}.`,
+  ETIMEDOUT: `Tempo esgotado ao conectar no banco de dados — ${DB_HINT}.`,
+  '28P01': `Usuário ou senha do banco de dados inválidos — ${DB_HINT}.`,
+  '3D000': `O banco informado no DATABASE_URL não existe — crie-o ou rode docker compose up -d.`,
+  '42P01': 'Tabelas do sistema não encontradas — rode npm run db:migrate e depois npm run db:seed.',
+};
+
+function findSetupError(err: unknown): string | null {
+  const code = errorChain(err)
+    .map((e) => e.code)
+    .find((c): c is string => typeof c === 'string' && c in SETUP_ERRORS);
+  return code ?? null;
 }
 
 const UNIQUE_MESSAGES: Record<string, string> = {
@@ -64,6 +82,12 @@ export const errorHandler: ErrorRequestHandler = (err, req, res, _next) => {
   }
   if ((err as { type?: string })?.type === 'entity.parse.failed') {
     return send(res, 400, 'INVALID_JSON', 'JSON malformado no corpo da requisição');
+  }
+
+  const setup = findSetupError(err);
+  if (setup) {
+    logger.error({ code: setup, path: req.path }, SETUP_ERRORS[setup]);
+    return send(res, 503, 'SERVICE_UNAVAILABLE', SETUP_ERRORS[setup]!);
   }
 
   const pg = findPgError(err);

@@ -3,7 +3,17 @@ import { closeDb } from './db/client';
 import { logger } from './lib/logger';
 import { createApp } from './app';
 
-const server = createApp().listen(env.PORT, () => {
+// No Express 5 o callback do listen recebe também o erro de inicialização
+const server = createApp().listen(env.PORT, (err?: NodeJS.ErrnoException) => {
+  if (err) {
+    logger.fatal(
+      err.code === 'EADDRINUSE'
+        ? `A porta ${env.PORT} já está em uso por outro programa. Encerre-o ou defina outra porta em apps/api/.env ` +
+            '(ex.: PORT=3334) — o painel acompanha automaticamente.'
+        : `Falha ao iniciar o servidor HTTP: ${err.message}`,
+    );
+    process.exit(1);
+  }
   logger.info(`API ouvindo em http://localhost:${env.PORT}`);
 });
 
