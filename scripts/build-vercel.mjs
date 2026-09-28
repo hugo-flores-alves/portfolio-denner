@@ -46,6 +46,8 @@ writeFileSync(
       shouldAddHelpers: false,
       shouldAddSourcemapSupport: true,
       maxDuration: 60,
+      // Garante o modo produção na função, independente das variáveis do projeto
+      environment: { NODE_ENV: 'production' },
       // São Paulo, perto do banco (Supabase sa-east-1)
       regions: ['gru1'],
     },

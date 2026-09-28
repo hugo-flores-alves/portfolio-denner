@@ -29,7 +29,10 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
+      # Mesma instalação do Vercel: NODE_ENV=production não pode pular as ferramentas de build
+      - run: npm ci --include=dev
+        env:
+          NODE_ENV: production
       - run: npm run typecheck
       - run: npm test
       - run: npm run build

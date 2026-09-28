@@ -77,7 +77,7 @@ O deploy de produção usa a **Build Output API** do Vercel (`npm run build:verc
 | `.vercel/output/functions/api.func` | API Express empacotada num arquivo (região `gru1`, São Paulo) |
 | `.vercel/output/config.json` | `/api/*` → função; demais rotas → `index.html` |
 
-O projeto Vercel fica ligado ao GitHub: **todo merge na `main` publica automaticamente**.
+O projeto Vercel fica ligado ao GitHub: **todo merge na `main` publica automaticamente**. A instalação usa `npm ci --include=dev`, porque com `NODE_ENV=production` o npm pularia as ferramentas de build.
 
 Variáveis de ambiente no Vercel:
 
