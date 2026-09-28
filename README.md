@@ -67,6 +67,34 @@ Se a página continuar mostrando o outro projeto mesmo na porta certa, o navegad
 
 Problemas de banco na primeira instalação aparecem na tela de login com a ação a tomar, como "Verifique se o PostgreSQL está rodando" ou "rode npm run db:migrate", em vez de "erro interno".
 
+### Publicação (Vercel + Supabase)
+
+O deploy de produção usa a **Build Output API** do Vercel (`npm run build:vercel` → `scripts/build-vercel.mjs`):
+
+| Saída | Conteúdo |
+|---|---|
+| `.vercel/output/static` | painel React |
+| `.vercel/output/functions/api.func` | API Express empacotada num arquivo (região `gru1`, São Paulo) |
+| `.vercel/output/config.json` | `/api/*` → função; demais rotas → `index.html` |
+
+O projeto Vercel fica ligado ao GitHub: **todo merge na `main` publica automaticamente**.
+
+Variáveis de ambiente no Vercel:
+
+| Variável | Valor |
+|---|---|
+| `DATABASE_URL` | pooler do Supabase em modo transação (porta 6543), com o usuário `erp_app.<ref>` e `?sslmode=no-verify` |
+| `JWT_SECRET` | valor aleatório longo |
+| `NODE_ENV` | `production` |
+| `DB_POOL_MAX` | `3` (poucas conexões por instância; o pooler multiplexa) |
+| `IMPORT_MAX_FILE_MB` | `4` (limite de corpo das funções do Vercel: 4,5 MB) |
+
+**Banco:** o schema é aplicado a partir de `apps/api/drizzle/`. A aplicação conecta com um usuário próprio (`erp_app`) que só tem permissão de leitura e escrita nas tabelas do ERP. Os papéis `anon` e `authenticated` do Supabase ficam sem acesso às tabelas, e a RLS fica ligada, então a API REST automática do Supabase não expõe os dados. Produção começa sem dados de demonstração: lojas, cargos e um Administrador.
+
+Pendências para quando sair do piloto:
+- Planos pagos: Vercel Pro para uso comercial e Supabase Pro para backup diário.
+- Validar o certificado do banco (`sslmode=verify-full` com a CA do Supabase).
+
 ## Usuários de demonstração
 
 Senha de todos: **`Senha@123`**
